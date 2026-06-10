@@ -1,0 +1,59 @@
+name: Atualiza feed OLX (2x ao dia)
+
+on:
+  schedule:
+    # Horários em UTC. Brasília = UTC-3:
+    # 08:00 UTC = 05:00 em Brasília | 20:00 UTC = 17:00 em Brasília
+    - cron: '0 8 * * *'
+    - cron: '0 20 * * *'
+  workflow_dispatch: {}   # permite rodar manualmente pelo botão "Run workflow"
+
+permissions:
+  contents: write   # necessário para o robô salvar o feed atualizado
+
+concurrency:
+  group: atualiza-feed
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixa o repositório
+        uses: actions/checkout@v4
+
+      - name: Prepara o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Baixa o feed original do Vista
+        env:
+          VISTA_URL: ${{ secrets.VISTA_FEED_URL }}
+        run: |
+          if [ -z "$VISTA_URL" ]; then
+            echo "ERRO: o secret VISTA_FEED_URL não está configurado."
+            echo "Vá em Settings > Secrets and variables > Actions e crie-o."
+            exit 1
+          fi
+          curl -fsSL --retry 3 --retry-delay 30 --max-time 1200 \
+            -A "Mozilla/5.0 (compatible; LoboFeedBot/1.0)" \
+            -o feed_original.xml "$VISTA_URL"
+          test -s feed_original.xml || { echo "ERRO: download veio vazio."; exit 1; }
+          echo "Download concluído: $(du -h feed_original.xml | cut -f1)"
+
+      - name: Corrige e valida o feed
+        run: python3 corrige_feed.py feed_original.xml feed-hugo.xml
+
+      - name: Publica (só se houver mudança)
+        run: |
+          git config user.name "robo-feed"
+          git config user.email "actions@users.noreply.github.com"
+          git add feed-hugo.xml
+          if git diff --cached --quiet; then
+            echo "Feed sem mudanças desde a última rodada. Nada a publicar."
+          else
+            git commit -m "Atualiza feed corrigido ($(date -u +'%d/%m/%Y %H:%M UTC'))"
+            git push
+            echo "Feed novo publicado. O GitHub Pages atualiza a URL em 1-2 minutos."
+          fi
