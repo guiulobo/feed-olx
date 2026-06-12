@@ -1,4 +1,4 @@
-name: Atualiza feed OLX (2x ao dia)
+name: Atualiza feeds OLX (2x ao dia)
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
   workflow_dispatch: {}   # permite rodar manualmente pelo botão "Run workflow"
 
 permissions:
-  contents: write   # necessário para o robô salvar o feed atualizado
+  contents: write          # necessário para o robô salvar os feeds atualizados
 
 concurrency:
   group: atualiza-feed
@@ -27,33 +27,48 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Baixa o feed original do Vista
+      - name: Feed HUGO - baixa o original do Vista
         env:
           VISTA_URL: ${{ secrets.VISTA_FEED_URL }}
         run: |
           if [ -z "$VISTA_URL" ]; then
             echo "ERRO: o secret VISTA_FEED_URL não está configurado."
-            echo "Vá em Settings > Secrets and variables > Actions e crie-o."
             exit 1
           fi
           curl -fsSL --retry 3 --retry-delay 30 --max-time 1200 \
             -A "Mozilla/5.0 (compatible; LoboFeedBot/1.0)" \
             -o feed_original.xml "$VISTA_URL"
           test -s feed_original.xml || { echo "ERRO: download veio vazio."; exit 1; }
-          echo "Download concluído: $(du -h feed_original.xml | cut -f1)"
+          echo "Download Hugo concluído: $(du -h feed_original.xml | cut -f1)"
 
-      - name: Corrige e valida o feed
+      - name: Feed HUGO - corrige, aplica destaques e valida
         run: python3 corrige_feed.py feed_original.xml feed-hugo.xml
+
+      - name: Feed LOBO - baixa, corrige e valida (se configurado)
+        env:
+          VISTA_URL_LOBO: ${{ secrets.VISTA_FEED_URL_LOBO }}
+        run: |
+          if [ -z "$VISTA_URL_LOBO" ]; then
+            echo "Secret VISTA_FEED_URL_LOBO ainda não configurado - pulando o feed do Lobo por enquanto."
+            exit 0
+          fi
+          curl -fsSL --retry 3 --retry-delay 30 --max-time 1200 \
+            -A "Mozilla/5.0 (compatible; LoboFeedBot/1.0)" \
+            -o feed_original_lobo.xml "$VISTA_URL_LOBO"
+          test -s feed_original_lobo.xml || { echo "ERRO: download do Lobo veio vazio."; exit 1; }
+          echo "Download Lobo concluído: $(du -h feed_original_lobo.xml | cut -f1)"
+          python3 corrige_feed.py feed_original_lobo.xml feed-lobo.xml
 
       - name: Publica (só se houver mudança)
         run: |
           git config user.name "robo-feed"
           git config user.email "actions@users.noreply.github.com"
           git add feed-hugo.xml
+          [ -f feed-lobo.xml ] && git add feed-lobo.xml
           if git diff --cached --quiet; then
-            echo "Feed sem mudanças desde a última rodada. Nada a publicar."
+            echo "Feeds sem mudanças desde a última rodada. Nada a publicar."
           else
-            git commit -m "Atualiza feed corrigido ($(date -u +'%d/%m/%Y %H:%M UTC'))"
+            git commit -m "Atualiza feeds corrigidos ($(date -u +'%d/%m/%Y %H:%M UTC'))"
             git push
-            echo "Feed novo publicado. O GitHub Pages atualiza a URL em 1-2 minutos."
+            echo "Feeds publicados. O GitHub Pages atualiza as URLs em 1-2 minutos."
           fi
