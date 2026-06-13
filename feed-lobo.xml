@@ -604,7 +604,7 @@ Agende sua visita e conheça este excelente apartamento que reúne conforto, laz
         <PostalCode>74453-330</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 58m² 2 Quartos 1 Suíte 2 Vagas de Garagem Nascente Residencial Livre Ipiranga Bairro]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5513/ic8i9q_55136a29c69b30cee.jpg</Item>
@@ -684,7 +684,7 @@ Uma excelente oportunidade para morar ou investir em uma região valorizada, com
         <PostalCode>74453-330</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 58m² Mobiliado 2 Quartos 1 Suíte  2 Vagas de Garagem Nascente Residencial Livre]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5512/iBYq73Kq7i9126U92U69_55126a29c7aabf8ff.jpg</Item>
@@ -1254,7 +1254,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>18</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado comercial Rua C-124 , 734,00 m², Jardim América, Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5498/idy5qv2f9_54986a14535eba262.jpg</Item>
@@ -1319,7 +1319,7 @@ Entre em contato e agende sua visita.]]></Description>
         <PostalCode>74943-510</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 87m² 2 Quartos 1 Suíte Jardim Buriti Sereno Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5497/ig3V57o1i_54976a2807e61a1d2.jpg</Item>
@@ -1392,7 +1392,7 @@ Agende a sua visita e conheça este excelente imóvel.]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>400</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 117m² 3 Quartos Suítes Residencial Vitoria Régia Setor Bueno Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5496/iXv54Zh2P63_54966a105917157df.jpg</Item>
@@ -1727,7 +1727,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>SN</StreetNumber>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Studio 1 Quarto, 1 Suíte. 45,73 m² para venda, Setor Bueno, Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5491/i1R37_54916a0af8acc0298.jpg</Item>
@@ -1798,7 +1798,7 @@ Agende a sua visita e venha conhecer este excelente imóvel.]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>47</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 185m² 3 Suítes Área Gourmet Residencial Ilha Bela Parque Amazônia Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5490/iv7y7b_54906a077b22ebb46.jpg</Item>
@@ -1863,7 +1863,7 @@ Lote escriturado e quitado.]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>sn</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Lote Terreno 378,00m² Jardim Brasil Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5489/in0q2g_54896a077a0ae3648.jpg</Item>
@@ -2116,7 +2116,7 @@ Uma ótima oportunidade para quem deseja morar bem em uma localização estraté
         <PostalCode>74371-495</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 180m² 3 Quartos 1 Suíte Área Gourmet Moinho dos Ventos Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5481/im3c8q_54816a06052a81e12.jpg</Item>
@@ -2259,7 +2259,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>254</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 2 Quartos, 56,00 m² para locação, Jardim Goiás, Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5479/i872Iigk743z8E8op3_54796a05d26808572.jpg</Item>
@@ -2544,7 +2544,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>1340</StreetNumber>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 2 Quartos, 2 Suítes, 72,60 m² para venda, Setor Bueno, Goiânia.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b23dee110.jpg</Item>
@@ -2622,7 +2622,7 @@ Agende a sua visita e venha conhecer este excelente apartamento no Alto Bueno.]]
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>21</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 151m² 3 Quartos 3 Suítes Churrasqueira Hidromassagem Edifício Sky Life Setor Serrinha]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5472/i8Y9ZL82F_54726a04d41cbd2cf.jpg</Item>
@@ -2935,7 +2935,7 @@ Excelente oportunidade para morar ou investir em um imóvel completo, mobiliado 
         <PostalCode>74914-465</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 65m² Mobiliado 3 Quartos 1 Suíte Residencial Fit Maria Inês Jardim Maria Inês Aparecida]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5450/im5j8b_545069fdd189aaa6c.jpg</Item>
@@ -3021,7 +3021,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>260</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 2 Quartos, 1 Suítes, 66,00 m² para locação, Vila Rosa, Goiânia.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5445/iRaB54qc19Re4c53_54456a0464b15074b.jpg</Item>
@@ -3111,7 +3111,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>535</StreetNumber>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 3 Quartos, 3 Suítes, 112,92 m² para venda, Setor Bueno, Goiânia.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5444/iP8U1xZtr9Vj1_544469fc85ea44c72.jpg</Item>
@@ -3180,7 +3180,7 @@ Localizado em ponto estratégico, na Avenida T-3, abaixo da Av. T-8 e em frente 
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>1069</StreetNumber>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 89m² 03 Quartos 1 suíte Residencial Maanaim Setor Bueno Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5438/if5b3f_543869fb8116ad301.jpg</Item>
@@ -3331,7 +3331,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>SN</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Loft 1 Quarto, 1 Suíte, 64,00 m² para locação, Jardim Goiás, Goiânia.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5434/ie4H1318_543469f89cec608df.jpg</Item>
@@ -3647,7 +3647,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74595-305</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa, 3 Quartos, 3 Suítes para venda, Residencial Italia, Goiânia.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5425/i19vZ6vKu19W7og_542569eb73bf2f9d4.jpg</Item>
@@ -3723,7 +3723,7 @@ Agende sua visita e venha conhecer seu novo lar.]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>804</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 77m² 2 Quartos 1 Suíte Tai Residências Setor Bueno Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5424/is9z5e_542469eb6fa05cb1c.jpg</Item>
@@ -3805,7 +3805,7 @@ Agende sua visita e venha conhecer essa excelente oportunidade.
         <PostalCode>74270-250</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa Lote 438,00m² 5 Quartos 3 Suítes Jardim américa Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5423/ia8o0f_542369eb6f6614d25.jpg</Item>
@@ -3899,7 +3899,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>82</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 2 Quartos, 2 Suítes para locação, Setor Central.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5421/i84tD5B3UdRSc8z_542169fddfe1d95e5.jpg</Item>
@@ -3959,7 +3959,7 @@ Agende sua visita e venha conhecer de perto essa excelente oportunidade!]]></Des
         <PostalCode>74771-026</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIERE_1</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 97,43m² 2 Quartos 1 Suíte Residencial Lucy Pinheiro Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a3a506c1.jpg</Item>
@@ -4005,7 +4005,7 @@ Excelente localização, próximo a UBS do Bairro Cardoso.]]></Description>
         <PostalCode>74934-590</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Lote 420m² Bairro Cardoso Continuação Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5417/il2q0s_541769e67a2f710f1.jpg</Item>
@@ -4051,7 +4051,7 @@ Situada em uma excelente localização, próxima ao Country Clube de Goiás, a c
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>1221</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 74m² 3 Quartos 1 Suíte Condomínio Village Paineiras Chácara São Pedro Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679d383b51.jpg</Item>
@@ -4275,7 +4275,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>130</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 2 Quartos, 1 Suíte, 69,00 m² para locação, Setor Oeste, Goiânia.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5406/iM42z9D4zd5Mf_540669e0eccbc16f4.jpg</Item>
@@ -4468,7 +4468,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>1200</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Flat 1 Quarto, 43,58 m² para venda, Setor Marista, Goiânia.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5400/ip5n6v_540069d908ccce5a0.jpg</Item>
@@ -4600,7 +4600,7 @@ Uma excelente escolha para quem deseja investir em um espaço pronto para gerar 
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>17</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Área Chácara para Eventos 2.047,00m² 02 Espaços de Festa Setor Vila Romana Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5379/ix1u5p_537969d4101eab33c.jpg</Item>
@@ -5045,7 +5045,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>315</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sala comercial Av. Goiás, 1.538,92 m², Setor Central Próximo a Praça Cívica no inicio da Av Goiás]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5364/iUbbRsnFpV_536469ce8291a1652.jpg</Item>
@@ -5391,7 +5391,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>N 2515</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sala Comercial, Rua T-30, 44,67 m², Setor Bueno, Goiânia.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5353/ij7a2u_535369b9aeaaee5dd.jpg</Item>
@@ -5624,7 +5624,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74968-565</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Área 3.380,60m², Residencial Solar Central Park, para venda, Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5348/iq9c8x_534869b30c8667fe0.jpg</Item>
@@ -7845,7 +7845,7 @@ Detalhes do imóvel:
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>918</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 4 Quartos, 2 Suítes, 330,00 m² para locação, Setor Marista, Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5298/in0o1f_529869a73c499e579.jpg</Item>
@@ -7921,7 +7921,7 @@ Não perca essa oportunidade! Agende sua visita e venha conhecer seu novo lar.]]
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>2080</StreetNumber>
       </Location>
-      <PublicationType>PREMIERE_1</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 90,00m² 3 Quartos 01 Suíte Edifício Ivana Setor Bueno Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5290/iw1f4h_5290699e027605410.jpg</Item>
@@ -7989,7 +7989,7 @@ Um apartamento bem localizado, com excelente vista, lazer completo e pronto para
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>sn</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 65m² 3 Quartos, sendo 1 Suíte Residencial Yes Buriti Conjunto Cruzeiro do Sul Aparecida]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5289/ig2p1c_5289699dfd7fab172.jpg</Item>
@@ -8045,7 +8045,7 @@ Uma casa completa, confortável e pronta para morar. Entre em contato e agende s
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>sn</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 224,00m² 03 Quartos Residencial Solar Central Park Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5288/iq5z2s_5288699df6a1d517b.jpg</Item>
@@ -8115,7 +8115,7 @@ Entre em contato para mais informações!]]></Description>
         <PostalCode>74921-520</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Área 12.917,50m² Sítios Santa Luzia Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5285/iu75645n38ADrx74tx573_52856a2c170c5920f.jpg</Item>
@@ -8603,7 +8603,7 @@ Localizado no Edifício Itapuã, no Setor Marista, é uma excelente oportunidade
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>790</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 114m² 3 Quartos 1 Suíte Armários Edifício Itapuã Setor Marista Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5220/io6s3l_5220698e19c37bbb1.jpg</Item>
@@ -8767,7 +8767,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74580-400</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Lote 360m² Murado Setor Perim Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5213/iz7w8g_5213698b8b29b0706.jpg</Item>
@@ -8896,7 +8896,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74215-030</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 3 Quartos, 3 Suítes, 188,00 m² para venda, Setor Bueno, Goiânia.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5209/i9mcy8953z2U533_520969a1d66d79c89.jpg</Item>
@@ -8970,7 +8970,7 @@ Agende a sua visita.]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>341</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Imóvel Comercial 587m² 6 Lojas Salas Comerciais Vila Mauá Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5207/ib9v3g_52076983540997f95.jpg</Item>
@@ -9051,7 +9051,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>sn</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 3 Quartos, 1 Suíte, 130m² para locação, Setor Jardim Luz.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5206/ik2h1o9z_5206699c6fea56e34.jpg</Item>
@@ -9252,7 +9252,7 @@ Agende a sua visita e conheça este excelente apartamento.]]></Description>
         <PostalCode>74823-040</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 130m² 3 Quartos 1 Suíte Edifício Firenze Setor Pedro Ludovico Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5203/io1y4x_5203697cb7b2b3b93.jpg</Item>
@@ -9340,7 +9340,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>921</StreetNumber>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento duplex 1 Quarto, 1 Suíte, 52,64 m² para venda, Setor Bueno, Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5192/iq1m0a_5192697bb5334dcb0.jpg</Item>
@@ -9393,7 +9393,7 @@ Além disso, conta com fácil acesso à GO-469, que liga Goianira a Trindade, ga
         <PostalCode>75373-128</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Área Comercial 2.800m² 9 Lotes Resdencial Santo André Goianira]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5191/im9i7e_5191697a663a9d89b.jpg</Item>
@@ -9453,7 +9453,7 @@ Agende sua visita e conheça seu novo lar!]]></Description>
         <PostalCode>74730-140</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 250m² 4 Suítes Plenas Área Gourmet Conjunto Riviera Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5189/ii0w0a_51896977776edfa58.jpg</Item>
@@ -9520,7 +9520,7 @@ Agende a sua visita!]]></Description>
         <PostalCode>74270-040</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Imóvel Comercial 434m² 3 Lojas Avenida C-4 esquina com Avenida T-7 Jardim América Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5188/iq7j2s_518869776a86df3a2.jpg</Item>
@@ -9596,7 +9596,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>358</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado comercial, 350m² para locação, Setor Central.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5186/i4M165G1e_5186697919640f88f.jpg</Item>
@@ -9682,7 +9682,7 @@ Agende sua visita e se apaixone pelo Atoll Residências.]]></Description>
         <PostalCode>74175-130</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 71m² Alto Padrão 2 Quartos 1 Suíte Atoll Residências Setor Marista Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5185/if0u7r_518569727f7094f00.jpg</Item>
@@ -9859,7 +9859,7 @@ Entre em contato e agende sua visita.]]></Description>
         <PostalCode>74830-130</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sala Loja Comercial 360m² Total Av. Quarta Radial Setor Pedro Ludovico]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5183/ie2k0p_5183697249a26acf9.jpg</Item>
@@ -9917,7 +9917,7 @@ Um ótimo lugar para se viver, unindo espaço, funcionalidade e excelente locali
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>1557</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 300m² 4 Quartos 2 Suítes Quintal Amplo Setor Nova Suíça Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5180/is2d1m_5180696a7178dadac.jpg</Item>
@@ -10014,7 +10014,7 @@ Um ótimo lugar para se viver, unindo espaço, funcionalidade e excelente locali
         <PostalCode>74353-360</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado em condomínio 3 Quartos, 1 Suíte, 110 m² para locação, Jardim Presidente.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5179/ib7x9a_51796968e353b269b.jpg</Item>
@@ -10075,7 +10075,7 @@ Um ótimo lugar para se viver, unindo espaço, funcionalidade e excelente locali
         <PostalCode>74958-350</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Área Chácara 3.797m² Bairro Colonial Sul Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5178/i3C1993F9nA48453U3_517869669b73e871c.jpg</Item>
@@ -10121,7 +10121,7 @@ Agende a sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>422</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Galpão - Av. Caiapó, n° 422, Qd. 98, Lt. 04, Bairro Santa Genoveva, Goiânia - GO]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5172/iFPm48i1r5xqX65vLO_5172695e5ffa38481.jpg</Item>
@@ -10433,7 +10433,7 @@ Agende a sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>344</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 66m² 2 Suítes Andar Alto HUB Compact Life Setor Bueno Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5166/ir3q3v_5166694945754e176.jpg</Item>
@@ -10516,7 +10516,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>180</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 100m² 3 Quartos 1 Suíte Armários Av. Portugal Ed. Abilene Setor Oeste Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb533ed44.jpg</Item>
@@ -10572,7 +10572,7 @@ Entre em contato e saiba mais!]]></Description>
         <PostalCode>74050-100</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Área Comercial 1.776m² Av. Goiás Esq. com Rua 61 Setor Central Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5160/ii1m4y_5160694180041029c.jpg</Item>
@@ -10741,7 +10741,7 @@ Empreendimento ideal para moradia ou investimento, com infraestrutura completa e
         <PostalCode>74915-025</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 52m² 2 Quartos 1 Suíte Cond. UP Buriti Jardim Luz Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5158/iXdY3R4W93x2ttE12skcY_5158694032f6f2b02.jpg</Item>
@@ -10975,7 +10975,7 @@ Agende a sua visita!]]></Description>
         <PostalCode>74474-370</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 94,99m² 3 Quartos 1 Suíte Novo Setor Recanto do Bosque Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5152/iw9a5p_51526939d71b56ad4.jpg</Item>
@@ -11038,7 +11038,7 @@ Agende a sua visita!]]></Description>
         <PostalCode>74371-201</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIERE_1</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 48m² 2 Quartos 1 Suíte 1 Vaga de Garagem Cond. Residencial Alabama Res. Flórida Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5151/ia4p4m_51516939d641a7fc0.jpg</Item>
@@ -11398,7 +11398,7 @@ Agende a sua visita agora mesmo!]]></Description>
         <PostalCode>74835-280</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 60m² 02 Quartos 01 Suite 02 Vagas Home Serrinha Residencial Parque Amazônia Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5133/it4w1g_5133692d91a7e4644.jpg</Item>
@@ -11557,7 +11557,7 @@ Uma opção prática e funcional para quem busca um imóvel bem localizado e com
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>880</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 42m² 2 Quartos 1 Vaga de Garagem Ed. Gran Royale Bairro Morada do Sol Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5129/ip7t6z_51296924bfcf58e14.jpg</Item>
@@ -11746,7 +11746,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>2816</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 83m² 02 Quartos 01 Suíte Reformado Residencial Clevelend Setor Bueno Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5120/iFz8i3f83o6k2kD3417_51206915d0bd37208.jpg</Item>
@@ -11826,7 +11826,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>190</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Prédio Comercial e Residencial 1.200m², Setor Bela Vista, Goiania]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5108/iv7v1i_5108690c9de941801.jpg</Item>
@@ -11952,7 +11952,7 @@ Agende sua visita agora mesmo e conheça de perto essa oportunidade única!]]></
         <PostalCode>74023-020</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Imóvel Comercial Terreno 1076m² 44mts de frente Rua 07 Setor Central Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5106/ilE9h_5106690c8a0b0a49f.jpg</Item>
@@ -12003,7 +12003,7 @@ Financiamento facilitado! Há possibilidade de ZERO entrada, conforme análise d
         <PostalCode>74934-080</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 150m² 3 Suítes Piscina Closet Bairro Cardoso Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5102/ij4e5l_51026904fc8f59d45.jpg</Item>
@@ -12081,7 +12081,7 @@ Entre em contato e agende sua visita!
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>306</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado Comercial 3 Salas, 2 banheiros, 160 m², para locação, Setor Sul, Goiania]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5101/iw2r8u_51016904e209eaa35.jpg</Item>
@@ -12163,7 +12163,7 @@ Imóvel ideal para quem busca qualidade de vida, conforto e uma vista privilegia
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>435</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 75m² 2 Suítes Andar Alto Nascente Reformado Cond. Spazio Di Lorenzo, Vila Rosa, Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5087/if8n2l_508768f8e38315de2.jpg</Item>
@@ -12228,7 +12228,7 @@ A cozinha é funcional, com bom espaço para armários e circulação, e conta c
         <PostalCode>74345-150</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>PREMIERE_1</PublicationType>
       <Title><![CDATA[Apartamento 61m² 02 Quartos 01 Suíte Res. Ana Letícia Vila Rosa Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5082/id5s1b_508268f6706077dc6.jpg</Item>
@@ -12309,7 +12309,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74365-620</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 3 Quartos, 1 Suíte, 200m², Vila Novo Horizonte.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5063/ia5nu57fl78q_506368ee58085a11b.jpg</Item>
@@ -12485,7 +12485,7 @@ Não perca essa chance! Agende agora a sua visita e venha se encantar com o seu 
         <PostalCode>74960-710</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 92,74m² 2 Quartos 1 Suíte Quintal e Área Gourmet Parque Ibirapuera Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5054/ih5c7g_505468e66b6aa0791.jpg</Item>
@@ -12727,7 +12727,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74369-475</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Lote 360 m² Setor Três Marias Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="98a0f984b0e3373bc7a7bba0256f7369_b75e8ea7-f3ce-486e-856e-dc0f315619d9" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5043/in5k6h_504368dbc2033ee76.jpg</Item>
@@ -12775,7 +12775,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74369-475</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Lote 360 m² Setor Três Marias Goiania]]></Title>
       <Media>
         <Item medium="image" caption="c19731970722623dda1b902a25fd98c1_26a80d32-70e2-456d-aa52-ca3703091f09" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5042/iv6t2m_504268dbc1f492829.jpg</Item>
@@ -13112,7 +13112,7 @@ Agende a sua visita agora mesmo!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>740</StreetNumber>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 149m² 4 Quartos 2 Suítes 3 Vagas de Garagem Ed. Villagio Bueno, Setor Bueno, Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5000/iz3v2c_500068b1db33daf75.jpg</Item>
@@ -13204,7 +13204,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74820-100</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Loja Comercial com 560 m2 Setor Pedro Ludovico]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4999/ie2BT7qKk_499969bd601d04426.jpg</Item>
@@ -13549,7 +13549,7 @@ Agende uma visita e conheça de perto tudo o que esse imóvel tem a oferecer!]]>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>209</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa com 414m² + Edícula à Venda na Vila Abajá  Próximo ao Setor Campinas, Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4965/i1Yz54W5vc43KWyGA4_4965689b51e2d349b.jpg</Item>
@@ -13809,7 +13809,7 @@ Financiamento facilitado, com análise gratuita. Entre em contato e agende sua v
         <PostalCode>74265-140</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 250m² Alto Padrão 4 Quartos 2 Suítes Área Gourmet Jardim América Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4956/i7322kgFn43_49566890a45b030f0.jpg</Item>
@@ -13885,7 +13885,7 @@ Financiamento facilitado, com análise gratuita. Entre em contato e agende sua v
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>6015</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Lote Comercial 512 m2 Setor Aeroporto Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4955/ik3w2p_4955688a16e754405.jpg</Item>
@@ -14226,7 +14226,7 @@ Aproveite este oportunidade e agende sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>666</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 147m² 02 Suítes Sala para 04 Ambientes Edifício Torre de Rhodes Setor Oeste Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4940/io1m3i_49406874f9d219f8c.jpg</Item>
@@ -14290,7 +14290,7 @@ Entre em contato para mais informações e agende sua visita!]]></Description>
         <PostalCode>74391-470</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Àrea - 133.300m² total e 1000m² construídos Antigo Recanto da Amizade Jardim Marques de Abreu]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4929/it6n7e_49296862cb26b3e5f.jpg</Item>
@@ -14375,7 +14375,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>05</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Loja Av. Quarta Radial, Centro Comercial João Alves, 100,00 m², Setor Pedro Ludovico.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4926/id2l7h_49266862808d2901f.jpg</Item>
@@ -14515,7 +14515,7 @@ Entre em contato e agende sua visita para conhecer este excelente imóvel.]]></D
         <PostalCode>74474-325</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIERE_1</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 90m² 2 Quartos 1 Suíte + Edícula  Residencial Recanto do Bosque, Goiânia GO.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4918/iL6Z7_491869f09bfa1a75d.jpg</Item>
@@ -14659,7 +14659,7 @@ Além disso, a área de lazer possui piscina, salão de festas, playground, sala
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>764</StreetNumber>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 03 Quartos 03 Suítes 114,00m² Lazer Completo Residencial Francisco Malheiros Setor]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4862/ii5z4j_4862682f3213ddddb.jpg</Item>
@@ -14720,7 +14720,7 @@ Oportunidade perfeita para quem busca rentabilidade segura com múltiplas frente
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>229</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Imóvel Comercial e Residencial - Casa Comercial e 3 Apartamentos - Setor Sul]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4836/i549l9WbL2k2C9R_4836681257906f70f.jpg</Item>
@@ -15110,7 +15110,7 @@ Aproveite esta excelente oportunidade e agende sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>150</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 76,00m² 02 Quartos 01 Suíte Closet Edifício Capablanca Jardim Goiás Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd688ac0796.jpg</Item>
@@ -15168,7 +15168,7 @@ Aproveite esta oportunidade e agende sua visita!]]></Description>
         <PostalCode>75102-005</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado em Condomínio, 380,00m² 04 Suítes Varanda Gourmet Condomínio Anaville Anápolis]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4756/ip6e1s_475667f952df0b0de.jpg</Item>
@@ -15374,7 +15374,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74958-470</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Abaixou!!! Casa 137 m², 3 Quartos, 3 Suítes, Residencial Vila Colonial.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4606/iz8l9y_460667ed8f5f501f3.jpg</Item>
@@ -15450,7 +15450,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>1170</StreetNumber>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 04 Quartos 01 Suíte 241,72m² Setor Bueno Goiania]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4595/iFf7QtkIMp_459567e6adac4427d.jpg</Item>
@@ -15608,7 +15608,7 @@ Quintal grande na frente e nos fundos.]]></Description>
         <PostalCode>74305-290</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 196,00m² 03 Quartos 01 Suíte Setor Sudoeste Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4568/ib2c8g_456867c98c92c6de3.jpg</Item>
@@ -15690,7 +15690,7 @@ Aproveite a oportunidade e agende sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>512</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 96,00m² 03 Quartos 01 Suíte Sacada Edifício Águas do Amazônia Parque Amazônia Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4436/ir6e8u_443667ae535d5f0b7.jpg</Item>
@@ -15769,7 +15769,7 @@ Agende sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>333</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 300,00m² 04 Suítes Sacada Churrasqueira Edifício La Maison Setor Oeste Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4424/ih8e1v_442467a4fda600e2c.jpg</Item>
@@ -15859,7 +15859,7 @@ Parede dos quartos com proteção anti calor.]]></Description>
         <PostalCode>74670-120</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 03 Quartos 03 Suítes 132,00m2 Santa Genoveva Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4393/ir8e6g_4393679cd3abdc567.jpg</Item>
@@ -15988,7 +15988,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>SN</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sala comercial, Ed. Vereda das Orquideas, Av. T 5, 42m², Setor Serrinha, Goiânia.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4348/ij2w6n_434867647105169eb.jpg</Item>
@@ -16127,7 +16127,7 @@ Agende sua visita!]]></Description>
         <PostalCode>74265-300</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado em Condomínio 04 Quartos 01 Suíte 145 m² Área de Lazer Jardim América Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ivxMX_423968ecff72a2c50.jpg</Item>
@@ -16215,7 +16215,7 @@ Agende sua visita!]]></Description>
         <PostalCode>74275-200</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado em Condomínio 140,00m² 04 Quartos Suíte Residencial Antares Jardim América Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4238/ijXo81h_42386757442fc24a2.jpg</Item>
@@ -16293,7 +16293,7 @@ Frente nascente.]]></Description>
         <PostalCode>74936-560</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Lote de Esquina 410,00m² Cidade Vera Cruz Avenida V-1 Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4237/i1OH87mJ734g557_4237681b470d37b73.jpg</Item>
@@ -16412,7 +16412,7 @@ Agende sua visita!]]></Description>
         <PostalCode>74369-008</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado em Condomínio 170,00m² 03 Quartos 01 Suíte Piscina Condomínio Reserva do Bosque Residencial]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4233/ib7539Yh4H6E877iDE948_42336839bf899899b.jpg</Item>
@@ -16612,7 +16612,7 @@ Agende sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>sn</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 210,00m² 03 Quartos 01 Suíte Solange Park Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4221/iv0n1w_4221673f901e64a15.jpg</Item>
@@ -16740,7 +16740,7 @@ Agende sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>SN</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 64,00m² 03 Quartos 02 Garagens Cobertas Residencial Indiana Residencial Flórida Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4216/io2f9w_421667349190c20b4.jpg</Item>
@@ -16934,7 +16934,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>sn</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 03 Quartos 01 Suíte Área Gourmet Churrasqueira Piscina 170m² Goiânia 2 Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4066/i9211xM8e57_4066670ec0050b71e.jpg</Item>
@@ -17005,7 +17005,7 @@ O melhor custo beneficio de toda a região, venha e comprove!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>08</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa em Condomínio 88m² 03 Quartos 01 Suíte com Armários Condomínio Villa Rica Royal Chácaras São]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055ab5e6fa1.jpg</Item>
@@ -17084,7 +17084,7 @@ Montamos seu processo de financiamento sem custo.]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>sn</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 03 Quartos 01 Suíte Churrasqueira 131m² Condomínio Reserva do Bosque Residencial Center]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4051/ii499564b_405168921e6bddd28.jpg</Item>
@@ -17237,7 +17237,7 @@ Temos unidade decorada no condomínio.
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>sn</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Prédio Comercial de Esquina 355,00m² Setor Leste Universitário]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4034/i36u8E3l13hY1p93dbD_403466f164d538a21.jpg</Item>
@@ -17286,7 +17286,7 @@ Ligue e agende sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>900</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 03 Quartos Suíte Sacada 77,37m² Condomínio Ambient Park Residencial Celina Park Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4017/i5xM53af8_401766edb68b8cad7.jpg</Item>
@@ -17357,7 +17357,7 @@ Uma opção ideal para quem busca praticidade, boa localização e um apartament
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>820</StreetNumber>
       </Location>
-      <PublicationType>PREMIERE_1</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 50m² 2 Quartos 1 Suíte Edifício Bogotá Setor Central Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6156e62164.jpg</Item>
@@ -17467,7 +17467,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>174</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sala 60m² Mobiliada Ed. São Judas Tadeu Setor Central Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3996/i3533S3a52f8R_399666c35fede55ac.jpg</Item>
@@ -17543,7 +17543,7 @@ Ligue e agende sua visita !]]></Description>
         <StreetNumber>sn</StreetNumber>
         <Zone>1°</Zone>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 03 Quartos 02 Cozinhas Churrasqueira 76,80m² Cidade Jardim Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3994/iGmOQGB45F9NH_399468278d03f2bd1.jpg</Item>
@@ -17629,7 +17629,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>1236</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 02 Quartos, 58,40 m² Jardim América]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3991/i18jF_399169eb52fe723b2.jpg</Item>
@@ -17735,7 +17735,7 @@ Ligue e agende sua visita! Aceita financiamento!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>921</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento Duplex 01 Quarto Mobiliado 54m² The Expression Setor Bueno Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3990/i427lKHZC8_399066bce7bc7378d.jpg</Item>
@@ -17800,7 +17800,7 @@ Prédio de 11 andares, 02 por andar, possui salão de festa, portaria remota. Ag
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>171</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Cobertura 03 suítes 300 m3 piscina setor Oeste]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3969/i2t2nk9qoP_396966a938264ea5b.jpg</Item>
@@ -17912,7 +17912,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>119</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 4 Quartos, 319m², Setor Leste Vila Nova.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3951/irI88xc1piS3cTqq3w_395168dec2810e715.jpg</Item>
@@ -18143,7 +18143,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>205</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 04 quartos,  04 Suítes, 242 m2, Setor Jardim Goiás.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3887/i6I2tcBLD545Q8K4454_3887667ad13444eb1.jpg</Item>
@@ -18291,7 +18291,7 @@ Piso superior: 04 quartos sendo 02 suítes, suíte do casal com closet e banheir
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>840</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 05 quartos 02 suítes Closet Hidromassagem 321m² Setor Jaó]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3809/i385f39f7El9P3795wT6W_3809664cd4b9b9757.jpg</Item>
@@ -18396,7 +18396,7 @@ Entre em contato e agende sua visita!
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>237</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 1 Quarto, 1 Suíte, 37m², para alugar, Setor dos Funcionários]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3795/i5j1op11Vf15BQVp767t_379569e0c70a14cf4.jpg</Item>
@@ -18461,7 +18461,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>237</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento com 33 m2 no Setor Dos Funcionários]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3794/iL42847ZZ7LTH_379469e105b2136b8.jpg</Item>
@@ -18695,7 +18695,7 @@ A melhor localização do Setor Bueno, acima do vaca Brava e abaixo da T-63, ao 
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>1097</StreetNumber>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 04 Quartos 313,00m2 03 Garagens Ed. Tambaqui Setor Bueno]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3665/i34j4_36656617e440d2b96.jpg</Item>
@@ -18794,7 +18794,7 @@ Sobrado este atualmente desocupado.]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>729</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Predio Comercial Salas Lojas Sobrados Setor Campinas]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3648/i55525273SU932fMu1_36486605c591883b0.jpg</Item>
@@ -18869,7 +18869,7 @@ Sobrado este atualmente desocupado.]]></Description>
         <PostalCode>74482-240</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Área terreno 5.520,00m² Recreio dos Bandeirantes Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3486/ip28zp966Z_348665d8c2450471e.jpg</Item>
@@ -18938,7 +18938,7 @@ Ligue e agende sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>SN</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa em condomínio 3 Quartos, sendo 1 suíte, 141m², Setor Jardim Imperial.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3481/i3Ro4BxbeMY_348165d7798d61f82.jpg</Item>
@@ -19026,7 +19026,7 @@ Agende a sua visita!]]></Description>
         <PostalCode>74393-810</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Chácara 10.000,00m² Bairro Alphaville Residencial Chácara Salinos]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3477/i96nJG_347765d5f2fea31d7.jpg</Item>
@@ -19179,7 +19179,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74830-130</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>STANDARD</PublicationType>
+      <PublicationType>TRIPLE</PublicationType>
       <Title><![CDATA[Sala Comercial 38m² Avenida Quarta Radial Setor Pedro Ludovico Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3418/ie9a9r_341865bd3ed357b1b.jpg</Item>
@@ -19596,7 +19596,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>sn</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 03 Quartos, 01 Suíte para locação, Setor Criméia Leste.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3351/i863B43bLv_335169976350e4e7a.jpg</Item>
@@ -19819,7 +19819,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>09</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa condomínio fechado 4 Quartos 4 suítes piscina 598m² Jardins Paris]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3273/i9RfyGg6GDz_327365804ba603be6.jpg</Item>
@@ -19922,7 +19922,7 @@ Telefone: 62 3018.2500 |  WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>74</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 2 Quartos, 1 vaga 65m², para alugar, Setor Sudoeste.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3272/iu849i39Yk1bR_32726581b390785ee.jpg</Item>
@@ -20051,7 +20051,7 @@ Excelente localização, na Av. T-5, acima da avenida T-63, e bem próximo do P�
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>1200</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 80,84m² 03 Quartos 01 suíte Bairro Nova Suíça Ed. Bougainville Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3231/iJ1567J7612b_32316564eafa0b783.jpg</Item>
@@ -20125,7 +20125,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>SN</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 02 quartos, 55M² no Setor Goiânia 2, Goiânia - GO.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3229/inP8795BrTZip49S44_32296a2b194b35351.jpg</Item>
@@ -20234,7 +20234,7 @@ Piso em parcelanato polido tamanho 1 x 1, rodapé embutido, projeto iluminotécn
         <PostalCode>74345-150</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa de Alto padrão 209,00m² 03 Suites Hidromassagem Área Gourmet Vila Rosa]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3213/imBe6MIP83jO99_3213655c961f8bd97.jpg</Item>
@@ -20322,7 +20322,7 @@ Agenda a sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>490</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 89m2 03 Quartos 01 Suíte 03 Banheiros Reformado Ed. American Garden Jardim América]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3212/i8K795O5_321268a8a7beb769b.jpg</Item>
@@ -20401,7 +20401,7 @@ Próximo a Alameda das Rosas e Avenida Portugal.]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>345</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 140m² 04 Quartos 02 Suítes 03 Garagens Residencial Cabrália Setor Oeste]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3168/i4M1zHu_31686553d05207bdf.jpg</Item>
@@ -20497,7 +20497,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>224</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 2 Quartos, 1 Suíte, 50m², Setor Leste Vila Nova.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3163/i9Kg2_316368f12d841b8da.jpg</Item>
@@ -20577,7 +20577,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>237</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento Semi Mobiliado 42 m² 01 Quarto, Setor Dos Funcionários]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3147/iz189n98i_314769e0c872efd4e.jpg</Item>
@@ -20692,7 +20692,7 @@ Fácil Acesso: Localizado na Rua F62, nº 123, Quadra 217, Lotes 8, 9, 10 e 11, 
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>123</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Área de  2.782m² no Setor Faiçalville de Frente ao Parque Macambira!]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3043/io0c5p_3043653c083fc45bb.jpg</Item>
@@ -20954,7 +20954,7 @@ Telefone: 62 3018.2500 |  WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>26</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 1 Quarto, 40,00 m² para locação, Setor Central, Goiânia.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3020/id8t3v_3020683462a14c2db.jpg</Item>
@@ -21063,7 +21063,7 @@ Piso em porcelanato, janelas e portas em blindex, acabamento em mármore e porce
         <PostalCode>74925-220</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado Condomínio Fechado 04 Quartos 02 Suítes Vale do Sol II Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2874/iv2gu0f5Y_287464f710f6eacc5.jpg</Item>
@@ -21211,7 +21211,7 @@ Agende sua visita!]]></Description>
         <PostalCode>74515-030</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobreloja 340m² Setor Campinas Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2757/it5j7m_275764e49e7a693dc.jpg</Item>
@@ -21261,7 +21261,7 @@ Entradas independentes]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>300</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Imóvel Comercial e Residencial  540 m² totais Casa 284m² e Sala Comercial 170m² Setor Aeroporto]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2724/ivt9o_272464c2a339dfb83.jpg</Item>
@@ -21430,7 +21430,7 @@ Aproveite esta oportunidade e agende sua visita!]]></Description>
         <StreetNumber>616</StreetNumber>
         <Zone>1°</Zone>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado comercial Lote 561,36m² Área construída 288,11m² Setor Sul Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2631/iBu5w5bqI5y_2631676d4429739a1.jpg</Item>
@@ -21520,7 +21520,7 @@ Fácil acesso à importantes vias e rodovias, garantindo a conveniência logíst
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>sn</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Galpão e Área Comercial Industrial 867,39m² Jardim Eldorado Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2532/i28bI3LPJj4_2532689a307ce17e6.jpg</Item>
@@ -21733,7 +21733,7 @@ Agende sua visita e conheça de perto uma das coberturas mais luxuosas da regiã
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>692</StreetNumber>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 472,36 m2 Cobertura Duplex Piscina 4 suítes Ed. Saint Moritz Setor Bueno]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2403/ib1ml59aKa_2403644bd414227c2.jpg</Item>
@@ -21881,7 +21881,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>224</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 1 Quarto, 35m² para locação, Setor Leste Vila Nova.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe0c536f0.jpg</Item>
@@ -21951,7 +21951,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>SN</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 02 Quartos, 01 Suíte, 86,00m2 Cidade de Goiás Goiás]]></Title>
       <Media>
         <Item medium="image" caption="7579ef99504b36ff92d7d19d98af51cd_01- ApartamentoResPedroInacioLoboImoveis" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2262/io9o6d_2262641c8292b487c.jpg</Item>
@@ -22203,7 +22203,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>693</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento Mobiliado 03 Quartos 01 Suíte 74 m²  Setor Pedro Ludovico]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2147/ilT45B8rXR_2147694e7918b6f12.jpg</Item>
@@ -22418,7 +22418,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74976-030</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Galeria Prédio Comercial 800,00m² Terreno 400,00m² Investimento Aparecida de Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="4ec83fad0e4a190d7ad3b0eecf60cec6_WhatsApp Image 2023-01-31 at 14.40.01 - Copia" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2118/ih3r5b_2118640f1b62c1d86.jpg</Item>
@@ -22588,7 +22588,7 @@ Agende sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>2712</StreetNumber>
       </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 81,70m² Duplex Semi Mobiliado 02 Quartos 02 Suítes Edifício Two Life Setor Bueno Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d4f99619.jpg</Item>
@@ -22677,7 +22677,7 @@ Telefone: (62) 3018-2500 | WhatsApp: (62) 99831-0020]]></Description>
         <PostalCode>74303-040</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento - 02 quartos - Residencial Ebenezer II, Setor Sudoeste, Goiânia-GO.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1845/iqI5k6WN72tHcvtW_184569d3aa053cff9.jpg</Item>
@@ -22745,7 +22745,7 @@ Telefone: 62 3018.2500 |  WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>2202</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa comercial 6 salas, 3 banheiros, 2 vagas 150mt², para alugar, Setor Coimbra]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1834/i89569_183469b1bb768eaac.jpg</Item>
@@ -22806,7 +22806,7 @@ Telefone: 62 3018.2500 |  WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74343-210</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 370,00m² Condomínio Fechado Privê Atlântico 04 quartos 02 suítes Jardim Atlântico]]></Title>
       <Media>
         <Item medium="image" caption="3ee7098f14b9dcfb4859a0af2ea3720b_WhatsApp Image 2022-11-17 at 17.18.05" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1776/is6z4u_177663b5d7d2c1d4a.jpg</Item>
@@ -22902,7 +22902,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74830-130</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Loja com 120,00 m², no Setor Pedro Ludovico]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1739/in6h5z_173964e5e1ea8bbd1.jpg</Item>
@@ -22958,7 +22958,7 @@ Imóvel este de esquina na Avenida do Comércio quase esquina com Avenida Meia P
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>31</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Galpão 820,00m² Setor Santa Genoveva.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1f3c5ea9.jpg</Item>
@@ -23079,7 +23079,7 @@ Agende sua visita.]]></Description>
         <PostalCode>74330-570</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado Condomínio Fechado 169,00m² 03 Quartos 03 Suítes Residencial Sevilha Jardim Europa Goiânia]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1720/iN859v93_17206a0cab42a3456.jpg</Item>
@@ -23271,7 +23271,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74805-200</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 01 Quarto para locação, Jardim Goiás.]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/541/iA946hniS14V6Mlhk_54169f0dd5599baa.jpg</Item>
@@ -23561,7 +23561,7 @@ Montamos seu processo de financiamento sem custo .]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>1235</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 3 quartos 01 Suíte, 141,00m² em Condomínio Fechado, Jardim América, Goiânia- GO]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f304dcfe.jpg</Item>
@@ -23646,7 +23646,7 @@ Montamos seu processo de financiamento sem custo .]]></Description>
         <PostalCode>74455-210</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Prédio residencial / comercial 04 apartamentos de 50,00m² cada Bairro São Francisco]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/441/im2n5a_44163bead2a1b31d.jpg</Item>
@@ -23708,7 +23708,7 @@ Uma excelente opção para quem deseja morar bem, em um ambiente seguro e com ó
         <PostalCode>74593-210</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 83m² 03 Quartos 1 Suíte Condomínio Balneário Villa Verde Jardim Balneário Meia Ponte]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/416/it12b65_41669f8a40270d3a.jpg</Item>
@@ -23783,7 +23783,7 @@ Com uma localização privilegiada, o apartamento está ao lado do Shopping Flam
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>59</StreetNumber>
       </Location>
-      <PublicationType>PREMIUM</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento  03 Quartos 02 Garagens ao lado  Shopping Flamboyant Bairro Alto da Glória]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/379/i24R6c4RvP9R_37969a86229e4e72.jpg</Item>
@@ -23856,7 +23856,7 @@ Com uma localização privilegiada, o apartamento está ao lado do Shopping Flam
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>14</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 03 Quartos 01 Suíte 122m² Edifício Habitasul Setor Bela Vista]]></Title>
       <Media>
         <Item medium="image" caption="e3b94441771e23267ba861f9797419c7_18 - - Apartamento Setor Bela Vista Lobo Imoveis" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/360/iw4u4g_36063adb7a7cdd97.jpg</Item>
@@ -24113,7 +24113,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>98</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sala Rua 07, 60m², Setor Central]]></Title>
       <Media>
         <Item medium="image" caption="9aa98915b28806f418aa0d8e1aab0888_09-LojaSetorCentralLeonardoLoboObjeto603" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/305/it0m5m_30564ef3b922e0fd.jpg</Item>
@@ -24268,7 +24268,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>902</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sala Comercial 4 salas térreas 250m² Setor Central, Goiânia GO]]></Title>
       <Media>
         <Item medium="image" caption="76b04c8bb95bfa24bc9875b45a66da14_5046d298-2805-4da0-8b9c-bbef364d8104" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/276/ik1d3r_276638761dddb380.jpg</Item>
@@ -24801,7 +24801,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PostalCode>74210-030</PostalCode>
         <State abbreviation="GO">Goiás</State>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[06 Lojas 500m² Área 608,00m² Setor Bueno]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/91/iSWn1763_91626688c3cf507.jpg</Item>
@@ -25058,7 +25058,7 @@ Telefone: (62) 3018-2500 | WhatsApp: (62) 99831-0020]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>224</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 1 quarto, para locação Setor Leste Vila Nova]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/54/iS96N26X2799rWLi47m_5469d3b6444ce22.jpg</Item>
@@ -25118,7 +25118,7 @@ Aproveite esta oportunidade e agende sua visita!]]></Description>
         <State abbreviation="GO">Goiás</State>
         <StreetNumber>450</StreetNumber>
       </Location>
-      <PublicationType>TRIPLE</PublicationType>
+      <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 92,00m² 03 Quartos Suíte Sacada Churrasqueira Edifício Ilhas de Flamboyant Jardim Goiás]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/46/ib6f9o_466352ac04d8804.jpg</Item>
