@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-06-15T07:31:31</PublishDate>
+      <PublishDate>2026-06-16T07:32:48</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -983,7 +983,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Kitchen</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">18000</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">16500</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -1366,8 +1366,8 @@ Localizado ao lado da UNIMED da T-1, em uma das melhores regiões da cidade, com
 
 Agende a sua visita e conheça este excelente imóvel.]]></Description>
         <Garage>2</Garage>
-        <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
+        <LivingArea unit="square metres">117</LivingArea>
+        <LotArea unit="square metres">117</LotArea>
         <PropertyAdministrationFee currency="BRL">1090</PropertyAdministrationFee>
         <PropertyType>Residential / Apartment</PropertyType>
         <Suites>3</Suites>
@@ -1602,8 +1602,8 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
 A área de lazer é completa, com sauna, piscina e churrasqueira, perfeita para momentos de descanso e confraternização com amigos e familiares. O terraço oferece ainda mais espaço e possibilidades de uso.
 
 Na frente do imóvel há um ponto comercial independente com 2 pisos, excelente para quem deseja investir ou trabalhar próximo de casa. O espaço comercial possui 1 banheiro no piso inferior, 1 banheiro no piso superior e mais 2 quartos na parte de cima, podendo ser utilizado para escritório, estoque ou moradia.]]></Description>
-        <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
+        <LivingArea unit="square metres">360</LivingArea>
+        <LotArea unit="square metres">360</LotArea>
         <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
         <PropertyType>Residential / Sobrado</PropertyType>
         <Suites>1</Suites>
@@ -2530,7 +2530,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Party Room</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">740000</ListPrice>
+        <ListPrice currency="BRL">840000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -3555,7 +3555,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Maids Quarters</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">2800</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">2700</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -3924,57 +3924,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5421/i84tD5B3UdRSc8z_542169fde046b27ef.jpg</Item>
       </Media>
       <TransactionType>For Rent</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>5417</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>2</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Casa geminada em lote de 97,43m², com 63,46m² de área construída, ideal para quem busca praticidade e conforto no dia a dia. O imóvel conta com 2 quartos, sendo 1 suíte, além de uma sala aconchegante integrada à cozinha americana, proporcionando um ambiente funcional e moderno.
-
-A casa dispõe ainda de área de serviço e garagem coberta, oferecendo mais comodidade e segurança para sua família. 
-
-Localizada em uma região estratégica, próxima ao Setor Urias Magalhães, com fácil acesso a linhas do BRT e às principais vias como Avenida Goiás e Perimetral Norte. Além disso, está a menos de 5 minutos do Shopping Passeio das Águas.
-
-Agende sua visita e venha conhecer de perto essa excelente oportunidade!]]></Description>
-        <LivingArea unit="square metres">63</LivingArea>
-        <LotArea unit="square metres">97</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>1</Suites>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">270000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Minas Gerais</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Country abbreviation="BR">Brasil</Country>
-        <Neighborhood><![CDATA[Residencial Lucy Pinheiro]]></Neighborhood>
-        <PostalCode>74771-026</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa 97,43m² 2 Quartos 1 Suíte Residencial Lucy Pinheiro Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a3a506c1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a435cf4b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a3ec5377.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a4dd3fb1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a50386f7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a4766381.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a54aaacb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a4ba9d5a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a455baee.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a3cb7ea2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5418/ix7d6g_541869e67a4106652.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
     </Listing>
     <Listing>
       <ListingID>5416</ListingID>
@@ -4354,7 +4303,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Party Room</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">5500</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">5000</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -12978,7 +12927,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5013/i8E92wkOf_501368cc2b4ee7eb5.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5013/i8E92wkOf_501368cc2b56be88c.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5013/i8E92wkOf_501368cc2b59d3138.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5013/i8E92wkOf_501368cc2b61e835d.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5013/i8E92wkOf_501368cc2b6a64cbd.jpg</Item>
       </Media>
       <TransactionType>For Rent</TransactionType>
@@ -21830,73 +21778,6 @@ Agende sua visita e conheça de perto uma das coberturas mais luxuosas da regiã
         <Item medium="image" caption="4a81650bf3b6049da8e204690f8d969c_WhatsApp Image 2023-04-03 at 12.17.11 2">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2292/ia7b0t_2292642c66c38d133.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>2276</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Description><![CDATA[Apartamento 1 Quarto, 35m² para locação, Setor Leste Vila Nova. 
-
-Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança. 
-
-Detalhes do imóvel: 
-- 1 Quarto
-- 1 Banheiro 
-- Cozinha 
-- Sala
-- Vaga para moto 
-
-Localização estratégica: Próximo à praça Boa Ventura
-
-Ideal para: 
-[Casal] 
-
-Seu novo imóvel está aqui. Aproveite essa oportunidade! 
-
-Entre em contato e agende sua visita! 
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <LivingArea unit="square metres">35</LivingArea>
-        <LotArea unit="square metres">35</LotArea>
-        <PropertyAdministrationFee currency="BRL">150</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Iptu currency="BRL" period="Yearly">45</Iptu>
-        <Features/>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">1000</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>225</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Apt 102</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude>-16.66373260655858</Latitude>
-        <Longitude>-49.2471867838226</Longitude>
-        <Neighborhood><![CDATA[Setor Leste Vila Nova]]></Neighborhood>
-        <PostalCode>74645-170</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>224</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento 1 Quarto, 35m² para locação, Setor Leste Vila Nova.]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe0c536f0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe08209d6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe0a578bd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe0eb1c44.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe116b1f5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe13b4650.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe15dc172.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe184583c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe0399705.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe0610864.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2276/i7zJ4pp82z_22766979fe1cd6271.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
       <ListingID>2262</ListingID>
