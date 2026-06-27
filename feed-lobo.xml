@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-06-26T07:31:12</PublishDate>
+      <PublishDate>2026-06-26T19:31:26</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -237,7 +237,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Iptu currency="BRL" period="Yearly">0</Iptu>
         <Features/>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">1000</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">1450</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>T 2</Address>
@@ -17850,75 +17850,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>3485</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>2</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento para locação, no Setor Bueno, com 64m², 2 Quartos, 1 vaga de garagem, próximo ao Cartório Silva. 
-
-Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
-
-Detalhes do imóvel:
-- 2 Quartos
-- 1 Banheiro
-- Cozinha
-- Sala 
-- 1 Vaga de garagem
-- Área de serviço 
-
-Ideal para:
-[Casal]
-
-Seu novo imóvel está aqui. Aproveite essa oportunidade!
-Entre em contato e agende sua visita!
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <Garage>1</Garage>
-        <LivingArea unit="square metres">64</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
-        <PropertyAdministrationFee currency="BRL">400</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <YearBuilt>1983</YearBuilt>
-        <Iptu currency="BRL" period="Yearly">70</Iptu>
-        <Features/>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">1600</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <Address>T 36</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Apt103</Complement>
-        <Neighborhood><![CDATA[Setor Bueno]]></Neighborhood>
-        <PostalCode>74223-055</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>2521</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento 02 quartos,  64m², Setor Bueno Goiânia - GO.]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a39991f6ac1c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a39990cb3989.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a39991693df3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a39992f81a8f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a3999336b870.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a3999386b1fd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a3999416c19f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a3999498528d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a3999526a3d9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a39996201deb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a3999696b05e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a39996c453e4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a3999756ee78.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a39997c71653.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3488/i4EqJJ9wz4L3ESX5p1g_34886a3999876ec62.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>3483</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -21969,66 +21900,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/538/iwd3s8byV7ZI61YCW6AG_53866cf15941173c.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>536</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>4</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Galpão com 2.223,55m² de área total e 1.253m² de área construída com as seguintes repartições:
- 
-- 02 Salas, sendo 01 de recepção e 01 de espera
-- 02 Banheiros, ambos adaptados para PNE (para atendimento)
-- 18 Salas para escritórios
-- 02 Banheiros privativos
--  Copa
-- Almoxarifado
--  Área permeável em grama frontal
-- 08 Vagas de garagem e entradas laterais e frontais.  
-
-Imóvel pronto para atender suas necessidades, abrindo ou expandindo seu negócio com conforto, praticidade e segurança.  
-
-Não perca oportunidade de montar seu negócio, aproveite essa oportunidade!  
-
-Entre em contato e agende sua visita!  
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <LivingArea unit="square metres">1254</LivingArea>
-        <LotArea unit="square metres">2224</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Industrial</PropertyType>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features/>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">18850</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Avenida Presidente Kubitschek</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude>-16.7321193</Latitude>
-        <Longitude>-49.3259147</Longitude>
-        <Neighborhood><![CDATA[Jardim Presidente]]></Neighborhood>
-        <PostalCode>74353-250</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>260</StreetNumber>
-      </Location>
-      <PublicationType>TRIPLE</PublicationType>
-      <Title><![CDATA[Galpão 2.223,55m2 Jardim Presidente Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/536/iP8691p9736i2t823Zi_5366673189522b75.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/536/i4w7g72pqXY9_53666731077ead1b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/536/iP8691p9736i2t823Zi_53666731890cca01.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/536/iP8691p9736i2t823Zi_53666731892e8e8c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/536/iP8691p9736i2t823Zi_5366673189c146df.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/536/iP8691p9736i2t823Zi_53666731897e6ca8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/536/iP8691p9736i2t823Zi_5366673188eb0e41.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/536/iP8691p9736i2t823Zi_5366673189e2a48e.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
       <ListingID>494</ListingID>
