@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-07-21T07:29:55</PublishDate>
+      <PublishDate>2026-07-21T19:29:45</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -27,7 +27,7 @@
  
  Um lote ideal para quem deseja construir sua casa em um condomínio consolidado, com excelente padrão e em constante valorização.]]></Description>
         <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
+        <LotArea unit="square metres">305</LotArea>
         <PropertyAdministrationFee currency="BRL">800</PropertyAdministrationFee>
         <PropertyType>Residential / Land Lot</PropertyType>
         <Iptu currency="BRL" period="Yearly">0</Iptu>
@@ -1886,7 +1886,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Party Room</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">5000</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">4800</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Avenida Transbrasiliana</Address>
@@ -3627,68 +3627,6 @@ Aproveite esta oportunidade e venha viver com mais conforto, lazer e qualidade d
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5453/ii5g8l_54536a033d0918c4f.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5453/ii5g8l_54536a033cecb6c10.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5453/ii5g8l_54536a033d1ead4e8.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>5450</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>2</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento no 19º andar, com excelente distribuição dos ambientes e acabamento moderno. O imóvel conta com sala ampla e aconchegante, cozinha integrada à área de serviço, proporcionando mais praticidade e aproveitamento do espaço. São dois quartos, sendo uma suíte equipada com ar-condicionado, além de banheiro social para atender o segundo quarto e as visitas.
-
-O apartamento possui armários planejados em todos os ambientes, oferecendo organização, funcionalidade e um visual sofisticado. Recém-pintado, está pronto para morar, ideal para quem busca conforto e praticidade em um imóvel bem cuidado.
-
-Outro grande diferencial são as duas vagas de garagem, garantindo comodidade e segurança para toda a família.
-
-Localizado dentro do complexo Borges Landeiro Tropicale, na Torre Ipanema, o imóvel está em uma excelente região, com fácil acesso à Perimetral Norte, a apenas 700 metros do Portal Shopping e 800 metros do Assaí Atacadista.
-
-Venda do apartamento mobiliado por R$ 330.000,00
-
-Agende a sua visita.]]></Description>
-        <LivingArea unit="square metres">58</LivingArea>
-        <LotArea unit="square metres">58</LotArea>
-        <PropertyAdministrationFee currency="BRL">480</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>1</Suites>
-        <UnitFloor>19</UnitFloor>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features>
-          <Feature>Cooling</Feature>
-          <Feature>Fenced Yard</Feature>
-          <Feature>Game room</Feature>
-          <Feature>Party Room</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">300000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Cândida de Morais</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Torre Ipanema   Apt 1901</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude>-16.6497041</Latitude>
-        <Longitude>-49.3280188</Longitude>
-        <Neighborhood><![CDATA[Setor Cândida de Morais]]></Neighborhood>
-        <PostalCode>74463-150</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-      </Location>
-      <PublicationType>PREMIERE_1</PublicationType>
-      <Title><![CDATA[Apartamento 58m² 2 Quartos 1 Suíte Borges Landeiro Tropicale Edifício Ipanema Setor Candida de]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5451/ie4l0q_545169fde3448764f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5451/ie4l0q_545169fde35888b63.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5451/ie4l0q_545169fde34a288d1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5451/ie4l0q_545169fde34ebd4c0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5451/ie4l0q_545169fde35114600.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5451/ie4l0q_545169fde34c6c6f7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5451/ie4l0q_545169fde3561e4d2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5451/ie4l0q_545169fde35398011.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5451/ie4l0q_545169fde3478564a.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
@@ -14077,64 +14015,6 @@ Agende sua visita e veja pessoalmente o que torna este apartamento a escolha per
       <TransactionType>For Sale</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>4756</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>2</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Belíssimo apartamento recém reformado, nascente, com localização privilegiada e acabamento moderno. 
-
-São 76,00m² divididos em: 02 quartos, sendo 01 suíte com closet, mesas laterais e banheiro com pia dupla esculpida; cozinha gourmet com cooktop instalado, ponto para lava-louças, coifa de teto, armários planejados, bancada, ilha e mesa em granito escovado; sala; área de serviço com armário planejado; banheiro social com pia esculpida; projeto luminotécnico completo; fechadura digital na porta principal; pré-instalação para ar-condicionado: 12.000 BTUs nos quartos e 18.000 BTUs na sala e cozinha e 01 vaga de garagem coberta. 
-
-O condomínio possui portaria eletrônica e consumo de água incluso na taxa mensal. Fica à 02 quadras do Parque Flamboyant e 03 minutos do Shopping Flamboyant, trazendo toda a comodidade que você precisa para o dia a dia!
-
-Aproveite esta excelente oportunidade e agende sua visita!]]></Description>
-        <Garage>1</Garage>
-        <LivingArea unit="square metres">76</LivingArea>
-        <LotArea unit="square metres">76</LotArea>
-        <PropertyAdministrationFee currency="BRL">360</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>1</Suites>
-        <UnitFloor>1</UnitFloor>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features>
-          <Feature>Maids Quarters</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">500000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>54</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Apartamento 102</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Neighborhood><![CDATA[Jardim Goiás]]></Neighborhood>
-        <PostalCode>74810-220</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>150</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento 76,00m² 02 Quartos 01 Suíte Closet Edifício Capablanca Jardim Goiás Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd688ac0796.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd68882b160.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd688dd7382.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd688331f14.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd687125ec6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd686e322ea.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd6885e08d9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd6877095b6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd68798a0ad.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd687478844.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd687fd0633.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4757/il5z0z_475767fd687c44ee3.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>4755</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -17729,72 +17609,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>3402</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>2</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Sala para locação com área total de 92 m², Centro Comercial João Alves, Setor Pedro Ludovico. 
-  
-Imóvel pronto para atender suas necessidades, abrindo ou expandindo seu negócio com conforto, praticidade e segurança.  
-  
-Sala comercial, na região mais aquecida e valorizada do setor Pedro Ludovico. 
-
-- Elevador de acesso 
-- 02 Banheiros
-- Ar condicionado
-  
-Diferenciais do bairro: 
-Infraestrutura comercial, bancária, clínicas médicas, hospitais, enfrente o terminal Isidora, estacionamento a vontade no local da feira. 
-  
-Não perca oportunidade de montar seu negócio, aproveite essa oportunidade!  
-  
-Entre em contato e agende sua visita!  
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <LivingArea unit="square metres">92</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Office</PropertyType>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features>
-          <Feature>Cooling</Feature>
-        </Features>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">6700</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <Address>Quarta Radial</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>403</Complement>
-        <Neighborhood><![CDATA[Setor Pedro Ludovico]]></Neighborhood>
-        <PostalCode>74830-130</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-      </Location>
-      <PublicationType>TRIPLE</PublicationType>
-      <Title><![CDATA[Loja Av. Quarta Radial, Centro Comercial João Alves, 92m², Setor Pedro Ludovico]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2d99780f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2cd4ed01.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2ca7ef0a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2cf9372b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2d227506.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2d73e4a2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2deb2dba.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2e89aa0a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2ed79d4d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2f03ad76.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2f287de5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2f7792a9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add2fcf2809.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3405/ij3dwR94bu9tw13625D_340568add30291028.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>3354</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -20498,85 +20312,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="4131cd4cc4190d8812087bbecb22a3a8_05 - -Loja Setor dos Funcionarios lobo Imoveis">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2008/il6s9z_2008640f5f7509c3b.jpg</Item>
       </Media>
       <TransactionType>For Rent</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>1865</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>3</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Maravilhoso apartamento semi mobiliado duplex com 81,70m², 02 quartos, ambos suítes com armários e ar condicionados; rico em armários; sala com cortinas, ar condicionado, rack e nichos; lavabo; sacada grande; cozinha rica em armários, com fogão, coifa e mesa em granito com 2 banquetas; e 02 garagens de gaveta.
-
-Área de lazer completa, trazendo todo a comodidade que você e sua família precisam. 
-
-Agende sua visita!]]></Description>
-        <Garage>2</Garage>
-        <LivingArea unit="square metres">82</LivingArea>
-        <LotArea unit="square metres">82</LotArea>
-        <PropertyAdministrationFee currency="BRL">666</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>2</Suites>
-        <UnitFloor>14</UnitFloor>
-        <YearBuilt>2012</YearBuilt>
-        <Iptu currency="BRL" period="Yearly">84</Iptu>
-        <Features>
-          <Feature>Balcony</Feature>
-          <Feature>Cooling</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Maids Quarters</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">595000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Rua T-36</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Apartamento 1405</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude>-16.709368</Latitude>
-        <Longitude>-49.2649436</Longitude>
-        <Neighborhood><![CDATA[Setor Bueno]]></Neighborhood>
-        <PostalCode>74223-052</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>2712</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento 81,70m² Duplex Semi Mobiliado 02 Quartos 02 Suítes Edifício Two Life Setor Bueno Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d4f99619.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d478d6fb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d433ebfa.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d3fa1d3f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d60048ad.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d539b56a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d57c00c6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d5c0dd8f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d6b64f12.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d6eebfea.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d67c8ece.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d7627bec.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d79c1a78.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d7d67eae.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d81106e3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d7295ade.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d96defe8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d9eab177.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d8828f5b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d8fa45f4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d932e09e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972da6098ef.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d9ad8f8e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972da26aa21.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972d8c1255b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972da9c2e5d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972dad867e3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972db1be99a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1865/ie4h8w_186563972db5e8e49.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
     </Listing>
     <Listing>
       <ListingID>1834</ListingID>
