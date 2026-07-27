@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-07-26T21:21:30</PublishDate>
+      <PublishDate>2026-07-27T18:07:48</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -152,6 +152,62 @@ Agende sua visita!]]></Description>
       <TransactionType>For Sale</TransactionType>
     </Listing>
     <Listing>
+      <ListingID>5588</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Uma oportunidade em um dos condomínios horizontais mais exclusivos de Goiânia.
+
+Com 5.360,00 m², esta área está situada em um dos pontos mais altos do Residencial Aldeia do Vale, oferecendo uma vista privilegiada e um excelente espaço para desenvolver um projeto residencial de alto padrão, com total privacidade.
+
+O condomínio é referência em qualidade de vida, reunindo segurança 24 horas, ampla área verde preservada, lagos, clube, complexo esportivo e uma infraestrutura completa para quem busca conforto e exclusividade.
+
+Seja para construir uma residência única ou como investimento patrimonial, esta é uma área diferenciada em uma localização que continua entre as mais valorizadas da cidade.
+
+Entre em contato conosco e agende uma visita!]]></Description>
+        <Floors>0</Floors>
+        <Garage>0</Garage>
+        <LivingArea unit="square metres">0</LivingArea>
+        <LotArea unit="square metres">5360</LotArea>
+        <PropertyAdministrationFee currency="BRL">4200</PropertyAdministrationFee>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Suites>0</Suites>
+        <UnitFloor></UnitFloor>
+        <UsageType>Residential</UsageType>
+        <Iptu currency="BRL" period="Yearly">674</Iptu>
+        <Features/>
+        <Warranties/>
+        <ListPrice currency="BRL">3990000</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>dos Pinus Qd. R-36,</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>Qd. R-36, Lt. 14</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude></Latitude>
+        <Longitude></Longitude>
+        <Neighborhood><![CDATA[Residencial Aldeia do Vale]]></Neighborhood>
+        <PostalCode>74680-210</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>00</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Área 5.360m² Residencial Aldeia do Vale Goiânia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5589/iSEF858JHY152n_55896a67b4ec0f5e6.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5589/iSEF858JHY152n_55896a67b4eeeb32e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5589/iSEF858JHY152n_55896a67b4e9cca86.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5589/iSEF858JHY152n_55896a67b4e5b4352.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5589/iSEF858JHY152n_55896a67b4e7c8fe8.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing>
+    <Listing>
       <ListingID>5587</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -216,77 +272,6 @@ Seja para instalar sua empresa ou desenvolver um empreendimento comercial, esta 
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c169d2af1.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>5586</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Description><![CDATA[Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
-
-Detalhes do imóvel:
--1 Quarto
--1 Banheiro social 
--Cozinha
--Sala para 
--1 Vaga de garagem
-
-Localização estratégica: Próximo ao shopping Plaza D?oro
-Seu novo imóvel está aqui. Aproveite essa oportunidade!
-Entre em contato e agende sua visita!
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <Floors>0</Floors>
-        <Garage>0</Garage>
-        <LivingArea unit="square metres">45</LivingArea>
-        <LotArea unit="square metres">45</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>1</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <YearBuilt>2005</YearBuilt>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features/>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">900</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Araxá</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Apt107</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude>-16.696928811903803</Latitude>
-        <Longitude>-49.311932974868796</Longitude>
-        <Neighborhood><![CDATA[Jardim Ana Lúcia]]></Neighborhood>
-        <PostalCode>74315-020</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>00</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento 01 quarto, 45 m², Jardim Ana Lucia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f81173460.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f8753a077.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f8169d573.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f7fe6c3ed.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f803b6b3d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f806a3b70.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f809a554e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f80c860c7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f813e31f6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f819a066b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f81ce3ccf.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f81fc7ed8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f822c2892.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f827c7d5e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5587/i96JqKN9237ikDMvv_55876a60f830e7961.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
       <ListingID>5578</ListingID>
