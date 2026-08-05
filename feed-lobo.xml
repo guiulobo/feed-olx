@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-08-04T07:30:03</PublishDate>
+      <PublishDate>2026-08-04T19:29:51</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -125,6 +125,7 @@ Localizado em uma das regiões que mais crescem em Goiânia, o imóvel está pr�
       <Location displayAddress="All">
         <Address>da Glória</Address>
         <City><![CDATA[Goiânia]]></City>
+        <Complement>Sobrado n 33</Complement>
         <Country abbreviation="BR">Brasil</Country>
         <Latitude>-16.7182771</Latitude>
         <Longitude>-49.2177853</Longitude>
@@ -4360,7 +4361,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Playground</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">10200</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">9500</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
