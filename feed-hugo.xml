@@ -5,9 +5,105 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-08-09T21:21:25</PublishDate>
+      <PublishDate>2026-08-10T17:39:33</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
+    <Listing>
+      <ListingID>5599</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Com 175,00m², esse sobrado reúne ambientes bem distribuídos, em um condomínio com uma área de lazer que faz diferença no dia a dia.
+
+São 03 quartos, sendo 01 suíte master com closet, sala de estar, sala de TV, escritório, lavabo e cozinha americana com cooktop. O imóvel é todo em porcelanato, possui projeto de iluminação e está repleto de armários.
+
+Na parte externa, espaço gourmet integrado à piscina aquecida com cascata, ideal para aproveitar bons momentos em casa. A área de serviço é coberta e a garagem conta com 02 vagas paralelas e cobertas.
+
+Próximo ao Jardins Madri, Moinho dos Ventos e Eldorado.
+
+Proprietário analisa permuta de imóveis e automóveis.
+
+Agende sua visita!]]></Description>
+        <Floors>0</Floors>
+        <Garage>2</Garage>
+        <LivingArea unit="square metres">175</LivingArea>
+        <LotArea unit="square metres">175</LotArea>
+        <PropertyAdministrationFee currency="BRL">650</PropertyAdministrationFee>
+        <PropertyType>Residential / Condo</PropertyType>
+        <Suites>1</Suites>
+        <UnitFloor></UnitFloor>
+        <UsageType>Residential</UsageType>
+        <Iptu currency="BRL" period="Yearly">700</Iptu>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Fenced Yard</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Maids Quarters</Feature>
+          <Feature>Playground</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">850000</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>Cv 24</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>Sobrado 22</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude></Latitude>
+        <Longitude></Longitude>
+        <Neighborhood><![CDATA[Residencial Center Ville]]></Neighborhood>
+        <PostalCode>74369-008</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>sn</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Sobrado em Condomínio 175,00m² 3 Quartos Suíte Closet Condomínio Reserva do Bosque Residencial]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21c76fa7b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21be5bafc.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21c5325d4.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21e003379.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21c99808d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21de1aea2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21eddccfc.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21d812b83.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21d603e5f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21cfb8c83.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21e619666.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21da24e3f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21ea2a7bb.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21d42636f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21dc1ce14.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21e81432e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21e418704.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21ec0664e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21cdbb43e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21cbbc838.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21f223493.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21e1ed35e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21c305f73.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21d1e00ac.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21f017206.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21f44e262.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21c05f177.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a2201a3c7c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21f69a209.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21fb1d998.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a220821b66.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21fd831cd.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21ffa1571.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a2203ce708.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a22062bf92.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5600/i87sko4qBU87m7E65N5i_56006a7a21f8a5bd6.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing>
     <Listing>
       <ListingID>5598</ListingID>
       <ContactInfo>
@@ -12214,85 +12310,6 @@ Imóvel pronto para atender suas necessidades, abrindo ou expandindo seu negóci
       <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>5137</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>4</Bathrooms>
-        <Bedrooms>4</Bedrooms>
-        <Description><![CDATA[Descrição do Imóvel: 
-
-Sobrado 4 Quartos, 2 Suítes, 320m² para locação, Setor Jardim Goiás.
- 
-Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança. 
-
-Detalhes do imóvel: 
-Inferior
-- 1 sala para dois ambientes
-- 1 Escritório 
-- 1 Lavabo 
-- 1 Despensa
-- 1 Copa  
-- 1 Cozinha 
-- 1 Area de serviço 
-- Deposito 
-Superior 
-- 4 quartos 
-- 2 Suítes 
-- 1 Closet 
-- 1 Sala 
-- 1 Banheiro Social 
- 
-[Outros diferenciais: Jardim, armários planejados, etc.] 
- 
-Ideal para: 
-[família] 
- 
-Seu novo imóvel está aqui. Aproveite essa oportunidade!
- 
-Entre em contato e agende sua visita! 
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <Floors>0</Floors>
-        <Garage>2</Garage>
-        <LivingArea unit="square metres">320</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Residential / Sobrado</PropertyType>
-        <Suites>2</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <Iptu currency="BRL" period="Yearly">1072</Iptu>
-        <Features>
-          <Feature>Backyard</Feature>
-          <Feature>Balcony</Feature>
-          <Feature>Home Office</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Parking Garage</Feature>
-        </Features>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">5672</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>58 Qd.b-04, Lt.16</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement></Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Jardim Goiás]]></Neighborhood>
-        <PostalCode>74810-250</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>217</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Sobrado 4 Quartos, 2 Suítes, 320m², Setor Jardim Goiás.]]></Title>
-      <Media/>
-      <TransactionType>For Rent</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>5134</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -16920,86 +16937,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>4248</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>3</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Sobrado com 134,12m² e 3 quartos, sendo um suíte master com closet e varanda.  
-
-O imóvel possui lavabo; 04 pontos de ar condicionado; rodapé embutido; bancadas em mármores e granito; 02 vagas de garagem coberta; quintal com 43,00m² nos fundos; 80x80 Premium; porta pivoltante; alto padrão de acabamento; frente com 11.4 metros de largura e possibilidade de ampliação da parte superior 30m².
-
-Diferenciais do condomínio: Portaria 24 hs, cerca elétrica e concertina, câmeras de monitoramento, vigilância NEW LINE, portão eletrônico de veículos, acesso facial, asfalto CBUQ, rede água e esgoto, fiação 100% subterrâneo.
-
-À 8 min do Flamboyant, ao  lado de 4 vias de acesso: Anel Viário, BR-153, Av. São Paulo, Eixo Norte Sul e Setor chácara São Pedro.
-
-O melhor custo beneficio de toda a região, venha e comprove!]]></Description>
-        <Floors>0</Floors>
-        <Garage>2</Garage>
-        <LivingArea unit="square metres">134</LivingArea>
-        <LotArea unit="square metres">134</LotArea>
-        <PropertyAdministrationFee currency="BRL">400</PropertyAdministrationFee>
-        <PropertyType>Residential / Condo</PropertyType>
-        <Suites>1</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features>
-          <Feature>Backyard</Feature>
-          <Feature>Balcony</Feature>
-          <Feature>Fenced Yard</Feature>
-          <Feature>Game room</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Gym</Feature>
-          <Feature>Maids Quarters</Feature>
-          <Feature>Playground</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">610000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>3</Address>
-        <City><![CDATA[Aparecida de Goiânia]]></City>
-        <Complement></Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Chácara São Pedro]]></Neighborhood>
-        <PostalCode>74923-030</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>00</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Sobrado em Condomínio 03 Quartos 01 Suíte Master com Closet e Varanda 134,12m² Condomínio Villa]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a6a3e3a0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a6c7d4ee.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a7e940a7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a76edfe2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a73f19ae.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a71af548.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a7949fe6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a6eec0ea.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a7bc7f25.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a832c572.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a80e7f96.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a9474486.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a8db7e2d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a969702f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a921d401.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a8928c14.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a8538a2d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a8fb6f9e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a8b6b683.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4249/ia5w6s_424967607a871f68d.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>4238</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -17971,86 +17908,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4066/i9211xM8e57_4066670ec099edbe4.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4066/i9211xM8e57_4066670ec0cbe703f.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4066/i9211xM8e57_4066670ec0b3286d8.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>4060</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>2</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Casas térreas 88m²
-São 03 quartos sendo 01 suíte; garagem para 02 carros; quintal privativo; pergolado; jardim de inverno; quintal no fundo com 38m². 
-
-À somente 8 min do Flamboyant, ao  lado de 4 vias de acesso: Anel Viário, BR-153, Av. São Paulo, Eixo Norte Sul. Setor chácara São Pedro
-
-O empreendimento conta com plantas inteligentes com ótimo quintal; Preparação para Boiler; Porcelanato 80x80; Rodapé embutido; Área de Lazer Completa: Piscinas em pastilha, salão de festa com pé direito duplo e porcelanato de 100x100 academia com os aparelhos, playground.
-
-Tomadas USB na sala e na suíte principal.
-
-Infraestrutura impar: Asfalto CBUQ, tubulação 100% subterrânea.
-
-O melhor custo beneficio de toda a região, venha e comprove!]]></Description>
-        <Floors>0</Floors>
-        <Garage>2</Garage>
-        <LivingArea unit="square metres">88</LivingArea>
-        <LotArea unit="square metres">176</LotArea>
-        <PropertyAdministrationFee currency="BRL">400</PropertyAdministrationFee>
-        <PropertyType>Residential / Condo</PropertyType>
-        <Suites>1</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <YearBuilt>2023</YearBuilt>
-        <Iptu currency="BRL" period="Yearly">700</Iptu>
-        <Features>
-          <Feature>Backyard</Feature>
-          <Feature>Maids Quarters</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">410000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Rua 3</Address>
-        <City><![CDATA[Aparecida de Goiânia]]></City>
-        <Complement></Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Chácara São Pedro]]></Neighborhood>
-        <PostalCode>74923-030</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>08</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>TRIPLE</PublicationType>
-      <Title><![CDATA[Casa em Condomínio 88m² 03 Quartos 01 Suíte com Armários Condomínio Villa Rica Royal Chácaras São]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055ab5e6fa1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055aa20c179.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055aa507ff1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055aa38c72e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055ab2699cd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055aad54084.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055aaa1ffa6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055aa875bbf.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055aaf1d2b3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055ab7960b2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055aa680588.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055aabb9a24.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055abd0a877.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055ac0b6845.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055abb32315.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055ab961ab1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055ac2b3d00.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055ab0bc5f0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055aa046f13.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055ab40b704.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055a9e96a6b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4063/i972D2SL97iZ_406367055a9cd7a5c.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
@@ -24170,6 +24027,7 @@ Uma excelente opção para quem deseja morar bem, em um ambiente seguro e com ó
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">400000</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2500</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Genésio de Lima Brito</Address>
@@ -24217,7 +24075,7 @@ Uma excelente opção para quem deseja morar bem, em um ambiente seguro e com ó
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/416/it12b65_41669f8a4c8549da.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/416/it12b65_41669f8a4ce30987.jpg</Item>
       </Media>
-      <TransactionType>For Sale</TransactionType>
+      <TransactionType>Sale/Rent</TransactionType>
     </Listing>
     <Listing>
       <ListingID>360</ListingID>
@@ -25318,7 +25176,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Iptu currency="BRL" period="Yearly">280</Iptu>
         <Features/>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">4800</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">4500</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>T - 5</Address>
