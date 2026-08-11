@@ -5,9 +5,175 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-08-10T21:21:24</PublishDate>
+      <PublishDate>2026-08-11T17:39:57</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
+    <Listing>
+      <ListingID>5606</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Conheça esse apartamento amplo, bem iluminado e com uma planta que valoriza conforto e privacidade.
+
+São 188m², em posição nascente, com sala para dois ambientes, sala de jantar, sala de TV, lavabo e uma agradável sacada em L.
+
+A área íntima conta com 3 quartos, sendo 2 suítes, todos os ambientes climatizados e ricos em armários. O apartamento ainda possui cozinha, área de serviço completa com quarto e banheiro de serviço e acabamento em piso de granito.
+
+O Thitara Park é um edifício tradicional do Setor Oeste, com apenas 2 apartamentos por andar, portaria e segurança 24 horas e uma estrutura de lazer que inclui piscinas adulto e infantil, piscina aquecida, churrasqueira, salão de festas, espaço infantil e quadra poliesportiva.
+
+A localização é outro diferencial, em frente ao Lago das Rosas, com fácil acesso a toda a estrutura de comércio e serviços do Setor Oeste.
+
+Um apartamento para quem procura espaço de verdade, boa localização e a solidez de um condomínio tradicional.]]></Description>
+        <Floors>0</Floors>
+        <Garage>2</Garage>
+        <LivingArea unit="square metres">188</LivingArea>
+        <LotArea unit="square metres">188</LotArea>
+        <PropertyAdministrationFee currency="BRL">2500</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>2</Suites>
+        <UnitFloor></UnitFloor>
+        <UsageType>Residential</UsageType>
+        <Iptu currency="BRL" period="Yearly">250</Iptu>
+        <Features>
+          <Feature>Balcony</Feature>
+          <Feature>Cooling</Feature>
+          <Feature>Maids Quarters</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">1300000</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>2</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>Apartamento 902</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude></Latitude>
+        <Longitude></Longitude>
+        <Neighborhood><![CDATA[Setor Oeste]]></Neighborhood>
+        <PostalCode>74110-130</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>708</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento 188,00m² 3 Quartos 2 Suítes Sacada Edifício Thitara Park Setor Oeste Goiânia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74d51bdd1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74d31f028.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74cc7493b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74ce84cd9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74da0fa2b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74f78d46e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74f9e0154.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74d0c5715.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74dc34c89.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74e903e6a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74e29899c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74e6f11d6.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74fe7487c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74e095dc2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74f5731a0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74d73ebde.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74e4b209f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74de43afd.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74fc193ef.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74edce5e3.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74eb22bdc.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74f32b363.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5607/i3Z4_56076a7b74f010b02.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing>
+    <Listing>
+      <ListingID>5605</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Casa 2 Quartos, com 58,00 m², para locação, na Rua 16, Residencial Santa Luzia, Aparecida de Goiânia.
+
+Descrição do Imóvel: 
+
+Casa 2 Quartos, 1 Suíte, 58,00 m² para locação, Residencial Santa Luzia, Aparecida de Goiânia.
+
+Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança. 
+
+Detalhes do imóvel: 
+- 2 Quartos 
+- 1 Suíte 
+- 1 Banheiro Social 
+- Cozinha 
+- Sala 
+- 3 Vagas de garagem 
+ 
+Ideal para: 
+[Solteiros ou família com até 4 pessoas] 
+
+Seu novo imóvel está aqui. Aproveite essa oportunidade! 
+
+Entre em contato e agende sua visita! 
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+        <Floors>0</Floors>
+        <Garage>3</Garage>
+        <LivingArea unit="square metres">58</LivingArea>
+        <LotArea unit="square metres">0</LotArea>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>1</Suites>
+        <UnitFloor></UnitFloor>
+        <UsageType>Residential</UsageType>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features>
+          <Feature>Backyard</Feature>
+          <Feature>Maids Quarters</Feature>
+          <Feature>Parking Garage</Feature>
+        </Features>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">1900</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>Rua X-016 Qd. 34, Lt. 06, Casa 01</Address>
+        <City><![CDATA[Aparecida de Goiânia]]></City>
+        <Complement>Qd 34 Lt 06 Casa 01</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude></Latitude>
+        <Longitude></Longitude>
+        <Neighborhood><![CDATA[Setor Santa Luzia]]></Neighborhood>
+        <PostalCode>74921-375</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>00</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa 2 Quartos, com 58,00 m², para locação, na Rua 16, Residencial Santa Luzia, Aparecida de]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b39b769b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b5080c9e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b42e39e9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b40b4041.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b44ce5b2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b4699555.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b48d5e4e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b4a81cd4.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b4c7ce5e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b4ea021d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b546a5a3.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b566eb56.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b3e30178.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b58e926a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b5b6a8fb.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b5d81bc0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5606/igIM335T1513BGG_56066a7b0b5ff0a92.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
+    </Listing>
     <Listing>
       <ListingID>5599</ListingID>
       <ContactInfo>
@@ -1560,7 +1726,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <Details>
         <Bathrooms>2</Bathrooms>
         <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Apartamento com 60m², bem distribuído e ideal para quem busca conforto e praticidade. O imóvel conta com 3 quartos, sendo 1 reversível, e 2 deles possuem armários. A sala é espaçosa para 2 ambientes, proporcionando um espaço agradável para convivência e momentos em família.
+        <Description><![CDATA[Apartamento com 60m², bem distribuído e ideal para quem busca conforto e praticidade. O imóvel conta com 3 quartos, sendo 1 reversível, e 2 deles possuem armários. 
 
 O banheiro social possui armário, assim como a cozinha, oferecendo mais funcionalidade no dia a dia. O apartamento dispõe ainda de área de serviço e banheiro de serviço, trazendo mais comodidade para os moradores. Todo o imóvel possui piso em cerâmica, garantindo praticidade na limpeza e manutenção.
 
@@ -19951,69 +20117,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3347/i7W842epF1_334765bb8239056c3.jpg</Item>
       </Media>
       <TransactionType>For Rent</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>3332</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Apartamento de 3 quartos no Setor Leste Vila Nova, com 65 m² de área, ideal para quem busca conforto, praticidade e segurança no dia a dia.
-
-O imóvel conta com 3 quartos, 1 banheiro, cozinha funcional, sala para dois ambientes e 1 vaga de garagem. Os ambientes são bem distribuídos, proporcionando comodidade para toda a família.
-
-Localizado em uma região com fácil acesso a comércios, serviços e principais vias da cidade, o apartamento oferece uma excelente opção para morar com tranquilidade e conveniência.
-
-O condomínio dispõe de segurança 24 horas, garantindo mais proteção e tranquilidade para os moradores.
-
-Entre em contato para mais informações e agende uma visita.]]></Description>
-        <Floors>0</Floors>
-        <Garage>1</Garage>
-        <LivingArea unit="square metres">65</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
-        <PropertyAdministrationFee currency="BRL">550</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <YearBuilt>1983</YearBuilt>
-        <Iptu currency="BRL" period="Yearly">72</Iptu>
-        <Features>
-          <Feature>Kitchen</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">210000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>D</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Bloco 12B apt101B</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Setor Leste Vila Nova]]></Neighborhood>
-        <PostalCode>74635-075</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>385</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento 65m² 3 Quartos Residencial Sonho Dourado Setor Leste Vila Nova Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3335/i1oZOIe5tc81J18D489zf_333569b42e210fa90.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3335/i1oZOIe5tc81J18D489zf_333569b42e276f85e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3335/i1oZOIe5tc81J18D489zf_333569b42e1743572.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3335/i1oZOIe5tc81J18D489zf_333569b42e19bbf2e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3335/i1oZOIe5tc81J18D489zf_333569b42e1f04258.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3335/i1oZOIe5tc81J18D489zf_333569b42e2444d96.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3335/i1oZOIe5tc81J18D489zf_333569b42e1c59c8f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3335/ibTtJ5545r7Fn2r_333569b4306f14ae6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3335/ibTtJ5545r7Fn2r_333569b430725ae4c.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
     </Listing>
     <Listing>
       <ListingID>3304</ListingID>
