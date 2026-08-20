@@ -5,9 +5,131 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-08-19T07:30:47</PublishDate>
+      <PublishDate>2026-08-19T19:30:33</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
+    <Listing>
+      <ListingID>5609</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Casa em condomínio com 3 Quartos, sendo 3 suítes, 151,03 m², para locação, Setor Jardins Lyon, Aparecida de Goiânia - GO. 
+
+Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança. 
+
+Detalhes do imóvel: 
+- 3 Quartos 
+- 3 Suíte, suíte principal com closet. 
+- 1 lavabo
+-Cozinha com armários planejados, coifa, fogão, microondas,  geladeira.churrasqueira.
+-Sala ampla com painel 
+- Área de lazer privativa com piscina.
+- 2 vagas de garagens.
+
+O condomínio oferece excelente estrutura de lazer, com piscina, praças, quadras esportivas e panificadora, proporcionando praticidade e qualidade de vida aos moradores.
+
+Localização estratégica: . Próximo Buriti Shopping , supermercado Tatico.
+
+Ideal para: 
+[família] 
+ 
+Seu novo imóvel está aqui. Aproveite essa oportunidade! 
+
+Entre em contato e agende sua visita! 
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020
+
+Ligue e agende sua visita!]]></Description>
+        <Garage>2</Garage>
+        <LivingArea unit="square metres">151</LivingArea>
+        <LotArea unit="square metres">252</LotArea>
+        <PropertyAdministrationFee currency="BRL">600</PropertyAdministrationFee>
+        <PropertyType>Residential / Condo</PropertyType>
+        <Suites>3</Suites>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Controlled Access</Feature>
+          <Feature>Fenced Yard</Feature>
+          <Feature>Garden Area</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Maids Quarters</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Tennis court</Feature>
+        </Features>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">6500</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <Address>Rua Jl-03</Address>
+        <City><![CDATA[Aparecida de Goiânia]]></City>
+        <Latitude>-16.7381771</Latitude>
+        <Longitude>-49.3404636</Longitude>
+        <Neighborhood><![CDATA[Papillon Pak]]></Neighborhood>
+        <PostalCode>74918-100</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[asa em condomínio 3 Quartos, sendo 3 suíte, 151,03 m², Jardins Lyon, Aparecida de Goiânia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0e1a7944.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0c663c2e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e15e75262.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e1257f6ba.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0c818e8f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e1389329e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0dfe40ee.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0b9a04d2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0db518eb.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0c9c1236.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e11b99178.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0dde4098.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e12173fa3.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e11766662.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e1157751b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0cb914d5.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e14583248.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0fadb067.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e12769dac.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0f6b6bad.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e1328913a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e134670bc.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e130688ea.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e13c38241.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e1296784e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e13a68ecc.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859dc0b4220.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0b7a2c29.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859dc7b0df6.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e1568b98f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e169ea02d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e14b64eaa.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e14f14ca2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e16617a7a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e152d450c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e16253788.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e16db6e8d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e140dfa8a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e15a875eb.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859db3bde93.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859dbae95a8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859dcc064a4.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859db8a7169.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859ddc98f3e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859dc3818c3.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859dbdea36e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859dd861f97.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859db1593ea.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i82nB9MVREv19l4t3YD_56106a85e0f42ce05.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5610/i3T4R3I6dB29136K8_56106a859db5e07c3.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
+    </Listing>
     <Listing>
       <ListingID>5607</ListingID>
       <ContactInfo>
@@ -15,7 +137,7 @@
         <Name>LOBO IMOVEIS</Name>
       </ContactInfo>
       <Details>
-        <Bathrooms>0</Bathrooms>
+        <Bathrooms>2</Bathrooms>
         <Bedrooms>0</Bedrooms>
         <Description><![CDATA[Sala para locação com área total de 266,60 m², Opus Setor Marista. 
 
@@ -4773,7 +4895,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Iptu currency="BRL" period="Yearly">200</Iptu>
         <Features/>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">4900</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">4400</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>V 8</Address>
@@ -12593,7 +12715,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Iptu currency="BRL" period="Yearly">106</Iptu>
         <Features/>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">4200</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">4000</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>V-5</Address>
