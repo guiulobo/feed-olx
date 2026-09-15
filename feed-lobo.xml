@@ -5,9 +5,60 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-09-15T07:34:50</PublishDate>
+      <PublishDate>2026-09-15T19:38:26</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
+    <Listing>
+      <ListingID>5652</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Loja  térrea para locação com área privativa 72m², Setor Marista, Goiânia. 
+ 
+Imóvel pronto para atender suas necessidades, abrindo ou expandindo seu negócio com conforto, praticidade e segurança. 
+ 
+Loja comercial, na região mais aquecida e valorizada no Setor Marista, Goiânia.
+- Loja 
+- 2 banheiros 
+- Copa 
+ 
+Diferenciais do bairro:
+Infraestrutura comercial, bancária, clínicas médicas, hospitais.
+Ao lado da Clínica e Laboratório São Gabriel. 
+ 
+Não perca oportunidade de montar seu negócio, aproveite essa oportunidade! 
+
+Entre em contato e agende sua visita! 
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+        <LivingArea unit="square metres">72</LivingArea>
+        <LotArea unit="square metres">0</LotArea>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <PropertyType>Commercial / Business</PropertyType>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features/>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">5200</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <Address>90</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Latitude>-16.6991995</Latitude>
+        <Longitude>-49.2528599</Longitude>
+        <Neighborhood><![CDATA[Setor Sul]]></Neighborhood>
+        <PostalCode>74180-015</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>918</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Loja Avenida 90 m², 72 m²,  Setor Marista, Goiânia-GO]]></Title>
+      <Media/>
+      <TransactionType>For Rent</TransactionType>
+    </Listing>
     <Listing>
       <ListingID>5651</ListingID>
       <ContactInfo>
@@ -16216,7 +16267,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Iptu currency="BRL" period="Yearly">160</Iptu>
         <Features/>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">2500</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">2000</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -16240,15 +16291,13 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bdedf739.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3be30e8d9.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3be72ffda.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bead81e3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3b96e3112.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bee09845.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bf1db7f1.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bf5daa15.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bf9d9b88.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bfe09b86.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3c01de729.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bcb5a7b8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3b96e3112.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3b9adb82a.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3b9e2bf8e.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3ba207e66.jpg</Item>
@@ -16260,6 +16309,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bb6e07f4.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bc30fc04.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bc73229e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4581/iZ7rK9LCe6s_45816a5a3bcb5a7b8.jpg</Item>
       </Media>
       <TransactionType>For Rent</TransactionType>
     </Listing>
@@ -17500,108 +17550,6 @@ Agende sua visita!]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4216/io2f9w_42166734917f5db1c.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>4083</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Galpão para locação com área total de 300 m², Setor Ipiranga
-
-Imóvel pronto para atender suas necessidades, abrindo ou expandindo seu negócio com conforto, praticidade e segurança.  
-- 2 Banheiros
--Mezanino
-
-Diferenciais do bairro: 
-Infraestrutura comercial, bancária, clínicas médicas, hospitais.
-
-Não perca oportunidade de montar seu negócio, aproveite essa oportunidade!  
-  
-Entre em contato e agende sua visita!  
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <LivingArea unit="square metres">300</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Industrial</PropertyType>
-        <Iptu currency="BRL" period="Yearly">85</Iptu>
-        <Features/>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">9500</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Independência</Address>
-        <City><![CDATA[Aparecida de Goiânia]]></City>
-        <Complement>0214</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Neighborhood><![CDATA[Independência]]></Neighborhood>
-        <PostalCode>74967-145</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-      </Location>
-      <PublicationType>TRIPLE</PublicationType>
-      <Title><![CDATA[Galpão  Av.Independência 300 m² Setor Ipiranga Aparecida de Goiania]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4084/if5e8n_4084672292cf995bd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4084/if5e8n_4084672292cd160dc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4084/if5e8n_4084672292ca7973a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4084/if5e8n_4084672292d203e29.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>4082</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>2</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Galpão para locação , 300m², Setor Ipiranga. 
-  
-Imóvel pronto para atender suas necessidades, abrindo ou expandindo seu negócio com conforto, praticidade e segurança.  
-  
-Sala comercial, na região mais aquecida e valorizada do Setor Ipiranga. 
--  Portas automáticas
-- 02 banheiros
-- Possui Habite-se 
-  
-Diferenciais do bairro: 
-Infraestrutura comercial, bancária, clínicas médicas, hospitais.
-  
-Não perca oportunidade de montar seu negócio, aproveite essa oportunidade!  
-  
-Entre em contato e agende sua visita!  
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <LivingArea unit="square metres">300</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Industrial</PropertyType>
-        <Iptu currency="BRL" period="Yearly">85</Iptu>
-        <Features/>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">9500</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Independência</Address>
-        <City><![CDATA[Aparecida de Goiânia]]></City>
-        <Country abbreviation="BR">Brasil</Country>
-        <Neighborhood><![CDATA[Independência]]></Neighborhood>
-        <PostalCode>74967-145</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-      </Location>
-      <PublicationType>TRIPLE</PublicationType>
-      <Title><![CDATA[Galpão Av. Independência 300m² Setor Ipiranga Aparecida de Goiania]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4083/ih7h1w_4083672293091625c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4083/ih7h1w_4083672293068ba86.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4083/ih7h1w_40836722930b94271.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4083/ih7h1w_408367229303c63c1.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
       <ListingID>4063</ListingID>
@@ -22207,8 +22155,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <Details>
         <Bathrooms>1</Bathrooms>
         <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Descrição do Imóvel:
-Apartamento 3 Quartos, 1 Suíte, 76 m² para locação, Parque Amazônia.
+        <Description><![CDATA[Apartamento 3 Quartos, 1 Suíte, 76 m² para locação, Parque Amazônia.
 
 Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
 
@@ -22250,7 +22197,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Pool</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">2300</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">1980</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Salvador</Address>
@@ -23396,7 +23343,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Iptu currency="BRL" period="Yearly">160</Iptu>
         <Features/>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">1650</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">1500</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>260</Address>
