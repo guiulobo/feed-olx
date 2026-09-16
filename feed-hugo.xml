@@ -5,9 +5,93 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-09-15T21:21:58</PublishDate>
+      <PublishDate>2026-09-16T19:38:21</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
+    <Listing>
+      <ListingID>5653</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Casa com 160 m² de área construída, em um terreno de 360 m², com excelente distribuição dos ambientes e localização privilegiada, a apenas 400 metros do Parque Macambira.
+
+O imóvel possui 3 quartos, sendo 1 suíte plena e 2 suítes americanas, além de sala de estar, cozinha com armários planejados e fogão, lavabo e sala de TV, proporcionando conforto e praticidade para toda a família.
+
+A área externa conta com uma agradável área gourmet, equipada com churrasqueira e armários, ideal para reunir familiares e amigos.
+
+A casa possui acabamento em Blindex e alumínio, ar-condicionado, climatizador e sistema de energia solar, trazendo mais conforto e eficiência para o dia a dia. Para maior segurança, conta ainda com cerca elétrica, concertina, portão eletrônico e interfone.
+
+A proximidade com o Parque Macambira é um dos grandes diferenciais do imóvel, permitindo fácil acesso a uma área de lazer e contato com a natureza, contribuindo para mais qualidade de vida, bem-estar e momentos de lazer sem precisar ir longe de casa.
+
+Uma casa completa, confortável e funcional, ideal para quem busca espaço, segurança, tecnologia e qualidade de vida em uma excelente localização.]]></Description>
+        <Floors>0</Floors>
+        <Garage>0</Garage>
+        <LivingArea unit="square metres">0</LivingArea>
+        <LotArea unit="square metres">360</LotArea>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <PropertyType>Residential / Home</PropertyType>
+        <Suites>3</Suites>
+        <UnitFloor></UnitFloor>
+        <UsageType>Residential</UsageType>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Cooling</Feature>
+          <Feature>Intercom</Feature>
+          <Feature>Kitchen</Feature>
+          <Feature>Maids Quarters</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">860000</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>F-24</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement></Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude>-16.7382864</Latitude>
+        <Longitude>-49.3164367</Longitude>
+        <Neighborhood><![CDATA[Setor Faiçalville]]></Neighborhood>
+        <PostalCode>74350-170</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>00</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Casa 160m² 3 Quartos 1 Suíte Área Gourmet Setor Faiçalville Goiânia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83bfe7f17.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83dc8662f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83ca36465.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83e043769.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83d8703ef.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83f2b975c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83e60ad96.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83ed819bd.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83ef4b97a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83eba639b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83f4b94c3.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83ccb7585.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83c63cbf0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83c1e0c26.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83d08a06a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83f8626eb.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83d4c7ee9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83f680140.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83fa64346.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83f105239.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83b60a82d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83b80e24a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa83fe3e1c9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa84026083f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5654/i29W5148cWg4421_56546aaa84003e534.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing>
     <Listing>
       <ListingID>5652</ListingID>
       <ContactInfo>
@@ -63,7 +147,17 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       </Location>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Loja Avenida 90 m², 72 m²,  Setor Marista, Goiânia-GO]]></Title>
-      <Media/>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5653/i78631C7933p15G6_56536aaac3544ab6b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5653/i78631C7933p15G6_56536aaac34cd1ddb.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5653/i78631C7933p15G6_56536aaac3573908b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5653/i78631C7933p15G6_56536aaac35261e3a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5653/i78631C7933p15G6_56536aaac350942aa.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5653/i78631C7933p15G6_56536aaac355b7ac1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5653/i78631C7933p15G6_56536aaac391b87cd.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5653/i78631C7933p15G6_56536aaac38b3ecee.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5653/i78631C7933p15G6_56536aaac34e991e7.jpg</Item>
+      </Media>
       <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
@@ -2399,11 +2493,11 @@ O imóvel conta com 3 quartos, sendo 1 suíte com armários, banheiro social, sa
       </ContactInfo>
       <Details>
         <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
+        <Bedrooms>1</Bedrooms>
         <Description><![CDATA[Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
 
 Detalhes do imóvel:
--2 Quartos
+-1 Quarto
 -Cozinha
 -Banheiro social 
 -Area de serviço
@@ -5636,7 +5730,7 @@ O imóvel ainda possui corredor lateral e quintal gramado nos fundos, proporcion
         <Iptu currency="BRL" period="Yearly">0</Iptu>
         <Features/>
         <Warranties/>
-        <ListPrice currency="BRL">310000</ListPrice>
+        <ListPrice currency="BRL">340000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Address>República do Chile</Address>
@@ -12256,81 +12350,6 @@ Agende a sua visita.]]></Description>
       <TransactionType>For Sale</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>5203</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>4</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Casa de alto padrão localizada no setor Moinho dos Ventos, em Goiânia, ideal para quem busca conforto, sofisticação e excelente localização. O imóvel conta com 3 suítes plenas, bem distribuídas, oferecendo privacidade e comodidade para toda a família.
-
-A casa possui uma sala ampla com pé-direito duplo, acabamento em porcelanato, iluminação em LED e janelas e portas em esquadrias de meia, garantindo mais elegância e iluminação natural. A área construída é de 238 m², em um lote de 345 m².
-
-Na área externa, o imóvel oferece uma agradável área gourmet com churrasqueira, perfeita para receber amigos e familiares, além de piscina aquecida e um belo jardim. A garagem é coberta e comporta até 3 veículos.
-
-Localização privilegiada, próxima a praças, supermercados, farmácias, academias, restaurantes, distribuidoras e diversas conveniências do dia a dia. O proprietário aceita carro na negociação e analisa lote como parte do pagamento. Excelente oportunidade no Moinho dos Ventos.]]></Description>
-        <Floors>0</Floors>
-        <Garage>0</Garage>
-        <LivingArea unit="square metres">238</LivingArea>
-        <LotArea unit="square metres">345</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>3</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features>
-          <Feature>BBQ</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Maids Quarters</Feature>
-          <Feature>Pool</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">1300000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Mdv 19</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement></Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Moinho dos Ventos]]></Neighborhood>
-        <PostalCode>74371-470</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>00</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa Alto Padrão 238m² 3 Suítes Plenas Piscina Setor Moinho dos Ventos Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7e7e011a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7d193027.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/iD8x6ViV755TFs1A89FK4_52046a47b9607d4ea.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7e0d2294.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7ea5de82.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/iD8x6ViV755TFs1A89FK4_52046a47b9629659e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7d664a7a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/iD8x6ViV755TFs1A89FK4_52046a47b964b30fc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/iD8x6ViV755TFs1A89FK4_52046a47b9be26df1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7d3ed01a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7e59a4b4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7e35838d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7cf1ff07.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/iD8x6ViV755TFs1A89FK4_52046a47b9c2b7300.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/iD8x6ViV755TFs1A89FK4_52046a47b9bc26afc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7dbcfc97.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7d8d9dec.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/iD8x6ViV755TFs1A89FK4_52046a47b9c036d08.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/ia4c5u_5204697cb7de85ff7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/i46NZ1o419694h73L12v7_52046a47ba0fdd923.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5204/i46NZ1o419694h73L12v7_52046a47ba1220462.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>5202</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -16124,7 +16143,7 @@ Financiamento facilitado, com análise gratuita. Entre em contato e agende sua v
           <Feature>Pool</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">1300000</ListPrice>
+        <ListPrice currency="BRL">1850000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Mdv 44</Address>
