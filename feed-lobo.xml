@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-09-21T07:36:05</PublishDate>
+      <PublishDate>2026-09-21T19:37:53</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -25180,7 +25180,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Home Office</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">1700</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">1400</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Marmelos</Address>
