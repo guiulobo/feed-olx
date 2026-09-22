@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-09-21T21:21:47</PublishDate>
+      <PublishDate>2026-09-22T19:43:19</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -19805,6 +19805,76 @@ Ligue e agende sua visita!]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4017/i5xM53af8_401766edb6565e7fc.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4017/i5xM53af8_401766edb63f14609.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4017/i5xM53af8_401766edb68da4549.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing>
+    <Listing>
+      <ListingID>3997</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento 50m² com 2 quartos com armários, sendo 1 suíte. Possui sala, cozinha separada com armários, área de serviços e banheiro social. Janelas com telas de proteção, vista para a rua e água já inclusa no valor do condomínio.
+
+O condomínio oferece 1 vaga coberta para carro.
+
+Localização prática e de fácil acesso, próximo à Avenida Anhanguera, Polo 44, Araguaia Shopping, supermercados e demais serviços da região.
+
+Uma opção ideal para quem busca praticidade, boa localização e um apartamento pronto para entrar e morar. Agende a sua visita!]]></Description>
+        <Floors>0</Floors>
+        <Garage>1</Garage>
+        <LivingArea unit="square metres">50</LivingArea>
+        <LotArea unit="square metres">50</LotArea>
+        <PropertyAdministrationFee currency="BRL">650</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>1</Suites>
+        <UnitFloor>1</UnitFloor>
+        <UsageType>Residential</UsageType>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features/>
+        <Warranties/>
+        <ListPrice currency="BRL">250000</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>8</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>apt102</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude></Latitude>
+        <Longitude></Longitude>
+        <Neighborhood><![CDATA[Setor Central]]></Neighborhood>
+        <PostalCode>74013-030</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>820</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>PREMIERE_1</PublicationType>
+      <Title><![CDATA[Apartamento 50m² 2 Quartos 1 Suíte Edifício Bogotá Setor Central Goiânia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6156e62164.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d61574dd012.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d61572819e8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6157930ec8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6158f99a75.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d615771c5e2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6157b6c834.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6157da1067.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6158446ba1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d61591d7b71.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d61582066ff.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6157fb9293.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6158d5e46b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6158649e13.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6158b1cfc9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d615889e570.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6159432e61.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d61596cd994.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d615994a140.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6159bb037b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6159e753a7.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
