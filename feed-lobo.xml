@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-09-29T07:36:29</PublishDate>
+      <PublishDate>2026-09-29T19:37:54</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -50,7 +50,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <PropertyAdministrationFee currency="BRL">700</PropertyAdministrationFee>
         <PropertyType>Residential / Apartment</PropertyType>
         <Suites>3</Suites>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Iptu currency="BRL" period="Yearly">268</Iptu>
         <Features>
           <Feature>Cooling</Feature>
           <Feature>Elevator</Feature>
@@ -5264,13 +5264,13 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <LotArea unit="square metres">0</LotArea>
         <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
         <PropertyType>Commercial / Edificio Comercial</PropertyType>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Iptu currency="BRL" period="Yearly">1070</Iptu>
         <Features>
           <Feature>Kitchen</Feature>
         </Features>
         <Warranties/>
         <ListPrice currency="BRL">2900000</ListPrice>
-        <RentalPrice currency="BRL" period="Monthly">16000</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">15000</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -14596,7 +14596,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Maids Quarters</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">3400</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">3300</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Perimetral</Address>
@@ -14608,7 +14608,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[CCasa 2 Quartos, 241,71m² para locação Setor Coimbra]]></Title>
+      <Title><![CDATA[Casa 2 Quartos, 241,71m² para locação Setor Coimbra]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4989/i59J37849ibg3V_49896a60dfd6966cd.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4989/i59J37849ibg3V_49896a60dfdb38106.jpg</Item>
@@ -18096,71 +18096,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4034/i36u8E3l13hY1p93dbD_403466f164dad3d4c.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4034/i36u8E3l13hY1p93dbD_403466f164d722f21.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4034/i36u8E3l13hY1p93dbD_403466f164d8d3fa4.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>3997</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>2</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento 50m² com 2 quartos com armários, sendo 1 suíte. Possui sala, cozinha separada com armários, área de serviços e banheiro social. Janelas com telas de proteção, vista para a rua e água já inclusa no valor do condomínio.
-
-O condomínio oferece 1 vaga coberta para carro.
-
-Localização prática e de fácil acesso, próximo à Avenida Anhanguera, Polo 44, Araguaia Shopping, supermercados e demais serviços da região.
-
-Uma opção ideal para quem busca praticidade, boa localização e um apartamento pronto para entrar e morar. Agende a sua visita!]]></Description>
-        <Garage>1</Garage>
-        <LivingArea unit="square metres">50</LivingArea>
-        <LotArea unit="square metres">50</LotArea>
-        <PropertyAdministrationFee currency="BRL">650</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>1</Suites>
-        <UnitFloor>1</UnitFloor>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">250000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <Address>8</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>apt102</Complement>
-        <Neighborhood><![CDATA[Setor Central]]></Neighborhood>
-        <PostalCode>74013-030</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>820</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento 50m² 2 Quartos 1 Suíte Edifício Bogotá Setor Central Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6156e62164.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d61574dd012.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d61572819e8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6157930ec8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6158f99a75.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d615771c5e2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6157b6c834.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6157da1067.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6158446ba1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d61591d7b71.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d61582066ff.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6157fb9293.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6158d5e46b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6158649e13.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6158b1cfc9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d615889e570.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6159432e61.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d61596cd994.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d615994a140.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6159bb037b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4000/i6e35_400066d6159e753a7.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
@@ -23528,7 +23463,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Pool</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">2350</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">2300</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>T-3</Address>
