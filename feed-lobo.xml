@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-04T19:37:22</PublishDate>
+      <PublishDate>2026-10-05T07:35:42</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -1231,7 +1231,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Playground</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">6500</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">6150</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>22</Address>
@@ -21541,6 +21541,76 @@ Entradas independentes]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2699/ij3223A0rngQ_269964c8119536a80.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
+    </Listing>
+    <Listing>
+      <ListingID>2640</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Description><![CDATA[Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
+
+Detalhes do imóvel:
+- 1 Quarto
+- 1 Banheiro
+- Cozinha 
+- Sala 
+
+Localização estratégica: Ao lado da Embalagens Tocantins.
+
+Seu novo imóvel está aqui. Aproveite essa oportunidade!
+
+Entre em contato e agende sua visita!
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+        <LivingArea unit="square metres">38</LivingArea>
+        <LotArea unit="square metres">38</LotArea>
+        <PropertyAdministrationFee currency="BRL">120</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>1</Suites>
+        <YearBuilt>2005</YearBuilt>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features>
+          <Feature>Kitchen</Feature>
+        </Features>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">1100</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>Doutor Gil Lino</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>apt 302</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude>-16.67476515213964</Latitude>
+        <Longitude>-49.28544300580444</Longitude>
+        <Neighborhood><![CDATA[Setor Coimbra]]></Neighborhood>
+        <PostalCode>74535-290</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>250</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento, 01 Quarto, para locação, Setor Coimbra]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe2283f52d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe23513009.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe23219de5.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe22a6b925.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe2303593f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe22d3f7fb.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe21687eaa.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe21385831.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe21985494.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe2261bd4b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe2243b039.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe221408e1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe21f17a6c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe21cc2ae4.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe2113e150.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2640/iUJ25d68_26406aabe20f1f61e.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
       <ListingID>2631</ListingID>
