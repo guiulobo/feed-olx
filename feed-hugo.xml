@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-06T21:21:43</PublishDate>
+      <PublishDate>2026-10-07T21:00:08</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -69,6 +69,95 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5674/i9828V9_56746ac53e48ae04e.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5674/i9828V9_56746ac53e4cd26ff.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5674/i9828V9_56746ac53e503a68b.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
+    </Listing>
+    <Listing>
+      <ListingID>5672</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento Mobiliado para locação, Setor Bueno, 70 m², 2 quartos, 1 Suíte, 1 vaga de garagem, próximo Buriti Shopping
+
+Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
+
+Detalhes do imóvel:
+- 2 quartos com armários planejados
+- Suíte principal com cama casal, TV. 
+- Banheiro social 
+- Sala mobiliada 
+- Cozinha com armários planejados  
+- Área de serviço ampla, com armários 
+- 1 vagas de garagem 
+
+Diferenciais do condomínio/bairro:
+Segurança 24h
+Área de lazer: salão de festa 
+
+Localização estratégica: Próximo Buriti Shopping 
+
+Ideal para:
+[Casal, e família]
+
+OBS: Será entregue mobiliado conforme fotos . 
+
+Seu novo imóvel está aqui. Aproveite essa oportunidade!
+Entre em contato e agende sua visita!
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+        <Floors>0</Floors>
+        <Garage>1</Garage>
+        <LivingArea unit="square metres">70</LivingArea>
+        <LotArea unit="square metres">0</LotArea>
+        <PropertyAdministrationFee currency="BRL">476</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>1</Suites>
+        <UnitFloor></UnitFloor>
+        <UsageType>Residential</UsageType>
+        <Iptu currency="BRL" period="Yearly">40</Iptu>
+        <Features>
+          <Feature>Cooling</Feature>
+          <Feature>Furnished</Feature>
+          <Feature>Kitchen</Feature>
+          <Feature>Maids Quarters</Feature>
+        </Features>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">3400</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>Jari</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>Apto 202</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude></Latitude>
+        <Longitude></Longitude>
+        <Neighborhood><![CDATA[Parque Amazônia]]></Neighborhood>
+        <PostalCode>74840-600</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>80</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento Mobiliado 2 Quartos 1 Suíte 70 m² para locação Setor Parque Amazonia Goiania]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552b9df4ff.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/i6krf3F83oj_56736ac52ccfc427e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552bc8aa01.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552bf62391.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552c237e3a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552c5384d5.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552c791d16.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552ca8b9d0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552cd4cc3d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552d04cd3e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552d2db682.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552d53b342.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552d7c5c63.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552da35784.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552dd3152c.jpg</Item>
       </Media>
       <TransactionType>For Rent</TransactionType>
     </Listing>
@@ -530,7 +619,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <Details>
         <Bathrooms>4</Bathrooms>
         <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Apartamento Mobiliado para locação, Setor Bueno, 156 m², 3 quartos, 3 Suítes, 2 vaga de garagem, próximo Pão de Açucar.
+        <Description><![CDATA[Apartamento Mobiliado para locação, Setor Bueno, 156 m², 3 quartos, 3 Suítes, 2 vaga de garagens paralelas, próximo Pão de Açucar.
 
 Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
 
@@ -544,13 +633,11 @@ Detalhes do imóvel:
 
 Diferenciais do condomínio/bairro:
 Segurança 24h
-Área de lazer: Piscina e sauna coletivas, pergolado, salão de festa, academia, brinquedoteca. 
-
+Área de lazer: Piscina e sauna coletivas.
 Localização estratégica: Próximo Av. T-63, Supermercado Pão de Açucar.
 
 Ideal para:
 [Família]
-
 OBS: Será entregue mobiliado conforme fotos, iluminação automatizada. 
 
 Seu novo imóvel está aqui. Aproveite essa oportunidade!
@@ -2283,64 +2370,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>5622</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Área de 5.000 m², localizada no Sítios de Recreio Mansões do Campus, em Goiânia/GO. O terreno possui 50 metros de frente e fundo por 100 metros nas laterais.
-
-Excelente localização, próxima à GO-462 e à região dos Campus da UFG, com fácil acesso e inserida em uma área de grande potencial de valorização.
-
-Ideal para investimento, construção ou desenvolvimento de projetos. Uma ótima oportunidade para quem busca uma área ampla em uma região estratégica de Goiânia.]]></Description>
-        <Floors>0</Floors>
-        <Garage>0</Garage>
-        <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">5000</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Building</PropertyType>
-        <Suites>0</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Commercial</UsageType>
-        <Iptu currency="BRL" period="Yearly">898</Iptu>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">600000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Barão de Itaboraí</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement></Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Sítios de Recreio Mansões do Campus]]></Neighborhood>
-        <PostalCode>74691-170</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>00</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Área 5.000m² Sítios de Recreios Mansões do Campus Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5623/i1E9ZLg45ttUY9b25rQH_56236a918bfdb58dd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5623/i1E9ZLg45ttUY9b25rQH_56236a918bf8255c1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5623/i1E9ZLg45ttUY9b25rQH_56236a918c17adef8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5623/i1E9ZLg45ttUY9b25rQH_56236a918c084d664.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5623/i1E9ZLg45ttUY9b25rQH_56236a918c031239b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5623/i1E9ZLg45ttUY9b25rQH_56236a918be543985.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5623/i1E9ZLg45ttUY9b25rQH_56236a918be93dfba.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5623/i1E9ZLg45ttUY9b25rQH_56236a918bed94c2e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5623/i1E9ZLg45ttUY9b25rQH_56236a918bf2e6cd6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5623/i1E9ZLg45ttUY9b25rQH_56236a918c0d8b68c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5623/i1E9ZLg45ttUY9b25rQH_56236a918c126909c.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>5621</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -3847,72 +3876,6 @@ Entre em contato conosco e agende uma visita!]]></Description>
       <TransactionType>For Sale</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>5587</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[ÁREA COMERCIAL DE 1.800m² | 48 METROS DE FRENTE PARA O ANEL VIÁRIO
-
-Se você procura uma área com localização estratégica e alto potencial para investimento, esta é uma excelente oportunidade.
-
-Com 1.800m², a área conta com 48 metros de frente para o Anel Viário e é composta por 5 lotes, sendo 4 lotes de 360m² voltados para a Avenida V-8 e 1 lote de 360m² nos fundos.
-
-Localizada no Setor Mansões Paraíso, está em um dos principais corredores logísticos de Goiânia, com acesso rápido às BR-060, BR-153 e às principais regiões da capital. Uma localização que proporciona visibilidade, mobilidade e valorização constante.
-
-Ideal para a implantação de galpões, centros de distribuição, transportadoras, empresas de logística, indústrias leves, atacadistas e diversos empreendimentos comerciais.
-
-Seja para instalar sua empresa ou desenvolver um empreendimento comercial, esta área reúne os principais diferenciais que o mercado procura: localização estratégica, excelente frente para uma das vias mais importantes de Goiânia e grande potencial de valorização.]]></Description>
-        <Floors>0</Floors>
-        <Garage>0</Garage>
-        <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">1800</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Building</PropertyType>
-        <Suites>0</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Commercial</UsageType>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">2400000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>V 8 Quadra 19</Address>
-        <City><![CDATA[Aparecida de Goiânia]]></City>
-        <Complement>Quadra 19, Lotes 6, 7, 8, 9, 20</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Mansões Paraíso]]></Neighborhood>
-        <PostalCode>74952-560</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>00</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Área Comercial 1.800,00m² Frente para Anel Viário Mansões Paraíso Aparecida de Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c15fe7ba6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c1626df61.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c164a9376.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c15aec881.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c158915d1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c156303f5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c153c3485.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c151923be.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c15d6fdd0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c16ca5500.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c167172da.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c16f8d8fc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5588/ia7p1n_55886a60c169d2af1.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>5585</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -4504,7 +4467,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Iptu currency="BRL" period="Yearly">90</Iptu>
         <Features/>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">4400</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">4200</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>V-05</Address>
@@ -7272,100 +7235,6 @@ Agende sua visita e conheça essa oportunidade.]]></Description>
       <TransactionType>For Sale</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>5473</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>2</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Apartamento para venda, Setor Bueno, 72,60 m², 2 quartos, 2 suítes, 1 vaga de garagem, próximo ao Hapvida - Clínica Rio Araguaia.
-
-Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
-
-Detalhes do imóvel:
-- 2 quartos, sendo 2 suítes
-- 2 banheiros
-- Lavabo
-- Cozinha
-- Sala ampla
-- Área de serviço
-- Varanda
-- 1 vaga de garagem
-- Imóvel é lançamento, fotos do decorado
-- Entrega em Junho de 2026
-- Aceita permuta de veículo semi novo, até de 100.000 a 120.000
-
-Diferenciais do condomínio/bairro:
-Segurança 24h
-Área de lazer: Salão de festa, academia, piscina adulto e infantil.
-Localização estratégica: Próximo ao Hapvida - Clínica Rio Araguaia.
-
-Ideal para:
-[Família com até 4 pessoas]
-
-Seu novo imóvel está aqui. Aproveite essa oportunidade!
-Entre em contato e agende sua visita!
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <Floors>0</Floors>
-        <Garage>1</Garage>
-        <LivingArea unit="square metres">73</LivingArea>
-        <LotArea unit="square metres">73</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>2</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features>
-          <Feature>Balcony</Feature>
-          <Feature>Fenced Yard</Feature>
-          <Feature>Gym</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Maids Quarters</Feature>
-          <Feature>Party Room</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">750000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>T-1</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Apto 2502</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude>-16.696647</Latitude>
-        <Longitude>-49.2747919</Longitude>
-        <Neighborhood><![CDATA[Setor Bueno]]></Neighborhood>
-        <PostalCode>74215-022</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>1340</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>SUPER_PREMIUM</PublicationType>
-      <Title><![CDATA[Apartamento 2 Quartos, 2 Suítes, 72,60 m² para venda, Setor Bueno, Goiânia.]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b23dee110.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b2301363d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b224df354.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b22cdbc0f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b2284c341.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b221114dc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b21cdfd18.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b23bbe0a7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b232d1b81.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b2401207c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b25072271.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b24286b3f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b246c7ef8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b24d73935.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b24b066be.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b2532166d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5474/ir589Jb88lbD3298_54746a05b255e3cae.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>5471</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -8018,6 +7887,8 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Description><![CDATA[Excelente imóvel comercial localizado na Av. V-8 (Anel Viário), em região estratégica e de fácil acesso, próximo ao HMAP e ao setor Veiga Jardim.
 
 O imóvel possui área edificada de 247,00 m² em um terreno de 360,00 m². Conta com copa, 02 banheiros, pé-direito de 6 metros e portão de 5 metros, proporcionando facilidade para entrada e circulação de veículos.
+
+Possui recuo de 4m para estacionamento de 04 vagas. 
 
 A estrutura possui lateral e fundos descobertos, cobertura em telha metálica, 04 exaustores e piso em cimento laminado.
 
@@ -15700,7 +15571,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
 
 O imóvel é composto por duas salas, sendo uma com 82,00 m² e outra com 67,00 m², proporcionando flexibilidade para diferentes tipos de negócios e atividades profissionais.
 
-Possui frente de 16,66 metros, 04 banheiros e piso em porcelanato, além de um excelente acabamento.
+Possui frente de 16,66 metros, 04 banheiros e piso em porcelanato, além de um excelente acabamento e também recuo de 10m para estacionamento de 06 vagas. 
 
 Uma ótima oportunidade para clínicas, consultórios, escritórios, empresas e outros negócios que buscam um imóvel bem localizado, amplo e pronto para uso, em uma região estratégica e de fácil acesso.]]></Description>
         <Floors>0</Floors>
@@ -17850,95 +17721,6 @@ Agende sua visita agora mesmo!]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4823/iy0e9f_4823680bd6b7d795c.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4823/iy0e9f_4823680bd6ab5558c.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4823/iy0e9f_4823680bd6a059df7.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>4821</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>6</Bathrooms>
-        <Bedrooms>4</Bedrooms>
-        <Description><![CDATA[Área construída: 220 m² + área externa com deck e piscina aquecida
-
-Entrega prevista em 12 meses. 
-
-Este sobrado sofisticado, localizado no Condomínio Terras Alphaville em Anápolis, oferece um design moderno e funcional, ideal para quem busca qualidade de vida e conforto:
-
-4 suítes, sendo a suíte master com closet e varanda privativa;
-
-Salas de TV e jantar com pé-direito duplo, proporcionando maior amplitude e iluminação natural;
-
-Esquadrias de alumínio com persianas automatizadas, garantindo conforto térmico e acústico;
-
-Varanda gourmet com ilha e churrasqueira, ideal para momentos de lazer;
-
-Piscina com deck de madeira, iluminação especial e aquecimento solar;
-
-Lavabo, área de serviço e garagem coberta para dois carros;
-
-Sistema de aquecimento solar nas torneiras monocomando e poço artesiano;
-
-Infraestrutura para ar-condicionado em todos os ambientes;
-
-Projeto luminotécnico com sancas e fitas de LED.
-
-O condomínio oferece uma completa infraestrutura de lazer, com:
-
-Piscina adulto e infantil, Deck molhado, Solarium, Quadra poliesportiva, Quadra de tênis, Quadra de vôlei de areia, Campo de futebol society, Espaço pizza, Espaço gourmet, Espaço fitness,  Salão de jogos, Salão de festas, Pista para caminhada, Playground e Projeto paisagístico.
-
-Uma oportunidade única para quem busca viver com qualidade, segurança e lazer em um dos melhores condomínios de Anápolis.]]></Description>
-        <Floors>0</Floors>
-        <Garage>2</Garage>
-        <LivingArea unit="square metres">220</LivingArea>
-        <LotArea unit="square metres">407</LotArea>
-        <PropertyAdministrationFee currency="BRL">440</PropertyAdministrationFee>
-        <PropertyType>Residential / Sobrado</PropertyType>
-        <Suites>4</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <Iptu currency="BRL" period="Yearly">1950</Iptu>
-        <Features>
-          <Feature>Balcony</Feature>
-          <Feature>BBQ</Feature>
-          <Feature>Fenced Yard</Feature>
-          <Feature>Game room</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Gym</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Maids Quarters</Feature>
-          <Feature>Party Room</Feature>
-          <Feature>Playground</Feature>
-          <Feature>Pool</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">1650000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Amarelão</Address>
-        <City><![CDATA[Anápolis]]></City>
-        <Complement></Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Condomínio Terras Alpha Anápolis]]></Neighborhood>
-        <PostalCode>75102-240</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>00</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Sobrado 4 Suítes Deck e Piscina Aquecida Condomínio Terras Alpha Anápolis]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4822/iz8k9y_4822680b9f82e11b1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4822/iz8k9y_4822680b9f7c94ca1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4822/iz8k9y_4822680b9f79b6f52.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4822/iz8k9y_4822680b9f7fc8e21.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4822/iz8k9y_4822680b9f88f2c04.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4822/iz8k9y_4822680b9f85d14b9.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
@@ -21419,7 +21201,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Kitchen</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">1100</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">1300</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>210</Address>
@@ -22832,74 +22614,6 @@ Após a escola, primeira a direita tem um bar, e em frente a este bar é a chác
       <TransactionType>For Sale</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>3111</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Galpão com 230,00m² de área total, para locação, cidade Vera Cruz, Aparecida de Goiânia.
-
-- 02 Banheiros
--  Copa 
-- Estacionamento frontal
-
-Imóvel pronto para atender suas necessidades, abrindo ou expandindo seu negócio com conforto, praticidade e segurança.     
-
-Não perca oportunidade de montar seu negócio, aproveite essa oportunidade!   
-
-Entre em contato e agende sua visita!   
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <Floors>0</Floors>
-        <Garage>0</Garage>
-        <LivingArea unit="square metres">222</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Industrial</PropertyType>
-        <Suites>0</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Commercial</UsageType>
-        <Iptu currency="BRL" period="Yearly">170</Iptu>
-        <Features/>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">4500</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>V-005</Address>
-        <City><![CDATA[Aparecida de Goiânia]]></City>
-        <Complement>27618</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Cidade Vera Cruz]]></Neighborhood>
-        <PostalCode>74936-600</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>SN</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Galpão Área com 230,00m², para locação, cidade Vera Cruz, Aparecida de Goiânia - GO.]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b954731d1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b94f385c8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b9584be6d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b95c526ef.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b96028041.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b9642c056.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b9684fc3e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b96c2c0e0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b96f2b18a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b9727e708.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b9756c1ac.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b9794f912.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b97d2a078.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3114/i6Y28yJu18688e_31146a96b9815017d.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>3040</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -23434,6 +23148,8 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Description><![CDATA[Excelente galpão comercial com área edificada de 230,00 m², em terreno de 360,00 m², localizado na Av. V-06, esquina com a Av. V-05, ao lado do HMAP e em frente à feira coberta.
 
 O imóvel conta com 02 banheiros, copa e estacionamento na frente, oferecendo praticidade para clientes, funcionários e operações comerciais.
+
+Possui recuo de 10m para estacionamento de 06 vagas. 
 
 Possui piso em cimento, cobertura e estrutura metálica, sendo uma ótima opção para empresas, depósitos, lojas, oficinas, distribuidoras e outros segmentos que necessitam de espaço e excelente localização.
 
@@ -24036,7 +23752,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Kitchen</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">1100</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">1300</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Doutor Gil Lino</Address>
