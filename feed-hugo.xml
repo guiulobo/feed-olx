@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-08T21:21:55</PublishDate>
+      <PublishDate>2026-10-09T20:48:13</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -17387,89 +17387,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>4918</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>4</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[Sobrado novo com 180m², 3 suítes e área de lazer completa, nunca habitado. Possui três suítes plenas, sala com pé direito duplo e cozinha funcional integrada à área social.
-
-O imóvel conta com área de serviço, corredor lateral e excelente espaço gourmet. A integração com o ambiente externo é feita por uma ampla porta de correr com cinco folhas, que dá acesso à piscina aquecida.
-
-Moderno, bem distribuído e com acabamento de alto padrão, é ideal para quem busca conforto, praticidade e lazer em um só lugar.
-
-Localizado próximo a avenida principal do Moinho dos Ventos,  escola a poucos metros, supermercados, farmácias, posto de combustível, feiras e muito mais. 
-
-Fácil acesso pelo Anel Viário, Avenida Milão .
-
-Financiamento bancário disponível. Análise de crédito sem custo e com agilidade na aprovação!
-
-Agende a sua visita!]]></Description>
-        <Floors>0</Floors>
-        <Garage>4</Garage>
-        <LivingArea unit="square metres">179</LivingArea>
-        <LotArea unit="square metres">179</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Residential / Sobrado</PropertyType>
-        <Suites>3</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features>
-          <Feature>Balcony</Feature>
-          <Feature>BBQ</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">990000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Mdv 6</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement></Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Moinho dos Ventos]]></Neighborhood>
-        <PostalCode>74371-390</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>00</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Sobrado 180m² 03 Suítes Piscina Aquecida Setor Moinho dos Ventos Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685be9ee289fc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685be9eb9b739.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea21dc769.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea164aaff.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea2b6e8ea.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea1fb6ab7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685be9fae8c7d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea186dc5d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea144f882.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea1a78a7e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea2952120.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea2425740.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea122f269.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685be9e865000.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea07525b3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685be9f0859ed.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea0512bdb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea005729e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea0e2113d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea0be9613.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685be9f8845ef.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea02e8715.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685be9f2c907f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685be9f598017.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4919/ix6p7j_4919685bea0974592.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>4917</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -26296,108 +26213,6 @@ Montamos seu processo de financiamento sem custo .]]></Description>
         <Item medium="image" caption="49445354e9c65e86480ca1754bf5e985_7">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/480/ib3k1m_48062ed59277902e.jpg</Item>
         <Item medium="image" caption="49445354e9c65e86480ca1754bf5e985_6">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/480/ib3k1m_48062ed590548288.jpg</Item>
         <Item medium="image" caption="49445354e9c65e86480ca1754bf5e985_2">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/480/ib3k1m_48062ed58f6c3248.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>463</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>3</Bathrooms>
-        <Bedrooms>3</Bedrooms>
-        <Description><![CDATA[03 Quartos, sendo 01 suite, sacada, sala para 02 ambientes, lavabo, banheiro social, cozinha com armários, despensa, área de serviço, área descoberta para jardim, garagem para 02 carros, área de lazer.]]></Description>
-        <Floors>0</Floors>
-        <Garage>1</Garage>
-        <LivingArea unit="square metres">141</LivingArea>
-        <LotArea unit="square metres">141</LotArea>
-        <PropertyAdministrationFee currency="BRL">660</PropertyAdministrationFee>
-        <PropertyType>Residential / Sobrado</PropertyType>
-        <Suites>1</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <YearBuilt>2003</YearBuilt>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features>
-          <Feature>Balcony</Feature>
-          <Feature>Fenced Yard</Feature>
-          <Feature>Game room</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Maids Quarters</Feature>
-          <Feature>Parking Garage</Feature>
-          <Feature>Party Room</Feature>
-          <Feature>Playground</Feature>
-        </Features>
-        <Warranties/>
-        <ListPrice currency="BRL">620000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>C - 162</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Casa 1</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude>-16.72013065388756</Latitude>
-        <Longitude>-49.292115510040276</Longitude>
-        <Neighborhood><![CDATA[Jardim América]]></Neighborhood>
-        <PostalCode>74255-110</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>1235</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>PREMIUM</PublicationType>
-      <Title><![CDATA[Sobrado 3 quartos 01 Suíte, 141,00m² em Condomínio Fechado, Jardim América, Goiânia- GO]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f304dcfe.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70ec93cf60.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70ed572c54.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70ed19104e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70ed9350b4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70ecd25aef.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70ee47c475.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70ee822e02.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70ee06f40d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f156d2b7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f119b6fd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f0e4effb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70ef6cfdb2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70ef30de93.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70efe5b68f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70efa7fdb1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f0716f0b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f0379cfa.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70edcc8c52.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70eef6e9b7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70eebc021e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f20a466e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f1cd51bc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f192d1e9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f3c5a746.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f3855393.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f3436bc4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f2c5cd9b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f286d309.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f245e0cf.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f60e0c11.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f5d29e5b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f48a0bcc.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f504c0e9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f54ca247.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f5967182.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f4c73981.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f64a46c6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f74a85e1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f6c93cf1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f6871f4a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f404f29a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f448af79.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f7891204.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f89edc62.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f7d01fdf.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f85cde95.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f8126127.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
