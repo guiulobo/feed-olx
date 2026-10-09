@@ -5,9 +5,109 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-07T21:21:57</PublishDate>
+      <PublishDate>2026-10-08T21:08:01</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
+    <Listing>
+      <ListingID>5674</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Apartamento para locação, Setor Oeste, 70 m², 3 quartos, 1 suíte, 1 vaga de garagem, próximo Assai Atacadista.
+
+Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
+
+Detalhes do imóvel:
+- 3 quartos
+- Suíte com armários
+- Banheiro social
+- Sala ampla
+- Sacada com churrasqueira
+- Cozinha com armários planejados
+- Área de serviço
+- 1 vaga de garagem
+
+Diferenciais do condomínio/bairro:
+Área de lazer: salão de festa, salão gourmet, academia, sala de jogos, piscina adulto, infantil, brinquedoteca, playground.
+
+Localização estratégica: Assai Atacadista, frente Celsin Bar e Restaurante.
+
+Ideal para:
+[Família]
+
+Seu novo imóvel está aqui. Aproveite essa oportunidade!
+Entre em contato e agende sua visita!
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+        <Floors>27</Floors>
+        <Garage>1</Garage>
+        <LivingArea unit="square metres">70</LivingArea>
+        <LotArea unit="square metres">0</LotArea>
+        <PropertyAdministrationFee currency="BRL">800</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>1</Suites>
+        <UnitFloor></UnitFloor>
+        <UsageType>Residential</UsageType>
+        <Iptu currency="BRL" period="Yearly">183</Iptu>
+        <Features>
+          <Feature>Barbecue Balcony</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Maids Quarters</Feature>
+          <Feature>Number of stories</Feature>
+          <Feature>Party Room</Feature>
+          <Feature>Playground</Feature>
+          <Feature>TV Security</Feature>
+        </Features>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">3800</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>22</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>apto 802 quadra j 9 lote 13 E</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude></Latitude>
+        <Longitude></Longitude>
+        <Neighborhood><![CDATA[Setor Oeste]]></Neighborhood>
+        <PostalCode>74120-130</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>SN</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento 03 Quartos 01 Suítes 70 m² para locação, Setor Oeste, Goiânia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdc81cfe6.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdca867a8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdc355bb5.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdb27f7c4.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cda9af890.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdd0b40c6.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cddaee6ca.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdd4e3000.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdd8cd7c2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdd6da54b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdd2bc9e3.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdcd91436.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cd9ed7c6d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cda16d7c0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cda70144a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdacef5dc.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdafb6bf0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdb59e466.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdb86e4e2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cd99a84eb.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdbbbc18c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdc119234.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdc58de00.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cd96c7922.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
+    </Listing>
     <Listing>
       <ListingID>5673</ListingID>
       <ContactInfo>
@@ -1703,7 +1803,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Playground</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">6150</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">5900</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>22</Address>
@@ -9824,6 +9924,75 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
+      <ListingID>5333</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Se você busca um ponto estratégico para expandir ou iniciar seu negócio, esta é a oportunidade ideal.
+
+Conheça o Centro Comercial Beija-Flor, o primeiro centro comercial de Goianira, localizado na Avenida Carlos Bittencourt, em uma região com alto fluxo de pedestres e intensa circulação de veículos, garantindo excelente visibilidade para sua marca.
+
+Disponibilizamos loja térrea com 42,52m², em prédio novo, com alto padrão de acabamento e estrutura moderna, ideal para diversos segmentos.
+
+Condição especial para lojistas: desconto exclusivo no primeiro e segundo ano de contrato.
+
+Garanta seu espaço em um dos endereços comerciais mais promissores da cidade!]]></Description>
+        <Floors>0</Floors>
+        <Garage>0</Garage>
+        <LivingArea unit="square metres">43</LivingArea>
+        <LotArea unit="square metres">43</LotArea>
+        <PropertyAdministrationFee currency="BRL">679</PropertyAdministrationFee>
+        <PropertyType>Commercial / Business</PropertyType>
+        <Suites>0</Suites>
+        <UnitFloor></UnitFloor>
+        <UsageType>Commercial</UsageType>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features/>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">4304</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>Carlos Bittencourt Sala Térreo 3</Address>
+        <City><![CDATA[Goianira]]></City>
+        <Complement>Qd. 48 Lts. 18/21 Sala térreo 3</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude>-16.5748754</Latitude>
+        <Longitude>-49.3844221</Longitude>
+        <Neighborhood><![CDATA[Residencial Triunfo IV]]></Neighborhood>
+        <PostalCode>75370-048</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>00</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Loja 42,52m² Térreo Centro Comercial Beija Flor Residencial Triunfo Goianira]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf99ac40e6.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9bd8eb45.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9bba04dc.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9b9ab07a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9b7b4986.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9b5ae70e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9b3b015c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9b1ca3f3.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9afd5d84.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9adf13bc.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9abeaebd.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9a9e8a97.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9a80c55e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9a5b19b1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf99d4447d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf99f28947.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9a36fa3a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5334/im0g1z_533469aaf9a156e7f.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
+    </Listing>
+    <Listing>
       <ListingID>5332</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -9958,6 +10127,75 @@ Garanta seu espaço em um dos endereços comerciais mais promissores da cidade!]
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5332/it1r7g_533269aaf95740bbd.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5332/it1r7g_533269aaf952d65bc.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5332/it1r7g_533269aaf95044621.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
+    </Listing>
+    <Listing>
+      <ListingID>5330</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Se você busca um ponto estratégico para expandir ou iniciar seu negócio, esta é a oportunidade ideal.
+
+Conheça o Centro Comercial Beija-Flor, o primeiro centro comercial de Goianira, localizado na Avenida Carlos Bittencourt, em uma região com alto fluxo de pedestres e intensa circulação de veículos, garantindo excelente visibilidade para sua marca.
+
+Disponibilizamos loja térrea com 47,30m², em prédio novo, com alto padrão de acabamento e estrutura moderna, ideal para diversos segmentos.
+
+Condição especial para lojistas: desconto exclusivo no primeiro e segundo ano de contrato.
+
+Garanta seu espaço em um dos endereços comerciais mais promissores da cidade!]]></Description>
+        <Floors>0</Floors>
+        <Garage>0</Garage>
+        <LivingArea unit="square metres">47</LivingArea>
+        <LotArea unit="square metres">47</LotArea>
+        <PropertyAdministrationFee currency="BRL">756</PropertyAdministrationFee>
+        <PropertyType>Commercial / Business</PropertyType>
+        <Suites>0</Suites>
+        <UnitFloor></UnitFloor>
+        <UsageType>Commercial</UsageType>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features/>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">3333</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>Carlos Bittencourt Qd. 48 Lts. 18/21 Sala Térreo 6</Address>
+        <City><![CDATA[Goianira]]></City>
+        <Complement></Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude>-16.5748754</Latitude>
+        <Longitude>-49.3844221</Longitude>
+        <Neighborhood><![CDATA[Residencial Triunfo IV]]></Neighborhood>
+        <PostalCode>75370-048</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>00</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Loja 47,30m² Térreo Centro Comercial Beija Flor Residencial Triunfo Goianira]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf926ded70.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf94936d75.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf9472ddb2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf94b2ea1c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf9454eb1d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf93fd2de8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf93db9f39.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf93bc14f5.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf939c2d57.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf937c730f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf941dad69.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf935b12de.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf93190122.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf933b62a2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf92f82506.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf92d65787.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf92b3b793.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5331/ir0g7u_533169aaf9290d663.jpg</Item>
       </Media>
       <TransactionType>For Rent</TransactionType>
     </Listing>
@@ -14183,10 +14421,9 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb58d3365.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb4e1e4ea.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb50abfd2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb48b9e6d.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb41b668c.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb4666367.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb4ba89bd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb48b9e6d.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb3152807.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb5b52c37.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5161/it3h1s_51616942eb2b8aa71.jpg</Item>
@@ -16875,7 +17112,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Playground</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">2600</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">2500</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>138</Address>
@@ -17186,7 +17423,7 @@ Agende a sua visita!]]></Description>
           <Feature>BBQ</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">790000</ListPrice>
+        <ListPrice currency="BRL">990000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Mdv 6</Address>
@@ -18654,7 +18891,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Parking Garage</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">3200</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">3100</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>402</Address>
