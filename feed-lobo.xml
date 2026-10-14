@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-14T07:35:12</PublishDate>
+      <PublishDate>2026-10-14T19:39:02</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -4200,7 +4200,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Iptu currency="BRL" period="Yearly">70</Iptu>
         <Features/>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">2000</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">1800</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Dourados</Address>
@@ -17716,7 +17716,7 @@ Agende sua visita!]]></Description>
           <Feature>Maids Quarters</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">850000</ListPrice>
+        <ListPrice currency="BRL">750000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Rua C 187</Address>
@@ -24482,7 +24482,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Garage>1</Garage>
         <LivingArea unit="square metres">47</LivingArea>
         <LotArea unit="square metres">47</LotArea>
-        <PropertyAdministrationFee currency="BRL">650</PropertyAdministrationFee>
+        <PropertyAdministrationFee currency="BRL">1000</PropertyAdministrationFee>
         <PropertyType>Residential / Apartment</PropertyType>
         <YearBuilt>1975</YearBuilt>
         <Iptu currency="BRL" period="Yearly">85</Iptu>
