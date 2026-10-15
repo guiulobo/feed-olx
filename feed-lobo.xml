@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-15T07:37:50</PublishDate>
+      <PublishDate>2026-10-15T19:39:10</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -19,20 +19,22 @@
         <Bedrooms>3</Bedrooms>
         <Description><![CDATA[Linda casa moderna com 3 quartos, sendo 1 suíte com closet, ideal para quem busca conforto, sofisticação e qualidade de vida. A sala possui pé-direito de 5 metros, proporcionando amplitude e elegância ao ambiente, além de uma cozinha ampla e área de serviço coberta.
  
- A área externa conta com um espaço gourmet com churrasqueira, perfeito para reunir família e amigos. A piscina aquecida possui hidromassagem, cascata e iluminação em LED, além de deck e ducha, proporcionando momentos de lazer e relaxamento.
+A área externa conta com um espaço gourmet com churrasqueira, perfeito para reunir família e amigos. A piscina aquecida possui hidromassagem, cascata e iluminação em LED, além de deck e ducha, proporcionando momentos de lazer e relaxamento.
  
  O imóvel possui acabamento de alto padrão, com bancadas em pedras naturais Branco Paraná, Preto Via Láctea e Preto São Gabriel, piso em porcelanato, rodapé embutido e iluminação full LED. O paisagismo valoriza ainda mais a beleza da casa.
  
  Conta também com garagem ampla e coberta para 2 veículos, portão de pedestres e cerca elétrica, oferecendo mais praticidade e segurança.
  
  A casa possui 125 m² de área construída em um terreno de 180 m², reunindo modernidade, conforto e uma excelente área de lazer em um só lugar. Uma ótima opção para quem deseja morar bem e aproveitar cada detalhe de um imóvel pensado para o bem-estar da família.]]></Description>
-        <LivingArea unit="square metres">0</LivingArea>
+        <LivingArea unit="square metres">180</LivingArea>
         <LotArea unit="square metres">180</LotArea>
         <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
         <Suites>1</Suites>
         <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features/>
+        <Features>
+          <Feature>BBQ</Feature>
+        </Features>
         <Warranties/>
         <ListPrice currency="BRL">750000</ListPrice>
       </Details>
@@ -241,8 +243,8 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 03 Quartos 01 Suítes 70 m² para locação, Setor Oeste, Goiânia]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdc81cfe6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdca867a8.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdca867a8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdc81cfe6.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdc355bb5.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cdb27f7c4.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5675/i4eMQd3d29INKI829N_56756ac7cda9af890.jpg</Item>
@@ -1462,7 +1464,7 @@ A casa possui acabamento em Blindex e alumínio, ar-condicionado, climatizador e
 A proximidade com o Parque Macambira é um dos grandes diferenciais do imóvel, permitindo fácil acesso a uma área de lazer e contato com a natureza, contribuindo para mais qualidade de vida, bem-estar e momentos de lazer sem precisar ir longe de casa.
 
 Uma casa completa, confortável e funcional, ideal para quem busca espaço, segurança, tecnologia e qualidade de vida em uma excelente localização.]]></Description>
-        <LivingArea unit="square metres">0</LivingArea>
+        <LivingArea unit="square metres">160</LivingArea>
         <LotArea unit="square metres">360</LotArea>
         <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
         <PropertyType>Residential / Home</PropertyType>
@@ -1890,7 +1892,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Warehouse</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">3100</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">2700</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -3291,7 +3293,7 @@ Agende sua visita!]]></Description>
       <Location displayAddress="All">
         <Address>Cv 24</Address>
         <City><![CDATA[Goiânia]]></City>
-        <Complement>Sobrado 22</Complement>
+        <Complement>sobrado 22</Complement>
         <Country abbreviation="BR">Brasil</Country>
         <Neighborhood><![CDATA[Residencial Center Ville]]></Neighborhood>
         <PostalCode>74369-008</PostalCode>
