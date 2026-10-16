@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-15T21:21:45</PublishDate>
+      <PublishDate>2026-10-16T19:30:39</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -17247,7 +17247,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Suites>0</Suites>
         <UnitFloor>16</UnitFloor>
         <UsageType>Residential</UsageType>
-        <Iptu currency="BRL" period="Yearly">150</Iptu>
+        <Iptu currency="BRL" period="Yearly">290</Iptu>
         <Features>
           <Feature>Cooling</Feature>
           <Feature>Elevator</Feature>
