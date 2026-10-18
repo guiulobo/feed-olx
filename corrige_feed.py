@@ -10,8 +10,13 @@ O que ele faz, em ordem:
 3. Aplica o tipo de destaque (PublicationType) de cada anúncio conforme o
    CSV indicado (por padrão destaques.csv) versionado no repositório.
    Valores aceitos: STANDARD, PREMIUM, SUPER_PREMIUM, PREMIERE_1, PREMIERE_2, TRIPLE.
-4. Valida o resultado (XML bem-formado, quantidade mínima de anúncios).
-5. Só grava a saída se estiver tudo certo. Se algo falhar, sai com erro
+4. Lê a lista de sigilo da variável PORTAIS_LISTA_SIGILO (segredo).
+   Não lê arquivo. O registro mostra só a contagem.
+5. No anúncio da lista, tira rua, número, complemento e coordenadas.
+   Ficam país, estado, cidade, bairro e CEP. O anúncio mostra só o bairro.
+   Quem está fora da lista segue completo.
+6. Valida o resultado (XML bem-formado, quantidade mínima de anúncios).
+7. Só grava a saída se estiver tudo certo. Se algo falhar, sai com erro
    e o arquivo publicado anterior fica intacto.
 """
 import os
@@ -26,11 +31,199 @@ NS = {'v': 'http://www.vivareal.com/schemas/1.0/VRSync'}
 TIERS_VALIDOS = {'STANDARD', 'PREMIUM', 'SUPER_PREMIUM',
                  'PREMIERE_1', 'PREMIERE_2', 'TRIPLE'}
 
+# Segredo do GitHub, como as chaves do Vista. Nunca um arquivo do repositório.
+VARIAVEL_LISTA_SIGILO = 'PORTAIS_LISTA_SIGILO'
+# Fica só na memória desta rodada. O log não leva código.
+LISTA_SIGILO = set()
+
+
+def codigo_de_sigilo(cod):
+    """Código de imóvel. Rejeita nome, CPF com ponto e número longo."""
+    if re.fullmatch(r'[0-9]{1,6}', cod):
+        return True
+    if (re.fullmatch(r'[A-Za-z0-9_\-]{2,40}', cod)
+            and re.search(r'[0-9]', cod)
+            and re.search(r'[A-Za-z]', cod)):
+        return True
+    return False
+
+
+def ler_lista_sigilo(texto):
+    """Códigos do texto do segredo. Não imprime o texto."""
+    codigos = set()
+    for linha in str(texto or '').splitlines():
+        sem_comentario = linha.split('#', 1)[0]
+        for pedaco in re.split(r'[\s,;]+', sem_comentario):
+            cod = pedaco.strip()
+            if cod and codigo_de_sigilo(cod):
+                codigos.add(cod)
+    return codigos
+
+
+def carrega_lista_sigilo(environ=None):
+    """Lê a variável. Sem ela, ou vazia, devolve erro e nenhum código.
+
+    No GitHub Actions um segredo ausente chega como texto vazio.
+    Lista vazia de propósito: uma linha de comentário (#).
+    Devolve (conjunto, None) ou (None, mensagem de erro).
+    """
+    env = os.environ if environ is None else environ
+    if VARIAVEL_LISTA_SIGILO not in env:
+        return None, (
+            'ERRO: o secret PORTAIS_LISTA_SIGILO não está configurado. '
+            'Nada foi publicado.'
+        )
+    texto = env.get(VARIAVEL_LISTA_SIGILO) or ''
+    if not str(texto).strip():
+        return None, (
+            'ERRO: o secret PORTAIS_LISTA_SIGILO está vazio. '
+            'Nada foi publicado.'
+        )
+    return ler_lista_sigilo(texto), None
+
+
+def mensagem_contagem(codigos):
+    """A única linha da rodada sobre a lista. Só o número."""
+    return f'{len(codigos)} imóveis em sigilo'
+
+
+# As mesmas saídas do feed do lobo-sync (cartão 123, opção 1).
+# Em sigilo o arquivo perde estes campos. País, estado, cidade, bairro e CEP ficam.
+_TAGS_DE_ENDERECO = (
+    'Address', 'StreetNumber', 'Complement',
+    'Latitude', 'Longitude', 'Lat', 'Long',
+)
+
+
+def codigo_do_anuncio(blk):
+    """ListingID do bloco. Não imprime o código."""
+    mid = re.search(
+        r'<ListingID>(?:<!\[CDATA\[)?\s*(.*?)\s*(?:\]\]>)?</ListingID>',
+        blk, re.S)
+    if not mid:
+        return ''
+    return mid.group(1).strip()
+
+
+def _miolo_tag(texto):
+    texto = (texto or '').strip()
+    cdata = re.fullmatch(r'<!\[CDATA\[(.*)\]\]>', texto, re.S)
+    if cdata:
+        return cdata.group(1).strip()
+    return texto
+
+
+def _valor_tag(bloco, tag):
+    achado = re.search(rf'<{tag}\b[^>]*>(.*?)</{tag}>', bloco, re.S)
+    if not achado:
+        return ''
+    return _miolo_tag(achado.group(1))
+
+
+def _tirar_elemento(bloco, tag):
+    bloco = re.sub(
+        rf'[\r\n]*[ \t]*<{tag}\b[^>]*>.*?</{tag}>', '', bloco, flags=re.S)
+    return re.sub(rf'[\r\n]*[ \t]*<{tag}\b[^>]*/>', '', bloco)
+
+
+def _sem_trecho(texto, trecho, minimo):
+    if not trecho or len(trecho) < minimo:
+        return texto
+    return re.sub(re.escape(trecho), '', texto, flags=re.IGNORECASE)
+
+
+def _tirar_numero_de_porta(texto, numero):
+    if not numero or not re.fullmatch(r'[0-9A-Za-z\-/]{1,10}', numero):
+        return texto
+    return re.sub(
+        rf'(?:,\s*|\bn[º°o]\s*|\bn[uú]mero\s+){re.escape(numero)}\b',
+        ' ',
+        texto,
+        flags=re.IGNORECASE,
+    )
+
+
+def _limpar_sobras(texto):
+    saida = re.sub(r'[ \t]{2,}', ' ', texto)
+    saida = re.sub(r'\s+,', ',', saida)
+    saida = re.sub(r'(,\s*){2,}', ', ', saida)
+    saida = re.sub(r'\(\s*\)', '', saida)
+    return saida.strip(' ,;.-')
+
+
+def _redigir_texto_do_feed(miolo, rua, numero, complemento, coords):
+    """Tira do título e da descrição os valores que saíram da localização.
+
+    O CEP fica. É a mesma saída do feed do lobo-sync, aplicada no XML do Vista.
+    """
+    saida = _sem_trecho(miolo, rua, 4)
+    saida = _sem_trecho(saida, complemento, 3)
+    for coord in coords:
+        if coord and len(coord) >= 4 and any(c.isdigit() for c in coord):
+            saida = re.sub(re.escape(coord), '', saida, flags=re.IGNORECASE)
+    saida = _tirar_numero_de_porta(saida, numero)
+    if saida == miolo:
+        return miolo
+    return _limpar_sobras(saida)
+
+
+def aplicar_sigilo_no_anuncio(blk):
+    """Tira rua, número, complemento e coordenadas. O anúncio fica no bairro."""
+    loc_m = re.search(r'<Location\b[^>]*>.*?</Location>', blk, re.S)
+    loc = loc_m.group(0) if loc_m else ''
+    rua = _valor_tag(loc, 'Address')
+    numero = _valor_tag(loc, 'StreetNumber')
+    complemento = _valor_tag(loc, 'Complement')
+    coords = [_valor_tag(loc, tag) for tag in ('Latitude', 'Longitude', 'Lat', 'Long')]
+
+    def limpa_local(achado):
+        pedaco = achado.group(0)
+        if re.search(r'displayAddress="', pedaco):
+            pedaco = re.sub(
+                r'displayAddress="[^"]*"',
+                'displayAddress="Neighborhood"',
+                pedaco,
+                count=1,
+            )
+        else:
+            pedaco = re.sub(
+                r'<Location\b',
+                '<Location displayAddress="Neighborhood"',
+                pedaco,
+                count=1,
+            )
+        pedaco = re.sub(
+            r'[\r\n]*[ \t]*<GeoLocation\b[^>]*>.*?</GeoLocation>',
+            '',
+            pedaco,
+            flags=re.S,
+        )
+        for tag in _TAGS_DE_ENDERECO:
+            pedaco = _tirar_elemento(pedaco, tag)
+        return pedaco
+
+    blk = re.sub(
+        r'<Location\b[^>]*>.*?</Location>', limpa_local, blk, count=1, flags=re.S)
+
+    def limpa_texto(achado):
+        abertura, tag, miolo = achado.group(1), achado.group(2), achado.group(3)
+        novo = _redigir_texto_do_feed(miolo, rua, numero, complemento, coords)
+        return f'{abertura}{novo}</{tag}>'
+
+    return re.sub(
+        r'(<(Title|Description)\b[^>]*>)(.*?)</\2>',
+        limpa_texto,
+        blk,
+        flags=re.S,
+    )
+
+
 stats = {
     'displayAddress_All': 0, 'area_unit': 0, 'fee_currency': 0,
     'yearlytax_iptu': 0, 'usagetype': 0, 'country': 0,
     'titulo_aparado': 0, 'barbecue': 0, 'yearbuilt0_removido': 0,
     'fotos_aparadas': 0, 'publicationtype_aplicado': 0,
+    'sigilo_so_bairro': 0,
 }
 DESTAQUES = {}
 aplicados_por_tier = {}
@@ -77,10 +270,16 @@ def fix_block(blk: str) -> str:
     pt = g(r'<PropertyType>(.*?)</PropertyType>')
     usage = 'Commercial' if pt.startswith('Commercial') else 'Residential'
 
-    # 1) Endereço completo (maior alavanca de nota: 35 pontos)
-    if re.search(r'displayAddress="(?!All")[^"]*"', blk):
-        stats['displayAddress_All'] += 1
-    blk = re.sub(r'displayAddress="[^"]*"', 'displayAddress="All"', blk)
+    # 1) Fora da lista: endereço completo (alavanca de nota).
+    #    Na lista: só o bairro, e o arquivo perde rua, número, complemento e coordenadas.
+    cod = codigo_do_anuncio(blk)
+    if cod and cod in LISTA_SIGILO:
+        stats['sigilo_so_bairro'] += 1
+        blk = aplicar_sigilo_no_anuncio(blk)
+    else:
+        if re.search(r'displayAddress="(?!All")[^"]*"', blk):
+            stats['displayAddress_All'] += 1
+        blk = re.sub(r'displayAddress="[^"]*"', 'displayAddress="All"', blk)
 
     # 2) Áreas com unidade obrigatória
     n = len(re.findall(r'<LivingArea>', blk)) + len(re.findall(r'<LotArea>', blk))
@@ -167,10 +366,7 @@ def fix_block(blk: str) -> str:
             blk = blk[:m.start()] + blk[m.end():]
 
     # 11) Tipo de destaque (PublicationType) conforme o CSV
-    mid = re.search(r'<ListingID>(?:<!\[CDATA\[)?\s*(.*?)\s*(?:\]\]>)?</ListingID>',
-                    blk, re.S)
-    if mid:
-        cod = mid.group(1).strip()
+    if cod:
         ids_no_feed.add(cod)
         tier = DESTAQUES.get(cod, 'STANDARD')   # quem não está no CSV vira STANDARD
         novo = f'<PublicationType>{tier}</PublicationType>'
@@ -202,6 +398,14 @@ def main():
         sys.exit(2)
     entrada, saida = sys.argv[1], sys.argv[2]
     nome_csv = sys.argv[3] if len(sys.argv) == 4 else 'destaques.csv'
+
+    global LISTA_SIGILO
+    codigos, erro = carrega_lista_sigilo()
+    if erro:
+        print(erro)
+        sys.exit(1)
+    LISTA_SIGILO = codigos
+    print(mensagem_contagem(LISTA_SIGILO))
 
     carrega_destaques(nome_csv)
 

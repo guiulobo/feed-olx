@@ -40,11 +40,14 @@ jobs:
           echo "Download Hugo: $(du -h feed_original_hugo.xml | cut -f1)"
 
       - name: Feed HUGO - corrige, aplica destaques e valida
+        env:
+          PORTAIS_LISTA_SIGILO: ${{ secrets.PORTAIS_LISTA_SIGILO }}
         run: python3 corrige_feed.py feed_original_hugo.xml feed-hugo.xml destaques_hugo.csv
 
       - name: Feed LOBO - baixa, corrige e valida
         env:
           VISTA_URL_LOBO: ${{ secrets.VISTA_FEED_URL_LOBO }}
+          PORTAIS_LISTA_SIGILO: ${{ secrets.PORTAIS_LISTA_SIGILO }}
         run: |
           if [ -z "$VISTA_URL_LOBO" ]; then
             echo "ERRO: o secret VISTA_FEED_URL_LOBO não está configurado."
