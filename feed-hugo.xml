@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-18T21:21:57</PublishDate>
+      <PublishDate>2026-10-19T20:17:09</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -6975,59 +6975,6 @@ Agende a sua visita e venha conhecer este excelente imóvel.]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5490/iv7y7b_54906a077b479c9ca.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5490/iv7y7b_54906a077b44df821.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5490/iv7y7b_54906a077b20ac551.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>5488</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Oportunidade para construir ou investir em uma região que cresce e se valoriza cada vez mais em Goiânia.
-
-Localizado no Jardim Brasil, este lote conta com 378,00m², com excelente dimensão de 14 metros de frente e fundo, além de 27 metros nas laterais, proporcionando mais possibilidades para projetos residenciais ou comerciais.
-
-A localização é um dos grandes diferenciais, estando próximo à avenida principal do Park Lozandes e ao Alphaville Araguaia, em uma região estratégica, com fácil acesso, desenvolvimento constante e grande potencial de valorização.
-
-Lote escriturado e quitado.]]></Description>
-        <Floors>0</Floors>
-        <Garage>0</Garage>
-        <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">378</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <Suites>0</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <Iptu currency="BRL" period="Yearly">214</Iptu>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">420000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>X 12, Quadra X20</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Quadra X20, Lote 10</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Jardim Brasil]]></Neighborhood>
-        <PostalCode>74730-440</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>sn</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>TRIPLE</PublicationType>
-      <Title><![CDATA[Lote Terreno 378,00m² Jardim Brasil Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5489/in0q2g_54896a077a0ae3648.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5489/in0q2g_54896a077a05b8cef.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5489/in0q2g_54896a077a12bc3c1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5489/in0q2g_54896a077a0d6c679.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
@@ -22890,7 +22837,7 @@ Após a escola, primeira a direita tem um bar, e em frente a este bar é a chác
         <Iptu currency="BRL" period="Yearly">0</Iptu>
         <Features/>
         <Warranties/>
-        <ListPrice currency="BRL">238000</ListPrice>
+        <ListPrice currency="BRL">330000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Camaquá</Address>

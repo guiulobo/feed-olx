@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-19T07:35:49</PublishDate>
+      <PublishDate>2026-10-19T19:39:07</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -6457,51 +6457,6 @@ Agende a sua visita e venha conhecer este excelente imóvel.]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5490/iv7y7b_54906a077b479c9ca.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5490/iv7y7b_54906a077b44df821.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5490/iv7y7b_54906a077b20ac551.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>5488</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Oportunidade para construir ou investir em uma região que cresce e se valoriza cada vez mais em Goiânia.
-
-Localizado no Jardim Brasil, este lote conta com 378,00m², com excelente dimensão de 14 metros de frente e fundo, além de 27 metros nas laterais, proporcionando mais possibilidades para projetos residenciais ou comerciais.
-
-A localização é um dos grandes diferenciais, estando próximo à avenida principal do Park Lozandes e ao Alphaville Araguaia, em uma região estratégica, com fácil acesso, desenvolvimento constante e grande potencial de valorização.
-
-Lote escriturado e quitado.]]></Description>
-        <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">378</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <Iptu currency="BRL" period="Yearly">214</Iptu>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">420000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>X 12, Quadra X20</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Quadra X20, Lote 10</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Neighborhood><![CDATA[Jardim Brasil]]></Neighborhood>
-        <PostalCode>74730-440</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>sn</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Lote Terreno 378,00m² Jardim Brasil Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5489/in0q2g_54896a077a0ae3648.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5489/in0q2g_54896a077a05b8cef.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5489/in0q2g_54896a077a12bc3c1.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5489/in0q2g_54896a077a0d6c679.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
@@ -15127,6 +15082,100 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
+      <ListingID>4985</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Description><![CDATA[Apartamento para locação, no Parque Amazônia com 64 m², 2 Quartos, 1 Suíte, 1 vagas de garagem.  
+
+Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança. 
+
+Detalhes do imóvel: 
+- 2 Quartos com armário planejado
+- 1 Suíte
+- 2 Banheiros com armário
+- Cozinha com armário
+- Sala com painel, rack, ar condicionado. 
+- 1 Vaga de garagem 
+ 
+[Outros diferenciais: armários planejados, etc.] 
+
+Diferenciais do condomínio/bairro: 
+Segurança 24h 
+Área de lazer completa: piscina adulto, academia, salão de festas, playground, quadra, sauna, churrasqueira 
+Localização estratégica
+
+Ideal para: 
+[Solteiros ou família com até 4 pessoas]  
+
+Seu novo imóvel está aqui. Aproveite essa oportunidade! 
+
+Entre em contato e agende sua visita! 
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+        <Garage>1</Garage>
+        <LivingArea unit="square metres">64</LivingArea>
+        <LotArea unit="square metres">64</LotArea>
+        <PropertyAdministrationFee currency="BRL">538</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>1</Suites>
+        <Iptu currency="BRL" period="Yearly">52</Iptu>
+        <Features>
+          <Feature>Elevator</Feature>
+          <Feature>Exterior View</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Maids Quarters</Feature>
+          <Feature>Party Room</Feature>
+        </Features>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">3000</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>Marajó</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>apt1102 Bl01 Near Easy Style Parque A0mazônia</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Neighborhood><![CDATA[Parque Amazônia]]></Neighborhood>
+        <PostalCode>74835-230</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento 02 Quartos, 01 Suíte, com 64 m², no Parque Amazônia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb3a05a78.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb57909b1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb409aa0b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb5bef96c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb3c2f3ae.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb536c5ed.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb4359cf9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb457071a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb4db1e4c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb5185e78.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb5587ad8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb475db99.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb4979501.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb59c3d04.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb5e0d8a9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb62673f6.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb6498520.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb667f56e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb686fc2a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb6d2f785.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb6f829ab.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb71c4451.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb73d1291.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb7611c54.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb78a0265.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb7b2b96b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb8204aa7.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
+    </Listing>
+    <Listing>
       <ListingID>4968</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -20926,7 +20975,7 @@ Após a escola, primeira a direita tem um bar, e em frente a este bar é a chác
         <Iptu currency="BRL" period="Yearly">0</Iptu>
         <Features/>
         <Warranties/>
-        <ListPrice currency="BRL">238000</ListPrice>
+        <ListPrice currency="BRL">330000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
