@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-19T21:21:44</PublishDate>
+      <PublishDate>2026-10-20T19:55:10</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -2585,7 +2585,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <RentalPrice currency="BRL" period="Monthly">2500</RentalPrice>
       </Details>
       <Location displayAddress="All">
-        <Address>3 Qd F Lt 05</Address>
+        <Address>3</Address>
         <City><![CDATA[Trindade]]></City>
         <Complement></Complement>
         <Country abbreviation="BR">Brasil</Country>
@@ -14040,7 +14040,7 @@ Um ótimo lugar para se viver, unindo espaço, funcionalidade e excelente locali
         <Iptu currency="BRL" period="Yearly">0</Iptu>
         <Features/>
         <Warranties/>
-        <ListPrice currency="BRL">600000</ListPrice>
+        <ListPrice currency="BRL">498000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Address>do Nascente</Address>
@@ -17942,8 +17942,8 @@ Agende sua visita agora mesmo!]]></Description>
         <City><![CDATA[Goiânia]]></City>
         <Complement>Apartamento 102</Complement>
         <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
+        <Latitude>-16.6999183</Latitude>
+        <Longitude>-49.2751598</Longitude>
         <Neighborhood><![CDATA[Setor Bueno]]></Neighborhood>
         <PostalCode>74215-210</PostalCode>
         <State abbreviation="GO">Goiás</State>
@@ -18909,7 +18909,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <Location displayAddress="All">
         <Address>402</Address>
         <City><![CDATA[Goiânia]]></City>
-        <Complement>QdH LtH 1 Cond 01 Bl 29 Apt301 Recanto das Praças Residenciais</Complement>
+        <Complement>301</Complement>
         <Country abbreviation="BR">Brasil</Country>
         <Latitude></Latitude>
         <Longitude></Longitude>
