@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-20T21:21:53</PublishDate>
+      <PublishDate>2026-10-21T20:00:16</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -241,7 +241,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>TV Security</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">3800</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">3500</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>22</Address>
@@ -2582,7 +2582,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Maids Quarters</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">2500</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">2000</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>3</Address>
@@ -14060,8 +14060,11 @@ Um ótimo lugar para se viver, unindo espaço, funcionalidade e excelente locali
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5178/i3C1993F9nA48453U3_517869669b73e871c.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5178/ip7p9f_517869669af830536.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5178/ip7p9f_517869669afc987f0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5178/ip7p9f_517869669afa6af30.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5178/iB9V17bLH58C34l_51786ad8cd4f1c8ed.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5178/iB9V17bLH58C34l_51786ad8cd53ccc75.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5178/iB9V17bLH58C34l_51786ad8cd57ecae2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5178/iB9V17bLH58C34l_51786ad8cd5a3617a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5178/iB9V17bLH58C34l_51786ad8cd6100901.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
@@ -22576,59 +22579,6 @@ Localização de fácil acesso, a poucos metros do supermercado Tribom . Fácil 
       <TransactionType>For Sale</TransactionType>
     </Listing>
     <Listing>
-      <ListingID>3215</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Lote no bairro Portal do Oriente, medindo 350,00m². Localizado à 3 Km da Avenida Igualdade no setor Garavelo / Jardins Madri / Shopping Portal Sul.]]></Description>
-        <Floors>0</Floors>
-        <Garage>0</Garage>
-        <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">350</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <Suites>0</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <Iptu currency="BRL" period="Yearly">1100</Iptu>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">130000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Pr 06</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement></Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Residencial Portal do Oriente]]></Neighborhood>
-        <PostalCode>74357-145</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber></StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Lote 350,00m² Portal do Oriente Goiânia]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3218/ij1177Y_3218681b532a78c19.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3218/ij1177Y_3218681b532635739.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3218/ibHnxIA799f5f6_3218655f3fc425c4c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3218/id1965F_321865c27c3e814f6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3218/id1965F_321865c27c329c52a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3218/id1965F_321865c27c242314b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3218/id1965F_321865c27c4263d8c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3218/id1965F_321865c27c284ec6d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3218/id1965F_321865c27c3879703.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3218/id1965F_321865c27c4694cd0.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
       <ListingID>3210</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -22723,7 +22673,7 @@ Piso em parcelanato polido tamanho 1 x 1, rodapé embutido, projeto iluminotécn
       <Details>
         <Bathrooms>3</Bathrooms>
         <Bedrooms>4</Bedrooms>
-        <Description><![CDATA[Apartamento nascente com 140 m² de área privativa e 3 vagas de garagem, em excelente localização.
+        <Description><![CDATA[Apartamento nascente com 130m² de área privativa e 3 vagas de garagem, em excelente localização.
 
 O imóvel conta com ampla sala para três ambientes, equipada com cristaleira, rack e espelho, além de lavabo. São 4 quartos, sendo 2 suítes, todos com armários planejados. A cozinha é funcional e possui armários, com área de serviço separada, proporcionando mais praticidade no dia a dia. Conta ainda com quarto de serviço com armários e banheiro.
 
@@ -22734,8 +22684,8 @@ O condomínio dispõe de área de lazer com piscina, churrasqueira e salão de f
 Localizado próximo à Alameda das Rosas e à Avenida Portugal, em uma região com fácil acesso a comércios, serviços e diversas conveniências.]]></Description>
         <Floors>0</Floors>
         <Garage>3</Garage>
-        <LivingArea unit="square metres">140</LivingArea>
-        <LotArea unit="square metres">140</LotArea>
+        <LivingArea unit="square metres">130</LivingArea>
+        <LotArea unit="square metres">130</LotArea>
         <PropertyAdministrationFee currency="BRL">1530</PropertyAdministrationFee>
         <PropertyType>Residential / Apartment</PropertyType>
         <Suites>2</Suites>
@@ -22765,7 +22715,7 @@ Localizado próximo à Alameda das Rosas e à Avenida Portugal, em uma região c
         <Zone></Zone>
       </Location>
       <PublicationType>PREMIUM</PublicationType>
-      <Title><![CDATA[Apartamento 140m² 04 Quartos 02 Suítes 03 Vagas de Garagens Residencial Cabrália Setor Oeste]]></Title>
+      <Title><![CDATA[Apartamento 130m² 04 Quartos 02 Suítes 03 Vagas de Garagens Residencial Cabrália Setor Oeste]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3168/i4M1zHu_31686553d05207bdf.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/3168/i4M1zHu_31686553d03f357cc.jpg</Item>
@@ -25198,7 +25148,7 @@ Seu novo imóvel está aqui. Aproveite essa oportunidade!
 Entre em contato e agende sua visita!
 Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Floors>0</Floors>
-        <Garage>0</Garage>
+        <Garage>2</Garage>
         <LivingArea unit="square metres">76</LivingArea>
         <LotArea unit="square metres">76</LotArea>
         <PropertyAdministrationFee currency="BRL">500</PropertyAdministrationFee>
@@ -25593,62 +25543,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1739/in6h5z_173964e5e207545d9.jpg</Item>
       </Media>
       <TransactionType>For Rent</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>1738</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>4</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Ótimos Galpões para investimento, são 03 galpões com área edificada total de 820,00m2, com aproximadamente 30,00 mts. de frente, 06 banheiros, escritório em divisória e pé direito 6 mts., piso em granitina e frente toda gradeada, estacionamento para vários veículos.
-
-Imóvel este de esquina na Avenida do Comércio quase esquina com Avenida Meia Ponte.]]></Description>
-        <Floors>0</Floors>
-        <Garage>0</Garage>
-        <LivingArea unit="square metres">820</LivingArea>
-        <LotArea unit="square metres">820</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Industrial</PropertyType>
-        <Suites>0</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Commercial</UsageType>
-        <Iptu currency="BRL" period="Yearly">3473</Iptu>
-        <Features/>
-        <Warranties/>
-        <ListPrice currency="BRL">1650000</ListPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>do Comércio, Galpões 01 e 02</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement></Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude>-16.64178966284903</Latitude>
-        <Longitude>-49.24182061426393</Longitude>
-        <Neighborhood><![CDATA[Santa Genoveva]]></Neighborhood>
-        <PostalCode>74670-120</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>31</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>TRIPLE</PublicationType>
-      <Title><![CDATA[Galpão 820,00m² Setor Santa Genoveva.]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1f3c5ea9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1ee6b96e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1e93594c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1e427979.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1dec81da.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1da18942.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1d4ee770.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1cfba0bd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1caa45ab.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1c58da10.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/1738/iq4n7v_173863adc1c042c1e.jpg</Item>
-      </Media>
-      <TransactionType>For Sale</TransactionType>
     </Listing>
     <Listing>
       <ListingID>1722</ListingID>
