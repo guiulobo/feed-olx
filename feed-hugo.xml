@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-21T21:22:07</PublishDate>
+      <PublishDate>2026-10-22T19:57:15</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -122,7 +122,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Floors>19</Floors>
         <Garage>1</Garage>
         <LivingArea unit="square metres">72</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
+        <LotArea unit="square metres">72</LotArea>
         <PropertyAdministrationFee currency="BRL">330</PropertyAdministrationFee>
         <PropertyType>Residential / Apartment</PropertyType>
         <Suites>1</Suites>
@@ -836,6 +836,117 @@ Agende sua visita!]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5668/i9Cl39En344o_56686ac3e3f0e4cc6.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
+    </Listing>
+    <Listing>
+      <ListingID>5665</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Descrição do Imóvel:
+Apartamento 3 Quartos, 1 Suíte, 83m² para locação, Setor Aeroporto
+
+Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
+
+Detalhes do imóvel:
+- 3 Quartos
+- 1 Banheiro
+- Cozinha
+-  Sala com dois ambientes
+- Área de serviço 
+
+[Outros diferenciais: varanda, armários planejados, ar condicionado, etc.]
+
+Diferenciais do condomínio/bairro: Segurança 24h
+Área de lazer completa: piscina adulto e infantil, academia, salão de festas, playground, churrasqueira. 
+
+Localização estratégica: Próximo á praça do avião
+
+Ideal para:
+[família]
+
+Seu novo imóvel está aqui. Aproveite essa oportunidade!
+
+Entre em contato e agende sua visita!
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+        <Floors>0</Floors>
+        <Garage>2</Garage>
+        <LivingArea unit="square metres">83</LivingArea>
+        <LotArea unit="square metres">83</LotArea>
+        <PropertyAdministrationFee currency="BRL">890</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>1</Suites>
+        <UnitFloor>12</UnitFloor>
+        <UsageType>Residential</UsageType>
+        <YearBuilt>2026</YearBuilt>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features>
+          <Feature>Balcony</Feature>
+          <Feature>Cooling</Feature>
+          <Feature>Elevator</Feature>
+          <Feature>Fenced Yard</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Maids Quarters</Feature>
+          <Feature>Parking Garage</Feature>
+          <Feature>Playground</Feature>
+        </Features>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">4750</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>17 A</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>Apartamento 1203</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude>-16.6699714</Latitude>
+        <Longitude>-49.2674246</Longitude>
+        <Neighborhood><![CDATA[Setor Aeroporto]]></Neighborhood>
+        <PostalCode>74070-100</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>N 722</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento 3 Quartos, 1 Suíte, 83m² para locação, Setor Aeroporto]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a4116e42.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a3c1d4e9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a351fa1e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a3312dc9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a3743cbf.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a3a1712b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a3e422a4.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a22a5a08.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a2525663.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a2720683.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a293d72e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a2c12b5c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a2e1f489.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iP4dE2yT8rX5CoJ6737_56666ac55a3043c78.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df1e61022.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df22a3fd8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df25d03c1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df34e28ae.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df38a1578.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df3bd9ec3.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df29bb244.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df2dec541.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df47bdfbb.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df30b3bb3.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df449579a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df4c1c651.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df4f9fa25.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df53ea3cd.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df5cd4f9a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df5fb4dfd.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df6be1131.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df643dff4.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5666/iZFrdj9mV_56666ac8df67ac0f3.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
       <ListingID>5662</ListingID>
@@ -4279,91 +4390,6 @@ Entre em contato conosco e agende uma visita!]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5579/io8l1c_55796a56249127e30.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>5562</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>1</Bedrooms>
-        <Description><![CDATA[Apartamento1 Quartos ,66  m³,  para locação,  setor Leste Vila Nova
-
-Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
-
-Detalhes do imóvel:
-- 1 quartos com armários planejados
-- Cozinha americana com armário
-- 1 banheiro
-- Sala 
-- 1 vaga de garagem
-
-Diferenciais do condomínio/bairro:
-Segurança 24h
-Área de lazer: Salão de festa, playground.
-
-Localização estratégica: Próximo ao Supermercado Leve Universitário.
-
-Ideal para:
-[Família com até 2 pessoas]
-
-Seu novo imóvel está aqui. Aproveite essa oportunidade!
-
-Entre em contato e agende sua visita!
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <Floors>0</Floors>
-        <Garage>1</Garage>
-        <LivingArea unit="square metres">66</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
-        <PropertyAdministrationFee currency="BRL">381</PropertyAdministrationFee>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Suites>0</Suites>
-        <UnitFloor>1</UnitFloor>
-        <UsageType>Residential</UsageType>
-        <Iptu currency="BRL" period="Yearly">60</Iptu>
-        <Features>
-          <Feature>Elevator</Feature>
-          <Feature>Intercom</Feature>
-          <Feature>Maids Quarters</Feature>
-        </Features>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">1550</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>208</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>apto 105</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Setor Leste Vila Nova]]></Neighborhood>
-        <PostalCode>74635-055</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>231</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Apartamento1 Quartos ,66  m³,  para locação,  setor Leste Vila Nova]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde5cba361.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde52a22eb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde5a94de5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde4b9b2ec.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde4da303b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde46951ac.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde65a38a4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde3d9ae03.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde3f98df0.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde41b8304.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde609e5d8.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde4fbf792.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde565a1f7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde679dd79.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5563/iLs3MTSd43I_55636a4fde48b6f37.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
       <ListingID>5561</ListingID>
@@ -23680,6 +23706,67 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
+      <ListingID>2758</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Galpão com 420m² de área construída com as seguintes repartições:
+ 
+- 02 escritórios 
+- 02 Banheiros privativos
+
+Imóvel pronto para atender suas necessidades, abrindo ou expandindo seu negócio com conforto, praticidade e segurança.  
+ 
+Não perca oportunidade de montar seu negócio, aproveite essa oportunidade!  
+ 
+Entre em contato e agende sua visita!  
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+        <Floors>0</Floors>
+        <Garage>0</Garage>
+        <LivingArea unit="square metres">420</LivingArea>
+        <LotArea unit="square metres">420</LotArea>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <PropertyType>Commercial / Industrial</PropertyType>
+        <Suites>0</Suites>
+        <UnitFloor></UnitFloor>
+        <UsageType>Commercial</UsageType>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features/>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">4000</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>610</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>57608</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude>-16.665616</Latitude>
+        <Longitude>-49.3064344</Longitude>
+        <Neighborhood><![CDATA[Aeroviário]]></Neighborhood>
+        <PostalCode>74435-280</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>190</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Galpão 400m², para locação, Setor Aeroviário]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2758/i7DcWKr367G3_27586ada5e3468038.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2758/i7DcWKr367G3_27586ada5e1068945.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2758/i7DcWKr367G3_27586ada5e1e69a9b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2758/i7DcWKr367G3_27586ada5e1b49852.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2758/i7DcWKr367G3_27586ada5e2245a4d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2758/i7DcWKr367G3_27586ada5e2667a9e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2758/i7DcWKr367G3_27586ada5e0c47ca0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2758/i7DcWKr367G3_27586ada5e08ae0a0.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
+    </Listing>
+    <Listing>
       <ListingID>2757</ListingID>
       <ContactInfo>
         <Email>atendimento@loboimoveis.imb.br</Email>
@@ -26386,6 +26473,119 @@ Montamos seu processo de financiamento sem custo .]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/463/iu2t1s_46362d70f8126127.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
+    </Listing>
+    <Listing>
+      <ListingID>450</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Description><![CDATA[Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
+
+Detalhes do imóvel:
+- 3 quartos com armários planejados
+- 1 Suíte 
+- Cozinha separada com armários planejados 
+- 1 banheiro social 
+- Sala ampla com painel 
+- 2  vagas de garagens individuais 
+- 1 Escaninho 
+
+Diferenciais do condomínio/bairro:
+Segurança 24h
+Área de lazer completa: Salão de festa, playground.espaço Kids, academia, sauna, quadra, piscina adulto e infantil. 
+
+Localização estratégica: Próximo praça Cemaco, academia Pambianco, supermercado Store, panificadora, colégios, bancos, avenida Rio Verde e o Buriti Shopping. 
+
+Ideal para:
+[Família]
+
+Seu novo imóvel está aqui. Aproveite essa oportunidade!
+
+Entre em contato e agende sua visita!
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+        <Floors>16</Floors>
+        <Garage>2</Garage>
+        <LivingArea unit="square metres">81</LivingArea>
+        <LotArea unit="square metres">81</LotArea>
+        <PropertyAdministrationFee currency="BRL">440</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>1</Suites>
+        <UnitFloor>16</UnitFloor>
+        <UsageType>Residential</UsageType>
+        <YearBuilt>2012</YearBuilt>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features>
+          <Feature>Elevator</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Maids Quarters</Feature>
+          <Feature>Number of stories</Feature>
+          <Feature>Parking Garage</Feature>
+          <Feature>Party Room</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Sauna</Feature>
+        </Features>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">2950</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>Feira de Santana</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>Res Rio Negro  Mauriá apt1604</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude>-16.7353864</Latitude>
+        <Longitude>-49.2740311</Longitude>
+        <Neighborhood><![CDATA[Parque Amazônia]]></Neighborhood>
+        <PostalCode>74835-700</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>1618</StreetNumber>
+        <Zone></Zone>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento 3 Quartos, 1 Suíte, 81,08 m², para locação , Parque Amazônia, Goiãnia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec3684c6c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec65e5306.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec4839de1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec5f2bf6f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec629107d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec5aea0f1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec571e876.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec536e8f7.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec4c48859.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec4fd8384.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec761c31e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec727ea20.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec6ed1bfb.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec6a17fe6.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec7a03c4c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec43cd249.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec3fd5517.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec3ac72e2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec327d376.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6eca6ab82c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec81724e1.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec8517380.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec7db9167.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec8cdfc3e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6eca2aace2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec88b93ad.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec9ee3a1e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec95c9ce9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec99ddd41.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ec91cfec9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ecaad3b74.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ecb39ad66.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ecaf6c916.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/450/io9o1q_45062c6ecb7c6efa.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
       <ListingID>441</ListingID>
