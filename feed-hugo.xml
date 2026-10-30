@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-10-29T21:21:49</PublishDate>
+      <PublishDate>2026-10-30T20:27:04</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -147,8 +147,8 @@ Localizado próximo ao Flamboyant e ao Alphaville, é uma excelente opção para
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado 156m² Mobiliado 3 Quartos Suítes Piscina Condomínio Euro House Parque das Laranjeiras]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5699/i2Zxu27f317584_56996ae253dc19d29.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5699/i2Zxu27f317584_56996ae253838618c.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5699/i2Zxu27f317584_56996ae253838618c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5699/i2Zxu27f317584_56996ae253dc19d29.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5699/i2Zxu27f317584_56996ae25385b6462.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5699/i2Zxu27f317584_56996ae25388159cc.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5699/i2Zxu27f317584_56996ae25389e67f9.jpg</Item>
@@ -928,7 +928,7 @@ A área externa conta com um espaço gourmet com churrasqueira, perfeito para re
           <Feature>BBQ</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">750000</ListPrice>
+        <ListPrice currency="BRL">835000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Rua Mallorca</Address>
@@ -1903,7 +1903,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
           <Feature>Party Room</Feature>
         </Features>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">4000</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">3800</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Cananéia</Address>
@@ -3953,102 +3953,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5612/i6u4a_56126a98211337012.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5612/i6u4a_56126a98211dcdf47.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5612/i6u4a_56126a982127a2807.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>5608</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>0</Bathrooms>
-        <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Imóvel pronto para atender suas necessidades, abrindo ou expandindo seu negócio com conforto, praticidade e segurança. 
- 
-Sala comercial, na região mais aquecida e valorizada do Setor Nova Suíça.
-- 4 Banheiros
--3 Quartos
--4 Cozinhas
--2 Depósitos
--1 Sala
-1 Garagem
-
-Diferenciais do bairro:
-Infraestrutura comercial, bancária, clínicas médicas, hospitais, em frenta ao Ô Bhar Restaurante. 
-
-Antigo Mr. Sacada, entre setor Alto da Glória e Setor Pedro Ludovico. 
-
-Não perca oportunidade de montar seu negócio, aproveite essa oportunidade! 
- 
-Entre em contato e agende sua visita! 
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <Floors>0</Floors>
-        <Garage>0</Garage>
-        <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
-        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Commercial / Business</PropertyType>
-        <Suites>0</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Commercial</UsageType>
-        <Iptu currency="BRL" period="Yearly">0</Iptu>
-        <Features/>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">17000</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Engenheiro Eurico Viana</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>14309</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude></Latitude>
-        <Longitude></Longitude>
-        <Neighborhood><![CDATA[Setor Pedro Ludovico]]></Neighborhood>
-        <PostalCode>74815-541</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>00</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Loja - Av Engenheiro Eurico Viana , 654,39m², Setor Pedro Ludovico, Goiânia-GO]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96beba694f7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96bebe552e3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96beb756e7d.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96beabca67b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96beaf9a7d2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96bea79aca5.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96beb39cd24.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96bea3c14f9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be3683173.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be3a9b7cb.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be3ee5f3e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be440c458.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be479c791.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be4b9df12.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be4f7a182.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be53bf5c7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be57bd369.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be5be1b1a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be609aabd.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be649b434.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be6899bfa.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be6cbdbf3.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be7076d25.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be74bec09.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be789942c.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be7cbd3ee.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be8099aff.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be844286b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be879d209.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be8bbeca4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be8f9a154.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be93bf5e6.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be977826e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be9b9dba2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5609/i8Hw588iO475_56096a96be9f77f38.jpg</Item>
       </Media>
       <TransactionType>For Rent</TransactionType>
     </Listing>
@@ -19342,21 +19246,17 @@ Agende sua visita!]]></Description>
 
 Apartamento para locação, no Negrão de Lima com 78,00 m², 3 Quartos, 1 Suíte, 2 vagas de garagem gaveta, Residencial Recanto das Praças.  
 
-
 Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança. 
 
 Detalhes do imóvel: 
-- 3 Quartos sendo 01 suíte com guarda roupas planejado 
+-3 Quartos sendo 01 suíte com guarda roupas planejado 
 -1 Quarto em estilo escritório
 -2 Banheiros 
 -Cozinha com armario planejado
 -Sala para dois ambientes 
 -Varanda com churrasqueira
 -2 Vagas de garagem gaveta 
- 
-[Outros diferenciais: varanda, armários planejados, ar condicionado, etc.] 
 
- 
 Diferenciais do condomínio/bairro: 
 Segurança 24h 
 Área de lazer completa: piscina adulto e infantil, salão de festas, playground, quadra, churrasqueira 
@@ -19372,12 +19272,12 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Garage>2</Garage>
         <LivingArea unit="square metres">0</LivingArea>
         <LotArea unit="square metres">0</LotArea>
-        <PropertyAdministrationFee currency="BRL">490</PropertyAdministrationFee>
+        <PropertyAdministrationFee currency="BRL">700</PropertyAdministrationFee>
         <PropertyType>Residential / Apartment</PropertyType>
         <Suites>1</Suites>
         <UnitFloor></UnitFloor>
         <UsageType>Residential</UsageType>
-        <Iptu currency="BRL" period="Yearly">55</Iptu>
+        <Iptu currency="BRL" period="Yearly">150</Iptu>
         <Features>
           <Feature>Balcony</Feature>
           <Feature>Cooling</Feature>
