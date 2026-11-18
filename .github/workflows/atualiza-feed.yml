@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: atualiza-feed
@@ -25,50 +26,14 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Feed HUGO - baixa o original do Vista
+      # Uma conta com falha não impede a outra. O script publica quem
+      # passou, preserva o XML bom de quem falhou, avisa numa issue só
+      # e termina com erro se alguma conta falhou.
+      - name: Baixa, corrige e publica as duas contas
         env:
-          VISTA_URL: ${{ secrets.VISTA_FEED_URL }}
-        run: |
-          if [ -z "$VISTA_URL" ]; then
-            echo "ERRO: o secret VISTA_FEED_URL não está configurado."
-            exit 1
-          fi
-          curl -fsSL --retry 3 --retry-delay 30 --max-time 1200 \
-            -A "Mozilla/5.0 (compatible; LoboFeedBot/1.0)" \
-            -o feed_original_hugo.xml "$VISTA_URL"
-          test -s feed_original_hugo.xml || { echo "ERRO: download Hugo veio vazio."; exit 1; }
-          echo "Download Hugo: $(du -h feed_original_hugo.xml | cut -f1)"
-
-      - name: Feed HUGO - corrige, aplica destaques e valida
-        env:
+          PYTHONUNBUFFERED: '1'
+          VISTA_FEED_URL: ${{ secrets.VISTA_FEED_URL }}
+          VISTA_FEED_URL_LOBO: ${{ secrets.VISTA_FEED_URL_LOBO }}
           PORTAIS_LISTA_SIGILO: ${{ secrets.PORTAIS_LISTA_SIGILO }}
-        run: python3 corrige_feed.py feed_original_hugo.xml feed-hugo.xml destaques_hugo.csv
-
-      - name: Feed LOBO - baixa, corrige e valida
-        env:
-          VISTA_URL_LOBO: ${{ secrets.VISTA_FEED_URL_LOBO }}
-          PORTAIS_LISTA_SIGILO: ${{ secrets.PORTAIS_LISTA_SIGILO }}
-        run: |
-          if [ -z "$VISTA_URL_LOBO" ]; then
-            echo "ERRO: o secret VISTA_FEED_URL_LOBO não está configurado."
-            exit 1
-          fi
-          curl -fsSL --retry 3 --retry-delay 30 --max-time 1200 \
-            -A "Mozilla/5.0 (compatible; LoboFeedBot/1.0)" \
-            -o feed_original_lobo.xml "$VISTA_URL_LOBO"
-          test -s feed_original_lobo.xml || { echo "ERRO: download Lobo veio vazio."; exit 1; }
-          echo "Download Lobo: $(du -h feed_original_lobo.xml | cut -f1)"
-          python3 corrige_feed.py feed_original_lobo.xml feed-lobo.xml destaques_lobo.csv
-
-      - name: Publica (só se houver mudança)
-        run: |
-          git config user.name "robo-feed"
-          git config user.email "actions@users.noreply.github.com"
-          git add feed-hugo.xml feed-lobo.xml
-          if git diff --cached --quiet; then
-            echo "Feeds sem mudanças. Nada a publicar."
-          else
-            git commit -m "Atualiza feeds corrigidos ($(date -u +'%d/%m/%Y %H:%M UTC'))"
-            git push
-            echo "Feeds publicados. GitHub Pages atualiza em 1-2 min."
-          fi
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 orquestra_feed.py

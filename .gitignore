@@ -2,3 +2,11 @@
 lista_sigilo.csv
 lista_sigilo.json
 lista_sigilo.txt
+
+# Sobras de uma rodada. O XML cru do Vista não entra no Git.
+*.tmp
+feed_original_*.xml
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.coverage
