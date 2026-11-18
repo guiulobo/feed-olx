@@ -30,7 +30,8 @@ def test_t5_leitura_e_a_variavel():
     assert 'print(texto' not in fonte
 
     workflow = (RAIZ / '.github' / 'workflows' / 'atualiza-feed.yml').read_text(encoding='utf-8')
-    assert workflow.count('PORTAIS_LISTA_SIGILO: ${{ secrets.PORTAIS_LISTA_SIGILO }}') == 2
+    # As duas contas passam pelo mesmo passo, que recebe a lista do secret.
+    assert workflow.count('PORTAIS_LISTA_SIGILO: ${{ secrets.PORTAIS_LISTA_SIGILO }}') == 1
     assert IM_SIGILO not in workflow
     assert IM_SIGILO not in fonte
 
