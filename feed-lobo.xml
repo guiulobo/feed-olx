@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-11-19T14:58:38</PublishDate>
+      <PublishDate>2026-11-20T14:33:41</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -71,7 +71,7 @@
         <Name>LOBO IMOVEIS</Name>
       </ContactInfo>
       <Details>
-        <Bathrooms>0</Bathrooms>
+        <Bathrooms>3</Bathrooms>
         <Bedrooms>4</Bedrooms>
         <Description><![CDATA[Sobrado para venda, Jardins Marselha, 181 m², 4 quartos, 3 suítes, 4 vagas de garagem.
 
@@ -629,8 +629,8 @@ Seu novo imóvel está aqui. Aproveite essa oportunidade!
 Entre em contato e agende sua visita!
 Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Garage>1</Garage>
-        <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
+        <LivingArea unit="square metres">78</LivingArea>
+        <LotArea unit="square metres">78</LotArea>
         <PropertyAdministrationFee currency="BRL">700</PropertyAdministrationFee>
         <PropertyType>Residential / Apartment</PropertyType>
         <Suites>1</Suites>
@@ -1388,8 +1388,8 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento Mobiliado 2 Quartos 1 Suíte 70 m² para locação Setor Parque Amazonia Goiania]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iVfb3169252V8I1_56736ae0e9bc257cf.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552b9df4ff.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552b9df4ff.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iVfb3169252V8I1_56736ae0e9bc257cf.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552d04cd3e.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/i6krf3F83oj_56736ac52ccfc427e.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5673/iR6621WwEv48Wu1989_56736ac552bf62391.jpg</Item>
@@ -4937,8 +4937,8 @@ Não perca oportunidade de montar seu negócio, aproveite essa oportunidade!
  
 Entre em contato e agende sua visita!  
 Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">0</LotArea>
+        <LivingArea unit="square metres">60</LivingArea>
+        <LotArea unit="square metres">60</LotArea>
         <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
         <PropertyType>Commercial / Industrial</PropertyType>
         <Iptu currency="BRL" period="Yearly">500</Iptu>
@@ -12006,8 +12006,8 @@ Entre em contato e agende sua visita!
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado Comercial 3 Salas, 2 banheiros, 160 m², para locação, Setor Sul, Goiania]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5101/iw2r8u_51016904e209eaa35.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5101/iw2r8u_51016904e250b7762.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5101/iw2r8u_51016904e250b7762.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5101/iw2r8u_51016904e209eaa35.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5101/iw2r8u_51016904e20571c5d.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5101/iw2r8u_51016904e20c0c614.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5101/iw2r8u_51016904e20e4603c.jpg</Item>
@@ -13112,14 +13112,14 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Apartamento 02 Quartos, 01 Suíte, 64 m²,  Parque Amazônia]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb5bef96c.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb457071a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb5bef96c.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb3a05a78.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb57909b1.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb409aa0b.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb3c2f3ae.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb536c5ed.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb4359cf9.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb457071a.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb4db1e4c.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb5185e78.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4986/im8v9m_498668a5fb5587ad8.jpg</Item>
@@ -16061,7 +16061,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Name>LOBO IMOVEIS</Name>
       </ContactInfo>
       <Details>
-        <Bathrooms>0</Bathrooms>
+        <Bathrooms>2</Bathrooms>
         <Bedrooms>3</Bedrooms>
         <Description><![CDATA[Casa Residencial 03 Quartos, 01 Suíte, sala ampla com pé direito 4 metros, sanca, parede 3D, e leads, cozinha americana,  banheiro social, área de serviço coberta, área gourmet com churrasqueira, ducha, cerca elétrica, alarme, garagem. Próxima do Shopping Aparecida.]]></Description>
         <Garage>2</Garage>
