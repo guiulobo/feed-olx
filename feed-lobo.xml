@@ -5,9 +5,59 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-11-22T13:49:44</PublishDate>
+      <PublishDate>2026-11-23T17:42:39</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
+    <Listing>
+      <ListingID>5728</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Lote para venda, Parque Amazônia, 400 m².
+
+Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
+
+Detalhes do imóvel:
+
+Ideal para:
+[Solteiros ou casal]
+
+Seu novo imóvel está aqui. Aproveite essa oportunidade!
+Entre em contato e agende sua visita!
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+        <LivingArea unit="square metres">0</LivingArea>
+        <LotArea unit="square metres">0</LotArea>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features/>
+        <Warranties/>
+        <ListPrice currency="BRL">2000000</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <Address>Rua Ipoméia (esquina Com Rua Muiraquitã)</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Neighborhood><![CDATA[Parque Amazônia]]></Neighborhood>
+        <PostalCode>74840-110</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>SN</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Lote 400 m² para venda, Parque Amazônia, Goiânia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048fe91a1e2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048fed38f50.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048ff07cc39.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048ff478ba8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048ff79927f.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing>
     <Listing>
       <ListingID>5727</ListingID>
       <ContactInfo>
@@ -401,7 +451,7 @@ Agende sua visita com a Lobo Imóveis.]]></Description>
         <Iptu currency="BRL" period="Yearly">0</Iptu>
         <Features/>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">5000</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">3500</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -3319,7 +3369,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Iptu currency="BRL" period="Yearly">460</Iptu>
         <Features/>
         <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">14000</RentalPrice>
+        <RentalPrice currency="BRL" period="Monthly">12000</RentalPrice>
       </Details>
       <Location displayAddress="All">
         <Address>15</Address>
@@ -11157,7 +11207,7 @@ Entre em contato e saiba mais!]]></Description>
         <Iptu currency="BRL" period="Yearly">0</Iptu>
         <Features/>
         <Warranties/>
-        <ListPrice currency="BRL">4500000</ListPrice>
+        <ListPrice currency="BRL">4700000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Goias Esquina Com Rua 61 Qd. 128</Address>
@@ -16597,7 +16647,7 @@ O Residencial Olinda é um bairro de perfil predominantemente residencial, com a
           <Feature>Maids Quarters</Feature>
         </Features>
         <Warranties/>
-        <ListPrice currency="BRL">350000</ListPrice>
+        <ListPrice currency="BRL">390000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -18960,15 +19010,15 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
       <Details>
         <Bathrooms>0</Bathrooms>
         <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Área total de 4.016,00 m², uma pequena edificação.]]></Description>
+        <Description><![CDATA[Área total de 3.868,00 m², uma pequena edificação.]]></Description>
         <LivingArea unit="square metres">0</LivingArea>
-        <LotArea unit="square metres">4016</LotArea>
+        <LotArea unit="square metres">3868</LotArea>
         <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
         <PropertyType>Residential / Land Lot</PropertyType>
         <Iptu currency="BRL" period="Yearly">12700</Iptu>
         <Features/>
         <Warranties/>
-        <ListPrice currency="BRL">3500000</ListPrice>
+        <ListPrice currency="BRL">2900000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Anhanguera</Address>
@@ -18982,7 +19032,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <State abbreviation="GO">Goiás</State>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Área comercial Chácara 4.016,00m² Avenida Anhanguera Setor Rodoviário]]></Title>
+      <Title><![CDATA[Área comercial Chácara 3.868,,00m² Avenida Anhanguera Setor Rodoviário]]></Title>
       <Media>
         <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2209/i557v_22096818f644916ea.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/2209/isfolEaC577d_22096818f58fc4495.jpg</Item>
@@ -19953,6 +20003,74 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/441/im2n5a_44163bead1e8e463.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/441/im2n5a_44163bead18dfc43.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/441/im2n5a_44163bead133222f.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing>
+    <Listing>
+      <ListingID>378</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Description><![CDATA[Apartamento à venda no Setor Bueno, com 45 m², localizado ao lado do Edifício Aquarius, acima da Avenida T-63.
+
+O imóvel conta com 1 suíte com armários, cozinha com armários, sala com sacada, área de serviço e 1 vaga de garagem.
+
+O condomínio oferece uma excelente área de lazer, com churrasqueira, salão de festas, piscina e quadra de esportes.
+
+Com localização estratégica e fácil acesso a comércios e serviços, o imóvel oferece praticidade e conforto para quem busca morar bem em uma das regiões mais valorizadas de Goiânia.
+
+Aproveite essa oportunidade! Entre em contato e agende sua visita!]]></Description>
+        <Floors>1</Floors>
+        <Garage>1</Garage>
+        <LivingArea unit="square metres">45</LivingArea>
+        <LotArea unit="square metres">45</LotArea>
+        <PropertyAdministrationFee currency="BRL">400</PropertyAdministrationFee>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Suites>1</Suites>
+        <YearBuilt>1990</YearBuilt>
+        <Iptu currency="BRL" period="Yearly">115</Iptu>
+        <Features>
+          <Feature>Elevator</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Party Room</Feature>
+        </Features>
+        <Warranties/>
+        <ListPrice currency="BRL">260000</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Address>T-36</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Complement>Apto 1401 D</Complement>
+        <Country abbreviation="BR">Brasil</Country>
+        <Latitude>-16.714943899021225</Latitude>
+        <Longitude>-49.26483244973156</Longitude>
+        <Neighborhood><![CDATA[Setor Bueno]]></Neighborhood>
+        <PostalCode>74223-052</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>3334</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Apartamento 45m² 1 Quarto 1 suíte Setor Bueno Goiânia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04932878cff.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04933172e7c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04933e27e74.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b049340206b5.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04932a7a279.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04932ebed4c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04932c9266c.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04933694184.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04933900528.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04933b49ea0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04931e8130f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04932102326.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b049323a6fcd.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04932607cef.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/378/ijI83EIop7p9_3786b04933426ac2.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
