@@ -5,9 +5,55 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-11-23T17:42:39</PublishDate>
+      <PublishDate>2026-11-24T17:15:19</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
+    <Listing>
+      <ListingID>5729</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Excelente oportunidade de investimento! Lote com 313,15 m², localizado em posição de contra esquina, com 10,00 metros de frente, 10,30 metros de fundo, 30,08 metros pela lateral direita e 32,55 metros pela lateral esquerda.
+
+O imóvel está situado ao lado de uma avenida movimentada, em região com forte presença de comércios e a poucos metros do Supermercado Barão, proporcionando ótima localização e visibilidade para empreendimentos comerciais.
+
+O lote encontra-se murado nas duas laterais e nos fundos, com a frente livre. Está quitado, registrado, livre e desembaraçado, pronto para negociação.]]></Description>
+        <LivingArea unit="square metres">0</LivingArea>
+        <LotArea unit="square metres">0</LotArea>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Iptu currency="BRL" period="Yearly">0</Iptu>
+        <Features/>
+        <Warranties/>
+        <ListPrice currency="BRL">180000</ListPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <Address>Grande</Address>
+        <City><![CDATA[Aparecida de Goiânia]]></City>
+        <Neighborhood><![CDATA[Jardim Buriti Sereno]]></Neighborhood>
+        <PostalCode>74943-190</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>SN</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Lote 313,15 m² Jardim Buriti Sereno Aparecida de Goiânia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5730/i3gXk_57306b05a3f55af5a.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5730/ijFt3Lca4kl493f8yV7d1_57306b0494420c2a0.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5730/ijFt3Lca4kl493f8yV7d1_57306b049445b3dc2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5730/ijFt3Lca4kl493f8yV7d1_57306b049449077b2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5730/ijFt3Lca4kl493f8yV7d1_57306b04944d157e8.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5730/ijFt3Lca4kl493f8yV7d1_57306b0494513d450.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5730/i3gXk_57306b05a3ef97ed4.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5730/i3gXk_57306b05a3faced13.jpg</Item>
+      </Media>
+      <TransactionType>For Sale</TransactionType>
+    </Listing>
     <Listing>
       <ListingID>5728</ListingID>
       <ContactInfo>
@@ -17,22 +63,17 @@
       <Details>
         <Bathrooms>0</Bathrooms>
         <Bedrooms>0</Bedrooms>
-        <Description><![CDATA[Lote para venda, Parque Amazônia, 400 m².
+        <Description><![CDATA[Excelente área de terreno com 1.343,50 m², composta por três lotes, sendo: Lote 10 com 406,00 m², Lote 11 com 544,40 m² e Lote 12 com 393,10 m², totalizando 1.343,50 m² de área.
 
-Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança.
+O imóvel conta ainda com aproximadamente 400 m² de área edificada e está localizado em lote de esquina, oferecendo excelente visibilidade e potencial de aproveitamento.
 
-Detalhes do imóvel:
+Existe também a possibilidade de ampliação da área por meio da aquisição dos lotes vizinhos, que acrescentariam mais 954,00 m², podendo alcançar uma área total de 2.297,50 m². Importante destacar que essa ampliação é apenas uma possibilidade, não estando incluída na área atualmente ofertada. A eventual aquisição dos lotes adicionais será objeto de negociação independente, com valor a ser tratado separadamente, mediante consulta e negociação.
 
-Ideal para:
-[Solteiros ou casal]
-
-Seu novo imóvel está aqui. Aproveite essa oportunidade!
-Entre em contato e agende sua visita!
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+Localização estratégica, a apenas uma quadra da Avenida Rio Verde, a aproximadamente 350 metros da agência dos Correios da Vila Brasília e a 1 km do Buriti Shopping. Também está próxima à Avenida Antônio Fidélis, em uma região com ampla variedade de comércios, serviços e facilidades de acesso, proporcionando praticidade e potencial de valorização.]]></Description>
         <LivingArea unit="square metres">0</LivingArea>
         <LotArea unit="square metres">0</LotArea>
         <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
-        <PropertyType>Residential / Land Lot</PropertyType>
+        <PropertyType>Commercial / Building</PropertyType>
         <Iptu currency="BRL" period="Yearly">0</Iptu>
         <Features/>
         <Warranties/>
@@ -48,13 +89,18 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <StreetNumber>SN</StreetNumber>
       </Location>
       <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Lote 400 m² para venda, Parque Amazônia, Goiânia]]></Title>
+      <Title><![CDATA[Área 1.343,50m² Parque Amazônia Goiânia]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048fe91a1e2.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048fed38f50.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/i7YMs8_57296b059ad6a877e.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/igRX547WWZ7B8J9jXu49_57296b059bc336e52.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048ff07cc39.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048fe91a1e2.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048fed38f50.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048ff478ba8.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/iki23w1Un6q61k_57296b048ff79927f.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/i7YMs8_57296b059ad15ab24.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/i7YMs8_57296b059ad38c66d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5729/igRX547WWZ7B8J9jXu49_57296b059bc59a63a.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
@@ -5066,7 +5112,6 @@ Localizado em uma das regiões que mais crescem na Grande Goiânia, o Urban Resi
       <Location displayAddress="All">
         <Address>Princesa Isabel</Address>
         <City><![CDATA[Aparecida de Goiânia]]></City>
-        <Complement>Qd 09 Lt 17a</Complement>
         <Country abbreviation="BR">Brasil</Country>
         <Neighborhood><![CDATA[Jardim Imperial]]></Neighborhood>
         <PostalCode>74914-646</PostalCode>
@@ -5075,8 +5120,9 @@ Localizado em uma das regiões que mais crescem na Grande Goiânia, o Urban Resi
       <PublicationType>PREMIUM</PublicationType>
       <Title><![CDATA[Sobrado 143m² 3 Quartos 3 Suítes Condomínio Urban Residence Jardim Imperial Aparecida de Goiânia]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aabfe9a1a4.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aabf8a95f3.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aac02a375d.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aabfe9a1a4.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aac30c2efb.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aac070f186.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aac24a765c.jpg</Item>
@@ -5092,7 +5138,6 @@ Localizado em uma das regiões que mais crescem na Grande Goiânia, o Urban Resi
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aac16d6c80.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aac0510d94.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aabf1c457e.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aabf8a95f3.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aabf66d20e.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aac34eedff.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5514/ip7l8h_55146a2aac2e8c23c.jpg</Item>
@@ -7111,9 +7156,10 @@ Situada em uma excelente localização, próxima ao Country Clube de Goiás, a c
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Casa 74m² 3 Quartos 1 Suíte Condomínio Village Paineiras Chácara São Pedro Aparecida de Goiânia]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679d383b51.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679df48d0b.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679d89b574.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679d383b51.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679e7f3862.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679df48d0b.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679e39bf70.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679dad4301.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679dd27fc6.jpg</Item>
@@ -7131,7 +7177,6 @@ Situada em uma excelente localização, próxima ao Country Clube de Goiás, a c
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e67a004b144.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679ee3b85d.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679ebda94f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679d89b574.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679d5e66fd.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679d141e49.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5416/is6x1t_541669e679e186ad5.jpg</Item>
@@ -15381,8 +15426,9 @@ Agende sua visita!]]></Description>
       <PublicationType>STANDARD</PublicationType>
       <Title><![CDATA[Sobrado em Condomínio 04 Quartos 01 Suíte 145 m² Área de Lazer Jardim América Goiânia]]></Title>
       <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ivxMX_423968ecff72a2c50.jpg</Item>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ivxMX_423968ecff5bdd5f2.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ivxMX_423968ecff30e6e20.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ivxMX_423968ecff72a2c50.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ivxMX_423968ecff2a5d655.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ivxMX_423968ecff4585e44.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ivxMX_423968ecff357f3e6.jpg</Item>
@@ -15422,7 +15468,6 @@ Agende sua visita!]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ie8j0u_4239675720946c825.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ivxMX_423968ecff4cbd7e6.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ie8j0u_4239675720dfd2df4.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/4239/ivxMX_423968ecff5bdd5f2.jpg</Item>
       </Media>
       <TransactionType>For Sale</TransactionType>
     </Listing>
