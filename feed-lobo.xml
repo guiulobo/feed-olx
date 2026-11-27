@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-11-26T16:00:25</PublishDate>
+      <PublishDate>2026-11-27T15:45:54</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -8684,7 +8684,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <LotArea unit="square metres">180</LotArea>
         <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
         <PropertyType>Commercial / Business</PropertyType>
-        <Iptu currency="BRL" period="Yearly">70</Iptu>
+        <Iptu currency="BRL" period="Yearly">100</Iptu>
         <Features/>
         <Warranties/>
         <RentalPrice currency="BRL" period="Monthly">2500</RentalPrice>
@@ -8708,6 +8708,64 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5345/iXY439Q82ttAG58o3M3_534569b173fbac94c.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5345/iXY439Q82ttAG58o3M3_534569b173ed30d30.jpg</Item>
         <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5345/iXY439Q82ttAG58o3M3_534569b1740532703.jpg</Item>
+      </Media>
+      <TransactionType>For Rent</TransactionType>
+    </Listing>
+    <Listing>
+      <ListingID>5342</ListingID>
+      <ContactInfo>
+        <Email>atendimento@loboimoveis.imb.br</Email>
+        <Name>LOBO IMOVEIS</Name>
+      </ContactInfo>
+      <Details>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Description><![CDATA[Loja Comercial Av. Gonzaga Jaime, 32,00 m², Vila Redenção, Goiânia
+
+Detalhes do imóvel:
+- Sala nunca habitada
+- Portas automáticas
+- 1 banheiro
+
+Imóvel pronto para atender suas necessidades, abrindo ou expandindo seu negócio com conforto, praticidade e segurança.
+
+Sala comercial na região mais aquecida e valorizada da Vila Redenção.
+
+Diferenciais do bairro:
+Infraestrutura comercial, bancária, clínicas médicas, hospitais, próximo ao Hospital e Maternidade Dona Iris e ao Flamboyant Shopping.
+
+Não perca oportunidade de montar seu negócio, aproveite essa oportunidade!
+
+Entre em contato e agende sua visita!
+Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
+        <LivingArea unit="square metres">32</LivingArea>
+        <LotArea unit="square metres">180</LotArea>
+        <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+        <PropertyType>Commercial / Business</PropertyType>
+        <Iptu currency="BRL" period="Yearly">100</Iptu>
+        <Features/>
+        <Warranties/>
+        <RentalPrice currency="BRL" period="Monthly">2500</RentalPrice>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <Address>Gonzaga Jaime</Address>
+        <City><![CDATA[Goiânia]]></City>
+        <Neighborhood><![CDATA[Vila Redenção]]></Neighborhood>
+        <PostalCode>74845-360</PostalCode>
+        <State abbreviation="GO">Goiás</State>
+        <StreetNumber>SN</StreetNumber>
+      </Location>
+      <PublicationType>STANDARD</PublicationType>
+      <Title><![CDATA[Loja Comercial Av. Gonzaga Jaime, 32,00 m², Vila Redenção, Goiânia]]></Title>
+      <Media>
+        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5343/inO15c326552F15M34_534369b152023b4dc.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5343/inO15c326552F15M34_534369b152056e6b3.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5343/i2R1IEVUc1O6f_534369b06f86684f9.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5343/i2R1IEVUc1O6f_534369b06f8e2cd7b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5343/i2R1IEVUc1O6f_534369b06f9232da3.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5343/i2R1IEVUc1O6f_534369b06f9c24b5b.jpg</Item>
+        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5343/i2R1IEVUc1O6f_534369b06fa47e820.jpg</Item>
       </Media>
       <TransactionType>For Rent</TransactionType>
     </Listing>
@@ -12659,76 +12717,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="c19731970722623dda1b902a25fd98c1_b75e8ea7-f3ce-486e-856e-dc0f315619d9">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5042/iv6t2m_504268dbc1e9708dc.jpg</Item>
       </Media>
       <TransactionType>Sale/Rent</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>5038</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Casa 2 Quartos, 55m², Setor Campinas. 
-  
-Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança. 
-
-Detalhes do imóvel: 
--2 Quartos 
--1 Banheiro Social 
--Cozinha 
--Sala
--1 Vaga de garagem 
- 
-[Outros diferenciais: Residencial fechado ] 
- 
-Localização estratégica: Próximo ao terminal praça A e faculdade UniCamps 
- 
-Ideal para: 
-[família] 
- 
-Seu novo imóvel está aqui. Aproveite essa oportunidade! 
-Entre em contato e agende sua visita! 
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <Garage>1</Garage>
-        <LivingArea unit="square metres">55</LivingArea>
-        <LotArea unit="square metres">55</LotArea>
-        <PropertyAdministrationFee currency="BRL">80</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <YearBuilt>2007</YearBuilt>
-        <Iptu currency="BRL" period="Yearly">38</Iptu>
-        <Features/>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">1500</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Emília Sasse</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Casa 01</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude>-16.664344258259398</Latitude>
-        <Longitude>-49.29193559268958</Longitude>
-        <Neighborhood><![CDATA[Setor Campinas]]></Neighborhood>
-        <PostalCode>74520-030</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>191</StreetNumber>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa 2 Quartos, 55m², Setor Campinas.]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5930f5ad79.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d59315438c7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5931f7c40a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d593134a12f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5931baaaea.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d593196086f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d593175e289.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5931d87921.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d593115018b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5932b77e6f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5932f620d1.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
       <ListingID>5029</ListingID>
@@ -19554,7 +19542,7 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Iptu currency="BRL" period="Yearly">0</Iptu>
         <Features/>
         <Warranties/>
-        <ListPrice currency="BRL">2650000</ListPrice>
+        <ListPrice currency="BRL">1600000</ListPrice>
       </Details>
       <Location displayAddress="All">
         <Address>Pedreira Qd.44</Address>
