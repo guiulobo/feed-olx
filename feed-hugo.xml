@@ -5,7 +5,7 @@
       <Provider>Vista</Provider>
       <Email>portais@vistasoft.com.br</Email>
       <ContactName>LOBO IMOVEIS</ContactName>
-      <PublishDate>2026-11-26T22:21:42</PublishDate>
+      <PublishDate>2026-11-27T22:21:38</PublishDate>
       <Telephone>48-3220 0962</Telephone>
     </Header>
     <Listing>
@@ -13914,83 +13914,6 @@ Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
         <Item medium="image" caption="c19731970722623dda1b902a25fd98c1_b75e8ea7-f3ce-486e-856e-dc0f315619d9">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5042/iv6t2m_504268dbc1e9708dc.jpg</Item>
       </Media>
       <TransactionType>Sale/Rent</TransactionType>
-    </Listing>
-    <Listing>
-      <ListingID>5038</ListingID>
-      <ContactInfo>
-        <Email>atendimento@loboimoveis.imb.br</Email>
-        <Name>LOBO IMOVEIS</Name>
-      </ContactInfo>
-      <Details>
-        <Bathrooms>1</Bathrooms>
-        <Bedrooms>2</Bedrooms>
-        <Description><![CDATA[Casa 2 Quartos, 55m², Setor Campinas. 
-  
-Imóvel pronto para atender suas necessidades com conforto, praticidade e segurança. 
-
-Detalhes do imóvel: 
--2 Quartos 
--1 Banheiro Social 
--Cozinha 
--Sala
--1 Vaga de garagem 
- 
-[Outros diferenciais: Residencial fechado ] 
- 
-Localização estratégica: Próximo ao terminal praça A e faculdade UniCamps 
- 
-Ideal para: 
-[família] 
- 
-Seu novo imóvel está aqui. Aproveite essa oportunidade! 
-Entre em contato e agende sua visita! 
-Telefone: 62 3018.2500 | WhatsApp: 62 99831.0020]]></Description>
-        <Floors>0</Floors>
-        <Garage>1</Garage>
-        <LivingArea unit="square metres">55</LivingArea>
-        <LotArea unit="square metres">55</LotArea>
-        <PropertyAdministrationFee currency="BRL">80</PropertyAdministrationFee>
-        <PropertyType>Residential / Home</PropertyType>
-        <Suites>0</Suites>
-        <UnitFloor></UnitFloor>
-        <UsageType>Residential</UsageType>
-        <YearBuilt>2007</YearBuilt>
-        <Iptu currency="BRL" period="Yearly">38</Iptu>
-        <Features>
-          <Feature>Parking Garage</Feature>
-        </Features>
-        <Warranties/>
-        <RentalPrice currency="BRL" period="Monthly">1500</RentalPrice>
-      </Details>
-      <Location displayAddress="All">
-        <Address>Emília Sasse</Address>
-        <City><![CDATA[Goiânia]]></City>
-        <Complement>Casa 01</Complement>
-        <Country abbreviation="BR">Brasil</Country>
-        <Latitude>-16.664344258259398</Latitude>
-        <Longitude>-49.29193559268958</Longitude>
-        <Neighborhood><![CDATA[Setor Campinas]]></Neighborhood>
-        <PostalCode>74520-030</PostalCode>
-        <State abbreviation="GO">Goiás</State>
-        <StreetNumber>191</StreetNumber>
-        <Zone></Zone>
-      </Location>
-      <PublicationType>STANDARD</PublicationType>
-      <Title><![CDATA[Casa 2 Quartos, 55m², Setor Campinas.]]></Title>
-      <Media>
-        <Item medium="image" caption="" primary="true">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5930f5ad79.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d59315438c7.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5931f7c40a.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d593134a12f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5931baaaea.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d593196086f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d593175e289.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5931d87921.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d593115018b.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5932b77e6f.jpg</Item>
-        <Item medium="image" caption="">https://cdn.vistahost.com.br/loboimov/vista.imobi/fotos/5039/iz3b5y_503968d5932f620d1.jpg</Item>
-      </Media>
-      <TransactionType>For Rent</TransactionType>
     </Listing>
     <Listing>
       <ListingID>5029</ListingID>
